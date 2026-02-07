@@ -72,7 +72,7 @@ mcp-ibermutua/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<tu-usuario>/mcp-ibermutua.git
+git clone https://github.com/Macarinass/mcp-ibermutua.git
 cd mcp-ibermutua
 
 # 2. Instalar Playwright y el navegador Chromium
