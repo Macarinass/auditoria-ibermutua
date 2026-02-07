@@ -1,0 +1,1044 @@
+{
+  "summary": {
+    "generated": "2026-02-07T16:56:13.956Z",
+    "total_unique_colors": 28,
+    "pages_analyzed": 12,
+    "per_category_count": {
+      "textColor": 12,
+      "backgroundColor": 9,
+      "borderColor": 13,
+      "iconColor": 1,
+      "linkColor": 10,
+      "buttonColor": 9,
+      "shadowColor": 7,
+      "gradients": 3
+    }
+  },
+  "global": {
+    "textColor": [
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "total_count": 510,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a.skip-link.screen-reader-text",
+          "a"
+        ]
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 1,
+        "total_count": 224,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a",
+          "div.title",
+          "span.read-minus",
+          "strong",
+          "label"
+        ]
+      },
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "total_count": 220,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a",
+          "p.description",
+          "h1",
+          "div.post-title",
+          "h1.entry-title"
+        ]
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "total_count": 91,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a"
+        ]
+      },
+      {
+        "hex": "#004799",
+        "alpha": 1,
+        "total_count": 59,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "h1.entry-title",
+          "div.date",
+          "a.category-link",
+          "label"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "total_count": 57,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "button.btn.search-centros",
+          "a",
+          "div.day",
+          "h2.wp-block-heading",
+          "p"
+        ]
+      },
+      {
+        "hex": "#000000",
+        "alpha": 1,
+        "total_count": 9,
+        "pages_seen": [
+          "red-centros",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "span",
+          "h3.wp-block-heading.has-black-color",
+          "h2.wp-block-heading.has-black-color"
+        ]
+      },
+      {
+        "hex": "#2782ad",
+        "alpha": 1,
+        "total_count": 5,
+        "pages_seen": [
+          "formularios"
+        ],
+        "samples": [
+          "h4.wp-block-heading.has-text-color"
+        ]
+      },
+      {
+        "hex": "#738aa0",
+        "alpha": 1,
+        "total_count": 3,
+        "pages_seen": [
+          "servicio-detalle",
+          "tramite-detalle"
+        ],
+        "samples": [
+          "em"
+        ]
+      },
+      {
+        "hex": "#0078a8",
+        "alpha": 1,
+        "total_count": 1,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "a"
+        ]
+      },
+      {
+        "hex": "#292a2c",
+        "alpha": 1,
+        "total_count": 1,
+        "pages_seen": [
+          "noticia-detalle"
+        ],
+        "samples": [
+          "h2"
+        ]
+      },
+      {
+        "hex": "#595d6e",
+        "alpha": 1,
+        "total_count": 1,
+        "pages_seen": [
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a.page"
+        ]
+      }
+    ],
+    "backgroundColor": [
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "total_count": 198,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "body.home.wp-singular",
+          "header.site-header",
+          "a.wp-block-button__link.wp-element-button",
+          "body.wp-singular.page-template-default",
+          "body.wp-singular.servicio-template-default"
+        ]
+      },
+      {
+        "hex": "#ecf6fe",
+        "alpha": 1,
+        "total_count": 179,
+        "pages_seen": [
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "faqs",
+          "tramite-detalle"
+        ],
+        "samples": [
+          "a",
+          "div.wp-block-column.is-layout-flow",
+          "a.title-content",
+          "label",
+          "div.title-content"
+        ]
+      },
+      {
+        "hex": "#f5f8fa",
+        "alpha": 1,
+        "total_count": 76,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "div.top-header",
+          "header.entry-header",
+          "div.wp-block-group.alignfull",
+          "main.site-main",
+          "div.entry-header-content.alignfull"
+        ]
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "total_count": 36,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a.wp-block-button__link.wp-element-button",
+          "button.btn.search-centros",
+          "div.wp-block-group.block-ibermutua-digital",
+          "div.wp-block-group.alignwide",
+          "figure.wp-block-image.size-large"
+        ]
+      },
+      {
+        "hex": "#0056a7",
+        "alpha": 1,
+        "total_count": 12,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "div.cky-btn-revisit-wrapper.cky-revisit-bottom-left"
+        ]
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 1,
+        "total_count": 9,
+        "pages_seen": [
+          "empresas",
+          "red-centros"
+        ],
+        "samples": [
+          "div.widget_nav_menu",
+          "div.leaflet-marker-icon.marker-cluster",
+          "div"
+        ]
+      },
+      {
+        "hex": "#000000",
+        "alpha": 1,
+        "total_count": 3,
+        "pages_seen": [
+          "servicios",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "span.wp-block-cover__background.has-background-dim-0",
+          "div.wp-block-getwid-media-text-slider-slide-content__media-overlay"
+        ]
+      },
+      {
+        "hex": "#dddddd",
+        "alpha": 1,
+        "total_count": 1,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "div.leaflet-container.leaflet-touch"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 0.8,
+        "total_count": 1,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "div"
+        ]
+      }
+    ],
+    "borderColor": [
+      {
+        "hex": "#ebeff2",
+        "alpha": 1,
+        "total_count": 337,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "div.site-header-container",
+          "a.title-content",
+          "div.row-read",
+          "select",
+          "div.item-post.post-id-45143"
+        ]
+      },
+      {
+        "hex": "#eeeeee",
+        "alpha": 1,
+        "total_count": 114,
+        "pages_seen": [
+          "formularios"
+        ],
+        "samples": [
+          "div.wp-block-getwid-accordion__header-wrapper.ui-accordion-header"
+        ]
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "total_count": 88,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a.wp-block-button__link.wp-element-button"
+        ]
+      },
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "total_count": 72,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "li.menu-item.menu-item-type-post_type"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "total_count": 48,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a.wp-block-button__link.wp-element-button"
+        ]
+      },
+      {
+        "hex": "#ebeef1",
+        "alpha": 1,
+        "total_count": 30,
+        "pages_seen": [
+          "formularios"
+        ],
+        "samples": [
+          "li.wp-block-getwid-tabs__nav-link.ui-tabs-tab"
+        ]
+      },
+      {
+        "hex": "#d1d9e0",
+        "alpha": 1,
+        "total_count": 26,
+        "pages_seen": [
+          "home",
+          "red-centros",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle"
+        ],
+        "samples": [
+          "input",
+          "select.provinces",
+          "input.search-input"
+        ]
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 0.5,
+        "total_count": 16,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "div.leaflet-marker-icon.marker-cluster"
+        ]
+      },
+      {
+        "hex": "#9eaebd",
+        "alpha": 0.5,
+        "total_count": 14,
+        "pages_seen": [
+          "faqs"
+        ],
+        "samples": [
+          "div.question"
+        ]
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 0.5,
+        "total_count": 12,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "div.leaflet-marker-icon.marker-cluster"
+        ]
+      },
+      {
+        "hex": "#000000",
+        "alpha": 0.2,
+        "total_count": 4,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "div.leaflet-control-zoom.leaflet-bar"
+        ]
+      },
+      {
+        "hex": "#cccccc",
+        "alpha": 1,
+        "total_count": 1,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "a.leaflet-control-zoom-in"
+        ]
+      },
+      {
+        "hex": "#e5e9ea",
+        "alpha": 1,
+        "total_count": 1,
+        "pages_seen": [
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "ul.pagination.kt-pagination__links"
+        ]
+      }
+    ],
+    "iconColor": [
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "total_count": 66,
+        "pages_seen": [
+          "formularios",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "span[icon-font].wp-block-getwid-accordion__icon.is-active",
+          "i[icon-font].fas.fa-plus",
+          "span[icon-font].svg-icon.svg-icon-primary"
+        ]
+      }
+    ],
+    "linkColor": [
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "total_count": 491,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a.skip-link.screen-reader-text",
+          "a"
+        ]
+      },
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "total_count": 259,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a",
+          "a.title-content"
+        ]
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "total_count": 77,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "total_count": 26,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "formularios",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a",
+          "a.wp-block-button__link.wp-element-button",
+          "a.btn.btn-bold"
+        ]
+      },
+      {
+        "hex": "#004799",
+        "alpha": 1,
+        "total_count": 23,
+        "pages_seen": [
+          "home",
+          "noticias-listado",
+          "noticia-detalle"
+        ],
+        "samples": [
+          "a.category-link"
+        ]
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 1,
+        "total_count": 15,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "corporativo-quienes-somos",
+          "tramite-detalle"
+        ],
+        "samples": [
+          "a"
+        ]
+      },
+      {
+        "hex": "#000000",
+        "alpha": 1,
+        "total_count": 2,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "a.leaflet-control-zoom-in",
+          "a.leaflet-control-zoom-out"
+        ]
+      },
+      {
+        "hex": "#0078a8",
+        "alpha": 1,
+        "total_count": 1,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "a"
+        ]
+      },
+      {
+        "hex": "#008ea6",
+        "alpha": 1,
+        "total_count": 1,
+        "pages_seen": [
+          "noticias-listado"
+        ],
+        "samples": [
+          "a.next.page-numbers"
+        ]
+      },
+      {
+        "hex": "#595d6e",
+        "alpha": 1,
+        "total_count": 1,
+        "pages_seen": [
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a.page"
+        ]
+      }
+    ],
+    "buttonColor": [
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "total_count": 130,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "div[text].cky-btn-revisit-wrapper.cky-revisit-bottom-left",
+          "div[border].cky-btn-revisit-wrapper.cky-revisit-bottom-left",
+          "a[text].search-button"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "total_count": 77,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "button[text].cky-btn-revisit",
+          "button[border].cky-btn-revisit",
+          "a[bg].wp-block-button__link.wp-element-button"
+        ]
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "total_count": 71,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a[text].wp-block-button__link.wp-element-button",
+          "a[bg].wp-block-button__link.wp-element-button"
+        ]
+      },
+      {
+        "hex": "#0056a7",
+        "alpha": 1,
+        "total_count": 12,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "div[bg].cky-btn-revisit-wrapper.cky-revisit-bottom-left"
+        ]
+      },
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "total_count": 7,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "div[text].leaflet-marker-icon.marker-cluster"
+        ]
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 1,
+        "total_count": 4,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "div[bg].leaflet-marker-icon.marker-cluster"
+        ]
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 0.5,
+        "total_count": 4,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "div[border].leaflet-marker-icon.marker-cluster"
+        ]
+      },
+      {
+        "hex": "#000000",
+        "alpha": 1,
+        "total_count": 4,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "a[text].leaflet-control-zoom-in",
+          "a[text].leaflet-control-zoom-out",
+          "a[border].leaflet-control-zoom-out"
+        ]
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 0.5,
+        "total_count": 3,
+        "pages_seen": [
+          "red-centros"
+        ],
+        "samples": [
+          "div[border].leaflet-marker-icon.marker-cluster"
+        ]
+      }
+    ],
+    "shadowColor": [
+      {
+        "hex": "#6a6a6a",
+        "alpha": 0.05,
+        "total_count": 61,
+        "pages_seen": [
+          "home",
+          "empresas",
+          "servicio-detalle",
+          "red-centros",
+          "corporativo-quienes-somos",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "a[shadow].title-content",
+          "div[shadow].search-map-form",
+          "div[shadow].wp-block-group",
+          "div[shadow].wp-block-getwid-media-text-slider-slide-content"
+        ]
+      },
+      {
+        "hex": "#000000",
+        "alpha": 0.05,
+        "total_count": 10,
+        "pages_seen": [
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "div[shadow].kt-widget4.vb-jobs4"
+        ]
+      },
+      {
+        "hex": "#000000",
+        "alpha": 0.1,
+        "total_count": 4,
+        "pages_seen": [
+          "servicios"
+        ],
+        "samples": [
+          "figure[shadow].wp-block-image.size-large",
+          "figure[shadow].wp-block-image.size-full"
+        ]
+      },
+      {
+        "hex": "#004799",
+        "alpha": 0.17,
+        "total_count": 3,
+        "pages_seen": [
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "p[shadow].description",
+          "button[shadow].slick-prev.slick-arrow",
+          "button[shadow].slick-next.slick-arrow"
+        ]
+      },
+      {
+        "hex": "#002946",
+        "alpha": 0.33,
+        "total_count": 1,
+        "pages_seen": [
+          "servicios"
+        ],
+        "samples": [
+          "div[shadow].wp-block-cover.is-light"
+        ]
+      },
+      {
+        "hex": "#1595e9",
+        "alpha": 0.15,
+        "total_count": 1,
+        "pages_seen": [
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "img[shadow].attachment-post-thumbnail.size-post-thumbnail"
+        ]
+      },
+      {
+        "hex": "#dae0ea",
+        "alpha": 1,
+        "total_count": 1,
+        "pages_seen": [
+          "microsite-trabaja"
+        ],
+        "samples": [
+          "div[shadow].wp-block-cover.is-light"
+        ]
+      }
+    ],
+    "gradients": [
+      {
+        "gradient": "linear-gradient(266.03deg, rgb(0, 101, 183) 30.09%, rgb(0, 71, 153) 99.48%)",
+        "element": "div.wp-block-cover.is-light",
+        "page_id": "servicios"
+      },
+      {
+        "gradient": "linear-gradient(90deg, rgba(245, 248, 250, 0.5) 0px, rgb(245, 248, 250) 100%)",
+        "element": "div.wp-block-getwid-media-text-slider-slide-content__media-overlay",
+        "page_id": "microsite-trabaja"
+      },
+      {
+        "gradient": "linear-gradient(87.71deg, rgb(0, 71, 153) 0px, rgb(0, 101, 183) 100%)",
+        "element": "div.wp-block-cover.is-light",
+        "page_id": "microsite-trabaja"
+      }
+    ]
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "byZone": {
+    "header": [
+      {
+        "href": "https://www.ibermutua.es/?s=",
+        "text": "",
+        "zone": "header"
+      },
+      {
+        "href": "https://www.ibermutua.es/",
+        "text": "",
+        "zone": "header"
+      },
+      {
+        "href": "https://www.ibermutua.es/red-de-centros/",
+        "text": "Red de centros",
+        "zone": "header"
+      },
+      {
+        "href": "https://www.ibermutua.es/como-asociarse/",
+        "text": "Asociarse, adherirse y colaborar con nosotros",
+        "zone": "header"
+      },
+      {
+        "href": "https://www.ibermutua.es/redcentros/",
+        "text": "Ir al mapa",
+        "zone": "header"
+      }
+    ],
+    "nav": [
+      {
+        "href": "https://www.ibermutua.es/atencion-a-clientes/",
+        "text": "Atención clientes",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/atencion-a-clientes/contacto/",
+        "text": "Centro de ayudaConoce y accede a todos nuestros canales de atención",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/formularios/",
+        "text": "Formularios IbermutuaAcceso a los formularios para la realización de trámites",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/contacto/quejas-reclamaciones-sugerencias-y-agradecimientos/",
+        "text": "ReclamacionesAgradecimientos, reclamaciones y sugerencias",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/faqs/",
+        "text": "Preguntas frecuentes",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/atencion-a-clientes/contacto/contactar-a-traves-del-canal-web/",
+        "text": "Contacto web",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/empresas/",
+        "text": "Empresas",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/trabajadores-as/",
+        "text": "Trabajadores",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/autonomos-as/",
+        "text": "Autónomos",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/asesorias/",
+        "text": "Asesorías",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicios/",
+        "text": "Servicios",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicios/coberturas/",
+        "text": "Coberturas",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicio/accidentes-de-trabajo-y-enfermedad-profesional/",
+        "text": "Accidente de trabajo y enfermedad profesional",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicio/enfermedad-comun-y-accidente-no-laboral/",
+        "text": "Enfermedad común y accidente no laboral",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicio/cese-de-actividad-para-trabajadores-as-autonomos-as-2/",
+        "text": "Protección por cese de actividad para autónomos/as",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicios/prestaciones-economicas/",
+        "text": "Prestaciones",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicio/incapacidad-temporal/",
+        "text": "Incapacidad temporal",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicio/riesgo-durante-el-embarazo/",
+        "text": "Riesgo durante embarazo y/o lactancia natural",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicio/cuidado-de-menores-enfermos/",
+        "text": "Cuidado de menores afectados por cáncer o enfermedad grave",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicio/cese-de-actividad-para-trabajadores-as-autonomos-as/",
+        "text": "Cese de actividad de los trabajadores/as autónomos/as",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicio/prestacion-para-autonomos-asociados-al-mecanismo-red-por-causas-ciclicas/",
+        "text": "Mecanismo RED (CATA) cíclicas",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicio/prestacion-para-autonomos-asociados-al-mecanismo-red-en-su-modalidad-sectorial/",
+        "text": "Mecanismo RED (CATA) sectorial",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicio/lesiones-permanentes-no-invalidantes/",
+        "text": "Otras prestaciones",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicios/asistencia-sanitaria/",
+        "text": "Asistencia sanitariaAsistencia sanitaria de vanguardia",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicios/prevencion-de-riesgos/",
+        "text": "Prevención de riesgos laboralesLa mejor prevención, la mejor protección",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicios/ayudas-y-programas-sociales/",
+        "text": "Prestaciones complementarias",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/",
+        "text": "Corporativo",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/conocenos/",
+        "text": "Conócenos",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/conocenos/quienes-somos/",
+        "text": "¿Quiénes somos?",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/conocenos/nuestra-historia/",
+        "text": "Nuestra historia",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/conocenos/mision-vision-y-valores/",
+        "text": "Misión, visión y valores",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/conocenos/colaboracion-institucional/",
+        "text": "Colaboración institucional",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/conocenos/equipo-humano/",
+        "text": "Equipo humano",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/conocenos/premios/",
+        "text": "Premios",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/sala-de-comunicacion/",
+        "text": "Sala de comunicación",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/sala-de-comunicacion/prensa-y-noticias/",
+        "text": "Prensa y noticias",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/sala-de-comunicacion/convocatoria-y-agenda/",
+        "text": "Convocatorias y agenda",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/sala-de-comunicacion/publicaciones/",
+        "text": "Publicaciones",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/sala-de-comunicacion/area-multimedia/",
+        "text": "Área multimedia",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/sala-de-comunicacion/identidad-corporativa/",
+        "text": "Identidad corporativa",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/comunicacion-blogs/",
+        "text": "Espacios destacados",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/microsite/memoria-resultados-2024/",
+        "text": "Resultados 2024",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/microsite/renovamos-reforzamos/",
+        "text": "Dedicados a la protección de empresas y personas",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/microsite/movilidad-segura-y-sostenible/",
+        "text": "Movilidad Segura y Sostenible",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/microsite/microsite-salud-mental/",
+        "text": "Salud mental",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/microsite/premios-eladio-gonzalez-edicion-iii/",
+        "text": "Premios Eladio González 2025",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/gobierno-corporativo-transparencia/",
+        "text": "Gobierno corporativo y Transparencia",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/gobierno-corporativo-transparencia/organos-de-gobierno/",
+        "text": "Órganos de gobierno",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/gobierno-corporativo-transparencia/transparencia/",
+        "text": "Transparencia",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/gobierno-corporativo-transparencia/informes-resultados-y-documentos-corporativos/",
+        "text": "Informes de resultados y documentos corporativos",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/compromiso-social-y-sostenibilidad/",
+        "text": "Compromiso social y sostenibilidad (ESG)",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/compromiso-social-y-sostenibilidad/responsabilidad-social-agenda-2030-y-ods/",
+        "text": "Responsabilidad social, Agenda 2030 y ODS",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/calidad-medio-ambiente-y-sostenibilidad/",
+        "text": "Calidad, medioambiente y sostenibilidad",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/certificaciones-del-sistema-de-gestion/",
+        "text": "Certificaciones y Sistema Integral de Gestión",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/comunidades-autonomas/",
+        "text": "Ibermutua en las CCAA",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/informacion-proveedores/",
+        "text": "Información proveedores y Perfil del contratante",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/anuncios-y-convocatorias-institucionales/",
+        "text": "Anuncios y convocatorias institucionales",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/microsite/trabaja-en-ibermutua/",
+        "text": "Trabaja en Ibermutua",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/form/colectivoss/",
+        "text": "ColectivoSS",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/corporacion-rama/",
+        "text": "Corporación Rama",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/servicios/gestion-absentismo/",
+        "text": "Herramientas para la gestión del absentismo",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/atencion-a-clientes/tramites-y-preguntas-frecuentes/tramites-frecuentes/",
+        "text": "Trámites",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/atencion-a-clientes/contacto/quejas-reclamaciones-sugerencias-y-agradecimientos/",
+        "text": "Agradecimientos, quejas, reclamaciones y sugerencias",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/?page_id=1212",
+        "text": "Área de contenidos",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/condiciones-de-uso/",
+        "text": "Condiciones de uso",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/aviso-legal/",
+        "text": "Aviso legal",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/aviso-legal-y-privacidad/",
+        "text": "Privacidad",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/declaracion-accesibilidad-site/",
+        "text": "Accesibilidad",
+        "zone": "nav"
+      },
+      {
+        "href": "https://www.ibermutua.es/normas-de-uso-en-redes-sociales/",
+        "text": "Normas de uso Redes Sociales",
+        "zone": "nav"
+      }
+    ],
+    "body": [
+      {
+        "href": "https://www.ibermutua.es/politica-de-cookies/",
+        "text": "Política de cookies",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/tramites-frecuentes/",
+        "text": "Ver todo",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/tramite/solicitud-de-asistencia-sanitaria/",
+        "text": "Solicitud de asistencia sanitaria",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/tramite/que-hacer-en-caso-de-accidente-de-trabajo/",
+        "text": "Qué hacer en caso de accidente de trabajo",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/tramite/que-hacer-en-caso-de-enfermedad-comun-o-accidente-no-laboral/",
+        "text": "Qué hacer en caso de enfermedad común o accidente no laboral",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/tramite/pago-directo-por-incapacidad-temporal/",
+        "text": "Pago directo por incapacidad temporal",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/tramite/riesgo-durante-embarazo/",
+        "text": "Riesgo durante embarazo",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/prensa-y-noticias/",
+        "text": "Ver todo",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/noticia/reconocimiento-25-anos-murcia/",
+        "text": "",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/noticia_cat/corporativo/",
+        "text": "Corporativo",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/noticia/presidenta-cepyme-participa-junta-territorial-castilla-leon-rioja/",
+        "text": "",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/corporativo/convocatoria-y-agenda/",
+        "text": "Ver todo",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/evento/jornada-cel-25/",
+        "text": "2 Dic Jornada · Colaboraciones Jornada informativa “Check laboral. Está preparada tu empresa para el cumplimiento de los",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/evento/congreso-trabajo-social-sanitario/",
+        "text": "13 Nov Jornada · Colaboraciones XV Congreso Práctica Avanzada en el trabajo social sanitario: dando respuesta a las nuev",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/evento/laboralia-2025/",
+        "text": "11 Nov Jornada · Colaboraciones Laboralia 2025",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/ibermutua-asturiana/",
+        "text": "",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/ibermutua-gallega/",
+        "text": "",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/ibermutuamur/",
+        "text": "",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/ibermutua-comunitat-valenciana/",
+        "text": "",
+        "zone": "body"
+      },
+      {
+        "href": "https://www.ibermutua.es/microsite/canal-de-informacion-y-denuncia/",
+        "text": "Canal de Información y Denuncia de Ibermutua",
+        "zone": "body"
+      }
+    ],
+    "footer": []
+  },
+  "total": 94
+}

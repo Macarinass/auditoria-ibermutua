@@ -1,0 +1,216 @@
+{
+  "textColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 23,
+      "samples": [
+        "a.skip-link.screen-reader-text",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#262d33",
+      "alpha": 1,
+      "count": 12,
+      "samples": [
+        "a",
+        "a",
+        "h1.entry-title"
+      ]
+    },
+    {
+      "hex": "#004799",
+      "alpha": 1,
+      "count": 12,
+      "samples": [
+        "div.date",
+        "a.category-link",
+        "div.date"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 7,
+      "samples": [
+        "a",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#292a2c",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "h2"
+      ]
+    }
+  ],
+  "backgroundColor": [
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 11,
+      "samples": [
+        "body.wp-singular.noticia-template-default",
+        "header.site-header",
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#f5f8fa",
+      "alpha": 1,
+      "count": 4,
+      "samples": [
+        "div.top-header",
+        "div.entry-footer.alignfull",
+        "footer.site-footer"
+      ]
+    },
+    {
+      "hex": "#0056a7",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "div.cky-btn-revisit-wrapper.cky-revisit-bottom-left"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    }
+  ],
+  "borderColor": [
+    {
+      "hex": "#ebeff2",
+      "alpha": 1,
+      "count": 25,
+      "samples": [
+        "div.site-header-container",
+        "div.item-post.post-id-43788",
+        "div.item-post.post-id-43788"
+      ]
+    },
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "li.menu-item.menu-item-type-post_type",
+        "li.menu-item.menu-item-type-post_type",
+        "li.menu-item.menu-item-type-post_type"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 4,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 4,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    }
+  ],
+  "iconColor": [],
+  "linkColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 39,
+      "samples": [
+        "a.skip-link.screen-reader-text",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 7,
+      "samples": [
+        "a",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#004799",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "a.category-link",
+        "a.category-link",
+        "a.category-link"
+      ]
+    },
+    {
+      "hex": "#262d33",
+      "alpha": 1,
+      "count": 2,
+      "samples": [
+        "a",
+        "a"
+      ]
+    }
+  ],
+  "buttonColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 10,
+      "samples": [
+        "div[text].cky-btn-revisit-wrapper.cky-revisit-bottom-left",
+        "div[border].cky-btn-revisit-wrapper.cky-revisit-bottom-left",
+        "a[text].search-button"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 4,
+      "samples": [
+        "button[text].cky-btn-revisit",
+        "button[border].cky-btn-revisit",
+        "a[bg].wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 4,
+      "samples": [
+        "a[text].wp-block-button__link.wp-element-button",
+        "a[text].wp-block-button__link.wp-element-button",
+        "a[bg].wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#0056a7",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "div[bg].cky-btn-revisit-wrapper.cky-revisit-bottom-left"
+      ]
+    }
+  ],
+  "gradients": [],
+  "shadowColor": []
+}

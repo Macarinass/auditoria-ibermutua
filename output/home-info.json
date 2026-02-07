@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-02-07T16:46:24.810Z",
+  "title": "Ibermutua - Mutua Colaboradora con la Seguridad Social",
+  "url": "https://www.ibermutua.es/",
+  "cookieHandled": true,
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "screenshots": {
+    "viewport": "home-screenshot.png",
+    "fullPage": "home-full-screenshot.png"
+  }
+}

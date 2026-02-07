@@ -1,0 +1,243 @@
+{
+  "textColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 31,
+      "samples": [
+        "a.skip-link.screen-reader-text",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#004799",
+      "alpha": 1,
+      "count": 31,
+      "samples": [
+        "label",
+        "div.date",
+        "a.category-link"
+      ]
+    },
+    {
+      "hex": "#0065b7",
+      "alpha": 1,
+      "count": 21,
+      "samples": [
+        "h1.entry-title",
+        "label",
+        "label"
+      ]
+    },
+    {
+      "hex": "#262d33",
+      "alpha": 1,
+      "count": 18,
+      "samples": [
+        "a",
+        "a",
+        "div.post-title"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "a",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "span.page-numbers.current"
+      ]
+    }
+  ],
+  "backgroundColor": [
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 21,
+      "samples": [
+        "body.wp-singular.page-template-default",
+        "header.site-header",
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#f5f8fa",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "div.top-header",
+        "div.custom-block",
+        "div.featured-posts.alignfull"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 2,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button",
+        "span.page-numbers.current"
+      ]
+    },
+    {
+      "hex": "#0056a7",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "div.cky-btn-revisit-wrapper.cky-revisit-bottom-left"
+      ]
+    },
+    {
+      "hex": "#ecf6fe",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "label"
+      ]
+    }
+  ],
+  "borderColor": [
+    {
+      "hex": "#ebeff2",
+      "alpha": 1,
+      "count": 61,
+      "samples": [
+        "div.site-header-container",
+        "div.item-post.post-id-45143",
+        "div.item-post.post-id-45143"
+      ]
+    },
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "li.menu-item.menu-item-type-post_type",
+        "li.menu-item.menu-item-type-post_type",
+        "li.menu-item.menu-item-type-post_type"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 4,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 4,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    }
+  ],
+  "iconColor": [],
+  "linkColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 68,
+      "samples": [
+        "a.skip-link.screen-reader-text",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#004799",
+      "alpha": 1,
+      "count": 15,
+      "samples": [
+        "a.category-link",
+        "a.category-link",
+        "a.category-link"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "a",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#262d33",
+      "alpha": 1,
+      "count": 2,
+      "samples": [
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#008ea6",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "a.next.page-numbers"
+      ]
+    }
+  ],
+  "buttonColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 12,
+      "samples": [
+        "div[text].cky-btn-revisit-wrapper.cky-revisit-bottom-left",
+        "div[border].cky-btn-revisit-wrapper.cky-revisit-bottom-left",
+        "a[text].search-button"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 5,
+      "samples": [
+        "button[text].cky-btn-revisit",
+        "button[border].cky-btn-revisit",
+        "a[bg].wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 4,
+      "samples": [
+        "a[text].wp-block-button__link.wp-element-button",
+        "a[text].wp-block-button__link.wp-element-button",
+        "a[bg].wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#0056a7",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "div[bg].cky-btn-revisit-wrapper.cky-revisit-bottom-left"
+      ]
+    }
+  ],
+  "gradients": [],
+  "shadowColor": []
+}

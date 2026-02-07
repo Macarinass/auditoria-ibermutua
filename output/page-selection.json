@@ -1,0 +1,74 @@
+[
+  {
+    "page_id": "home",
+    "url": "https://www.ibermutua.es/",
+    "tipo_de_pagina": "home",
+    "motivo": "Página principal: hero, buscador, tarjetas de trámites, grid de servicios, noticias, banners CTA. Máxima densidad de componentes y patrones UI."
+  },
+  {
+    "page_id": "empresas",
+    "url": "https://www.ibermutua.es/empresas/",
+    "tipo_de_pagina": "landing-audiencia",
+    "motivo": "Landing segmentada por audiencia (Empresas). Muestra cómo se adapta la arquitectura visual a un público específico con CTAs y bloques diferenciados."
+  },
+  {
+    "page_id": "servicios",
+    "url": "https://www.ibermutua.es/servicios/",
+    "tipo_de_pagina": "listado",
+    "motivo": "Página índice de servicios con tarjetas/grid. Permite auditar el sistema de cards, espaciados y jerarquía visual de listados."
+  },
+  {
+    "page_id": "servicio-detalle",
+    "url": "https://www.ibermutua.es/servicio/accidentes-de-trabajo-y-enfermedad-profesional/",
+    "tipo_de_pagina": "detalle-servicio",
+    "motivo": "Detalle de un servicio individual. Plantilla con contenido extenso, iconos, posibles acordeones y sidebar informativo."
+  },
+  {
+    "page_id": "red-centros",
+    "url": "https://www.ibermutua.es/red-de-centros/",
+    "tipo_de_pagina": "mapa-interactivo",
+    "motivo": "Buscador de centros con mapa. Componente interactivo, formularios de búsqueda, tarjetas de resultado. Patrón UI único en el sitio."
+  },
+  {
+    "page_id": "formularios",
+    "url": "https://www.ibermutua.es/formularios/",
+    "tipo_de_pagina": "formulario",
+    "motivo": "Directorio de formularios. Permite auditar enlaces de descarga, iconografía de documentos y layout de listados de recursos."
+  },
+  {
+    "page_id": "noticias-listado",
+    "url": "https://www.ibermutua.es/corporativo/sala-de-comunicacion/prensa-y-noticias/",
+    "tipo_de_pagina": "listado-noticias",
+    "motivo": "Listado de noticias/prensa con tarjetas, fechas, categorías y paginación. Patrón blog/editorial clave para la auditoría."
+  },
+  {
+    "page_id": "noticia-detalle",
+    "url": "https://www.ibermutua.es/noticia/reconocimiento-25-anos-murcia/",
+    "tipo_de_pagina": "detalle-noticia",
+    "motivo": "Artículo individual de noticia. Plantilla editorial con imagen destacada, tipografía de lectura, sidebar y metadatos."
+  },
+  {
+    "page_id": "corporativo-quienes-somos",
+    "url": "https://www.ibermutua.es/corporativo/conocenos/quienes-somos/",
+    "tipo_de_pagina": "corporativo",
+    "motivo": "Página institucional \"Quiénes somos\". Heavy en tipografía, bloques de texto, imágenes corporativas y secciones informativas."
+  },
+  {
+    "page_id": "faqs",
+    "url": "https://www.ibermutua.es/faqs/",
+    "tipo_de_pagina": "faq",
+    "motivo": "Preguntas frecuentes. Patrón de acordeones/expandibles, buscador interno, categorización. Componente UI diferenciado."
+  },
+  {
+    "page_id": "tramite-detalle",
+    "url": "https://www.ibermutua.es/tramite/solicitud-de-asistencia-sanitaria/",
+    "tipo_de_pagina": "detalle-tramite",
+    "motivo": "Ficha de trámite individual. Información paso a paso, enlaces a formularios, documentos requeridos. Patrón informativo procedimental."
+  },
+  {
+    "page_id": "microsite-trabaja",
+    "url": "https://www.ibermutua.es/microsite/trabaja-en-ibermutua/",
+    "tipo_de_pagina": "microsite",
+    "motivo": "Microsite de empleo. Diseño alternativo tipo landing con branding propio, posibles animaciones y secciones diferenciadas del sitio principal."
+  }
+]

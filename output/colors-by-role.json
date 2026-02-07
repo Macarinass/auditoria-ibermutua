@@ -1,0 +1,1123 @@
+{
+  "textColor": {
+    "text-link": [
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "count": 67,
+        "pages": 12,
+        "samples": [
+          "Ir al contenido",
+          "900 23 33 33 - 24h."
+        ]
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 1,
+        "count": 13,
+        "pages": 5,
+        "samples": [
+          "Ver todo",
+          "Ver todo"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 4,
+        "pages": 2,
+        "samples": [
+          "Somos la mutua del futuroConoce tu mutua",
+          "900 23 33 33 - 24h."
+        ]
+      },
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": [
+          "Regímenes y sistemas especiales"
+        ]
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": [
+          "¿Por qué acudir directamente a nuestros "
+        ]
+      },
+      {
+        "hex": "#0078a8",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": [
+          "OpenStreetMap"
+        ]
+      }
+    ],
+    "nav-link": [
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "count": 138,
+        "pages": 12,
+        "samples": [
+          "Atención clientes",
+          "Preguntas frecuentes"
+        ]
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 48,
+        "pages": 12,
+        "samples": [
+          "Empresas",
+          "Trabajadores"
+        ]
+      },
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "count": 24,
+        "pages": 12,
+        "samples": [
+          "Servicios",
+          "Corporativo"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 4,
+        "pages": 1,
+        "samples": [
+          "Coberturas",
+          "Prestaciones económicas"
+        ]
+      }
+    ],
+    "cta-link": [
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 27,
+        "pages": 12,
+        "samples": [
+          "Red de centros",
+          "Ibermutua digital"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 2,
+        "pages": 1,
+        "samples": [
+          "Inscríbete",
+          "Accede a tu cuenta"
+        ]
+      }
+    ],
+    "heading-h1": [
+      {
+        "hex": "#004799",
+        "alpha": 1,
+        "count": 7,
+        "pages": 7,
+        "samples": [
+          "Dedicados a la protección de empresas y ",
+          "Dedicados a la protección de empresas"
+        ]
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 1,
+        "count": 5,
+        "pages": 5,
+        "samples": [
+          "Conoce tu mutua",
+          "Prensa y noticias"
+        ]
+      },
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "count": 2,
+        "pages": 2,
+        "samples": [
+          "Red de centros",
+          "Reconocimiento a las empresas y despacho"
+        ]
+      }
+    ],
+    "text-hero": [
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "count": 6,
+        "pages": 6,
+        "samples": [
+          "Renovamos nuestra actitud y atención cad",
+          "Renovamos nuestra actitud y atención cad"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 6,
+        "pages": 2,
+        "samples": [
+          "¿Alguna consulta? Estaremos encantados/a",
+          "Teléfono: 918 377 590"
+        ]
+      },
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "count": 3,
+        "pages": 3,
+        "samples": [
+          "Conoce nuestra organización por dentro",
+          "¿Cómo te podemos ayudar?"
+        ]
+      }
+    ],
+    "form-label": [
+      {
+        "hex": "#0065b7",
+        "alpha": 1,
+        "count": 27,
+        "pages": 3,
+        "samples": [
+          "Atención 24h",
+          "Asistencial"
+        ]
+      },
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "count": 3,
+        "pages": 3,
+        "samples": [
+          "Provincia o Código Postal",
+          "Dirección o Código Postal"
+        ]
+      },
+      {
+        "hex": "#004799",
+        "alpha": 1,
+        "count": 3,
+        "pages": 3,
+        "samples": [
+          "Centro propio",
+          "Todo"
+        ]
+      },
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": [
+          "Dirección o Código Postal"
+        ]
+      }
+    ],
+    "form-input": [
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "count": 7,
+        "pages": 5,
+        "samples": [
+          "Seleccionar provincia\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tA Co",
+          "1 km.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t3 km.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        ]
+      }
+    ],
+    "button-text": [
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 6,
+        "pages": 5,
+        "samples": [
+          "Buscar",
+          "Buscar"
+        ]
+      }
+    ],
+    "heading-h2": [
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "count": 70,
+        "pages": 10,
+        "samples": [
+          "Trámites frecuentes",
+          "Más de un siglo de protección de empresa"
+        ]
+      },
+      {
+        "hex": "#000000",
+        "alpha": 1,
+        "count": 4,
+        "pages": 1,
+        "samples": [
+          "Perla Meneses Rodríguez, Médica Asistenc",
+          "Diego Álvarez Villaverde, Fisioterapeuta"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": [
+          "Servicios de atención e información"
+        ]
+      },
+      {
+        "hex": "#292a2c",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": [
+          "Noticias relacionadas"
+        ]
+      }
+    ],
+    "text-body": [
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "count": 121,
+        "pages": 12,
+        "samples": [
+          "Más que un centenario, nuestra declaraci",
+          "Nuestra mutua en imágenes,en este vídeo "
+        ]
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 1,
+        "count": 5,
+        "pages": 1,
+        "samples": [
+          "Ver menos",
+          "Ver menos"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 3,
+        "pages": 3,
+        "samples": [
+          "Somos la mutua del futuroConoce tu mutua",
+          "Somos la mutua del futuroConoce tu mutua"
+        ]
+      },
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": [
+          "Introduce tu búsqueda para que te mostre"
+        ]
+      }
+    ],
+    "card-link": [
+      {
+        "hex": "#004799",
+        "alpha": 1,
+        "count": 23,
+        "pages": 3,
+        "samples": [
+          "Corporativo",
+          "Corporativo"
+        ]
+      }
+    ],
+    "text-caption": [
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 10,
+        "pages": 3,
+        "samples": [
+          "Entrar",
+          "Solicitar acceso"
+        ]
+      }
+    ],
+    "heading-small": [
+      {
+        "hex": "#2782ad",
+        "alpha": 1,
+        "count": 5,
+        "pages": 1,
+        "samples": [
+          "Todos los formularios",
+          "Formularios para Empresas:"
+        ]
+      },
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "count": 2,
+        "pages": 2,
+        "samples": [
+          "Urgencias",
+          "¿Tienes dudas? Ponte en contacto"
+        ]
+      },
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": [
+          "Escríbenos"
+        ]
+      }
+    ],
+    "text-secondary": [
+      {
+        "hex": "#738aa0",
+        "alpha": 1,
+        "count": 3,
+        "pages": 2,
+        "samples": [
+          "Línea integral 24 horas",
+          "Asistencia en el extranjero"
+        ]
+      }
+    ],
+    "text-bold": [
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "count": 18,
+        "pages": 5,
+        "samples": [
+          "Enlaces relacionados:",
+          "Todos"
+        ]
+      },
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "count": 6,
+        "pages": 2,
+        "samples": [
+          "Asistencia sanitaria completa",
+          "Prestaciones económicas"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 3,
+        "pages": 1,
+        "samples": [
+          "María Perdices Fernández",
+          "Antonio José García Hernández"
+        ]
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 1,
+        "count": 2,
+        "pages": 2,
+        "samples": [
+          "asistencia sanitaria completa",
+          "solicitud (volante) de asistencia sanita"
+        ]
+      },
+      {
+        "hex": "#000000",
+        "alpha": 1,
+        "count": 2,
+        "pages": 1,
+        "samples": [
+          "+",
+          "−"
+        ]
+      }
+    ],
+    "list-item": [
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "count": 79,
+        "pages": 3,
+        "samples": [
+          "Incapacidad temporal",
+          "Riesgo durante el embarazo"
+        ]
+      }
+    ],
+    "tag-link": [
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": [
+          "Corporativo"
+        ]
+      }
+    ],
+    "heading-h3": [
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "count": 17,
+        "pages": 2,
+        "samples": [
+          "Contingencia profesional",
+          "Contingencia común"
+        ]
+      },
+      {
+        "hex": "#000000",
+        "alpha": 1,
+        "count": 3,
+        "pages": 1,
+        "samples": [
+          "Rocío Cano Fernández, Enfermera en Albac",
+          "Rocío Cano Fernández, Enfermera en Albac"
+        ]
+      }
+    ]
+  },
+  "backgroundColor": {
+    "bg-page": [
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 12,
+        "pages": 12,
+        "samples": []
+      }
+    ],
+    "bg-button": [
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 19,
+        "pages": 12,
+        "samples": []
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 18,
+        "pages": 12,
+        "samples": []
+      },
+      {
+        "hex": "#0056a7",
+        "alpha": 1,
+        "count": 12,
+        "pages": 12,
+        "samples": []
+      }
+    ],
+    "bg-nav": [
+      {
+        "hex": "#f5f8fa",
+        "alpha": 1,
+        "count": 12,
+        "pages": 12,
+        "samples": []
+      },
+      {
+        "hex": "#ecf6fe",
+        "alpha": 1,
+        "count": 2,
+        "pages": 2,
+        "samples": []
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": []
+      }
+    ],
+    "bg-header": [
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 15,
+        "pages": 12,
+        "samples": []
+      },
+      {
+        "hex": "#f5f8fa",
+        "alpha": 1,
+        "count": 5,
+        "pages": 5,
+        "samples": []
+      }
+    ],
+    "bg-section": [
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 31,
+        "pages": 10,
+        "samples": []
+      },
+      {
+        "hex": "#f5f8fa",
+        "alpha": 1,
+        "count": 15,
+        "pages": 11,
+        "samples": []
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 3,
+        "pages": 3,
+        "samples": []
+      }
+    ],
+    "bg-card": [
+      {
+        "hex": "#ecf6fe",
+        "alpha": 1,
+        "count": 169,
+        "pages": 4,
+        "samples": []
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 81,
+        "pages": 6,
+        "samples": []
+      },
+      {
+        "hex": "#f5f8fa",
+        "alpha": 1,
+        "count": 12,
+        "pages": 1,
+        "samples": []
+      }
+    ],
+    "bg-search": [
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 4,
+        "pages": 4,
+        "samples": []
+      }
+    ],
+    "bg-link": [
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 5,
+        "pages": 2,
+        "samples": []
+      }
+    ],
+    "bg-block": [
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 15,
+        "pages": 5,
+        "samples": []
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 14,
+        "pages": 4,
+        "samples": []
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 1,
+        "count": 8,
+        "pages": 1,
+        "samples": []
+      },
+      {
+        "hex": "#ecf6fe",
+        "alpha": 1,
+        "count": 5,
+        "pages": 1,
+        "samples": []
+      },
+      {
+        "hex": "#f5f8fa",
+        "alpha": 1,
+        "count": 3,
+        "pages": 2,
+        "samples": []
+      },
+      {
+        "hex": "#dddddd",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": []
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 0.8,
+        "count": 1,
+        "pages": 1,
+        "samples": []
+      },
+      {
+        "hex": "#000000",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": []
+      }
+    ],
+    "bg-footer": [
+      {
+        "hex": "#f5f8fa",
+        "alpha": 1,
+        "count": 28,
+        "pages": 12,
+        "samples": []
+      }
+    ],
+    "bg-hero": [
+      {
+        "hex": "#000000",
+        "alpha": 1,
+        "count": 2,
+        "pages": 2,
+        "samples": []
+      },
+      {
+        "hex": "#f5f8fa",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": []
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": []
+      }
+    ],
+    "bg-interactive": [
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 6,
+        "pages": 1,
+        "samples": []
+      }
+    ]
+  },
+  "borderColor": {
+    "border-header": [
+      {
+        "hex": "#ebeff2",
+        "alpha": 1,
+        "count": 12,
+        "pages": 12,
+        "samples": []
+      }
+    ],
+    "border-button": [
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 22,
+        "pages": 12,
+        "samples": []
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 12,
+        "pages": 12,
+        "samples": []
+      }
+    ],
+    "border-card": [
+      {
+        "hex": "#ebeff2",
+        "alpha": 1,
+        "count": 69,
+        "pages": 7,
+        "samples": []
+      }
+    ],
+    "border-input": [
+      {
+        "hex": "#d1d9e0",
+        "alpha": 1,
+        "count": 6,
+        "pages": 5,
+        "samples": []
+      },
+      {
+        "hex": "#ebeff2",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": []
+      }
+    ],
+    "border-other": [
+      {
+        "hex": "#ebeff2",
+        "alpha": 1,
+        "count": 3,
+        "pages": 1,
+        "samples": []
+      },
+      {
+        "hex": "#cccccc",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": []
+      }
+    ],
+    "border-nav": [
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "count": 72,
+        "pages": 12,
+        "samples": []
+      },
+      {
+        "hex": "#ebeef1",
+        "alpha": 1,
+        "count": 2,
+        "pages": 1,
+        "samples": []
+      }
+    ],
+    "border-divider": [
+      {
+        "hex": "#ebeff2",
+        "alpha": 1,
+        "count": 12,
+        "pages": 3,
+        "samples": []
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 0.5,
+        "count": 4,
+        "pages": 1,
+        "samples": []
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 0.5,
+        "count": 3,
+        "pages": 1,
+        "samples": []
+      },
+      {
+        "hex": "#d1d9e0",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": []
+      },
+      {
+        "hex": "#000000",
+        "alpha": 0.2,
+        "count": 1,
+        "pages": 1,
+        "samples": []
+      }
+    ],
+    "border-tab": [
+      {
+        "hex": "#ebeef1",
+        "alpha": 1,
+        "count": 6,
+        "pages": 1,
+        "samples": []
+      }
+    ],
+    "border-accordion": [
+      {
+        "hex": "#eeeeee",
+        "alpha": 1,
+        "count": 36,
+        "pages": 1,
+        "samples": []
+      }
+    ],
+    "border-faq": [
+      {
+        "hex": "#9eaebd",
+        "alpha": 0.5,
+        "count": 14,
+        "pages": 1,
+        "samples": []
+      }
+    ]
+  },
+  "linkColor": {
+    "link-inline": [
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "count": 67,
+        "pages": 12,
+        "samples": [
+          "Ir al contenido",
+          "900 23 33 33 - 24h."
+        ]
+      },
+      {
+        "hex": "#0065b7",
+        "alpha": 1,
+        "count": 13,
+        "pages": 5,
+        "samples": [
+          "Ver todo",
+          "Ver todo"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 4,
+        "pages": 2,
+        "samples": [
+          "Somos la mutua del futuroConoce tu mutua",
+          "900 23 33 33 - 24h."
+        ]
+      },
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": [
+          "Regímenes y sistemas especiales"
+        ]
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": [
+          "¿Por qué acudir directamente a nuestros "
+        ]
+      },
+      {
+        "hex": "#0078a8",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": [
+          "OpenStreetMap"
+        ]
+      }
+    ],
+    "link-nav": [
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "count": 138,
+        "pages": 12,
+        "samples": [
+          "Atención clientes",
+          "Preguntas frecuentes"
+        ]
+      },
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 48,
+        "pages": 12,
+        "samples": [
+          "Empresas",
+          "Trabajadores"
+        ]
+      },
+      {
+        "hex": "#262d33",
+        "alpha": 1,
+        "count": 24,
+        "pages": 12,
+        "samples": [
+          "Servicios",
+          "Corporativo"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 4,
+        "pages": 1,
+        "samples": [
+          "Coberturas",
+          "Prestaciones económicas"
+        ]
+      }
+    ],
+    "link-cta": [
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 27,
+        "pages": 12,
+        "samples": [
+          "Red de centros",
+          "Ibermutua digital"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 2,
+        "pages": 1,
+        "samples": [
+          "Inscríbete",
+          "Accede a tu cuenta"
+        ]
+      }
+    ],
+    "link-card": [
+      {
+        "hex": "#004799",
+        "alpha": 1,
+        "count": 23,
+        "pages": 3,
+        "samples": [
+          "Corporativo",
+          "Corporativo"
+        ]
+      }
+    ],
+    "link-hero": [
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 1,
+        "pages": 1,
+        "samples": [
+          "Corporativo"
+        ]
+      }
+    ]
+  },
+  "buttonBg": {
+    "btn-bg-secondary": [
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 17,
+        "pages": 12,
+        "samples": [
+          "Red de centros",
+          "Ir al mapa"
+        ]
+      }
+    ],
+    "btn-bg-primary": [
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 19,
+        "pages": 12,
+        "samples": [
+          "Ibermutua digital",
+          "Buscar"
+        ]
+      }
+    ]
+  },
+  "buttonText": {
+    "btn-text-secondary": [
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 15,
+        "pages": 12,
+        "samples": [
+          "Red de centros",
+          "Ir al mapa"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 14,
+        "pages": 12,
+        "samples": [
+          "Previous",
+          "Next"
+        ]
+      },
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "count": 12,
+        "pages": 12,
+        "samples": []
+      }
+    ],
+    "btn-text-primary": [
+      {
+        "hex": "#0075c9",
+        "alpha": 1,
+        "count": 12,
+        "pages": 12,
+        "samples": [
+          "Ibermutua digital",
+          "Ibermutua digital"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "alpha": 1,
+        "count": 7,
+        "pages": 6,
+        "samples": [
+          "Buscar",
+          "Buscar"
+        ]
+      }
+    ]
+  },
+  "iconColor": {
+    "icon-font": [
+      {
+        "hex": "#566673",
+        "alpha": 1,
+        "count": 36,
+        "pages": 1,
+        "samples": []
+      }
+    ]
+  }
+}

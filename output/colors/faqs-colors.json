@@ -1,0 +1,240 @@
+{
+  "textColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 30,
+      "samples": [
+        "a.skip-link.screen-reader-text",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "a",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#0065b7",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "h1.entry-title",
+        "label",
+        "label"
+      ]
+    },
+    {
+      "hex": "#262d33",
+      "alpha": 1,
+      "count": 2,
+      "samples": [
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "div.desktop"
+      ]
+    },
+    {
+      "hex": "#004799",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "label"
+      ]
+    }
+  ],
+  "backgroundColor": [
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "body.wp-singular.page-template-default",
+        "header.site-header",
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#f5f8fa",
+      "alpha": 1,
+      "count": 5,
+      "samples": [
+        "div.top-header",
+        "div.custom-block",
+        "footer.site-footer"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 2,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button",
+        "button.btn.search"
+      ]
+    },
+    {
+      "hex": "#0056a7",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "div.cky-btn-revisit-wrapper.cky-revisit-bottom-left"
+      ]
+    },
+    {
+      "hex": "#ecf6fe",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "label"
+      ]
+    }
+  ],
+  "borderColor": [
+    {
+      "hex": "#9eaebd",
+      "alpha": 0.5,
+      "count": 14,
+      "samples": [
+        "div.question",
+        "div.question",
+        "div.question"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 8,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "li.menu-item.menu-item-type-post_type",
+        "li.menu-item.menu-item-type-post_type",
+        "li.menu-item.menu-item-type-post_type"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 4,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#d1d9e0",
+      "alpha": 1,
+      "count": 4,
+      "samples": [
+        "input.search-input",
+        "input.search-input",
+        "input.search-input"
+      ]
+    },
+    {
+      "hex": "#ebeff2",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "div.site-header-container"
+      ]
+    }
+  ],
+  "iconColor": [],
+  "linkColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 28,
+      "samples": [
+        "a.skip-link.screen-reader-text",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "a",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#262d33",
+      "alpha": 1,
+      "count": 2,
+      "samples": [
+        "a",
+        "a"
+      ]
+    }
+  ],
+  "buttonColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 10,
+      "samples": [
+        "div[text].cky-btn-revisit-wrapper.cky-revisit-bottom-left",
+        "div[border].cky-btn-revisit-wrapper.cky-revisit-bottom-left",
+        "a[text].search-button"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "a[text].wp-block-button__link.wp-element-button",
+        "a[text].wp-block-button__link.wp-element-button",
+        "a[bg].wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 5,
+      "samples": [
+        "button[text].cky-btn-revisit",
+        "button[border].cky-btn-revisit",
+        "a[bg].wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#0056a7",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "div[bg].cky-btn-revisit-wrapper.cky-revisit-bottom-left"
+      ]
+    }
+  ],
+  "gradients": [],
+  "shadowColor": []
+}

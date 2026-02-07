@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Preview screenshots (temporary verification images)
+output/preview-*.png
+output/report-*.png
+output/screenshot-*.png
+
+# Playwright cache
+playwright-report/
+test-results/

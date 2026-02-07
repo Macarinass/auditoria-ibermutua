@@ -1,0 +1,93 @@
+# ═══════════════════════════════════════════════════════════════
+#  MDC Rules — Ibermutua UI Audit
+#  Ejercicio académico · Curso shift.r
+# ═══════════════════════════════════════════════════════════════
+
+# ── Contexto del proyecto ─────────────────────────────────────
+# Este proyecto es una auditoría visual automatizada del sitio
+# ibermutua.es, realizada con Playwright + Node.js como ejercicio
+# del curso shift.r. Genera un informe HTML estático con 5 pestañas:
+# Colores, Tipografía, Iconos, Componentes (Showcase) y Accesibilidad.
+
+# ── Reglas generales ──────────────────────────────────────────
+
+## Lenguaje y runtime
+- Todo el código es Node.js (v18+) con CommonJS (require/module.exports)
+- No usar ES modules (import/export) — los scripts usan require()
+- No usar TypeScript ni frameworks (React, Vue, etc.)
+
+## Playwright
+- Usar siempre Chromium headless para la automatización
+- Viewport desktop fijo: 1440×900
+- Aceptar cookies robustamente buscando botones típicos ("Aceptar", "Aceptar todas", etc.)
+- Esperar networkidle + timeout extra antes de extraer datos
+- Usar deviceScaleFactor: 2 para screenshots de componentes (mejor resolución)
+
+## Estructura de archivos
+- Los scripts de auditoría van en la raíz: audit-*.js, enrich-*.js, extract-*.js, verify-*.js
+- Los datos intermedios van en output/*.json
+- Los assets visuales van en output/assets/ (icons/, components/)
+- Las capturas de páginas van en output/pages/
+- El informe final es output/audit.html + output/styles.css
+- Los screenshots de verificación (preview-*) son temporales, no forman parte del informe
+
+## Generación del informe (generate-report.js)
+- El informe es HTML+CSS estático sin frameworks
+- JavaScript inline mínimo solo para: pestañas, filtros, búsqueda global
+- Cada pestaña se genera con una función buildXxxTab()
+- Usar la función helper esc() para escapar HTML en todos los datos dinámicos
+- Usar buildSubNav() para navegación interna dentro de cada pestaña
+- Asignar id="sec-xxx" a las secciones para anclas de navegación
+- Los datos se leen de los JSON en output/ al inicio del script
+
+## Estilos (output/styles.css)
+- Variables CSS para colores: --blue-400, --blue-500, --gray-100..--gray-900, --white
+- Diseño limpio: spacing generoso, bordes suaves, sombras sutiles
+- Grid responsive con auto-fill/minmax para galerías
+- Componentes: .panel-card, .sub-nav, .tab-btn, .data-table, .pill
+- Imágenes de componentes: object-fit: contain (nunca cover ni stretch)
+
+## Componentes UI (Showcase)
+- Deduplicar componentes con misma estructura (normalizar selectores eliminando IDs dinámicos)
+- Excluir elementos no-UI: markers de mapa (leaflet), controles de carrusel (slick), cookie widgets
+- Para categoría tabs: solo conservar la barra de navegación completa, no sub-partes
+- Mostrar badge "N variantes" en verde cuando un componente agrupa múltiples instancias
+
+## Colores
+- Solo incluir colores verificados como realmente renderizados en la web
+- Los colores definidos en CSS pero no renderizados se marcan explícitamente como "no renderizado"
+- Agrupar por hex único dentro de cada categoría de uso
+- Paleta organizada en tabs: Todos, Azules, Grises, Estado (CSS cargado)
+
+## Tipografía
+- Escala rem() con layout limpio: badge rem(N) + etiqueta semántica + tamaño en px
+- Fusionar entradas que redondean al mismo pixel
+- Etiquetas semánticas automáticas: Texto pequeño, Texto base, Subtítulo, Título, Display, Hero...
+
+## Accesibilidad
+- Verificar contraste WCAG AA para todas las combinaciones texto/fondo
+- Reportar pass rate, fallos únicos, errores y warnings
+- Incluir mapa visual de contraste con todas las combinaciones
+- Propuestas de mejora concretas con elementos afectados
+
+# ── Convenciones de código ────────────────────────────────────
+- Nombres de variables descriptivos en inglés para código, español para labels del informe
+- Funciones helper al inicio del archivo (esc, pct, buildSubNav)
+- Comentarios con separadores ══════ para delimitar secciones de cada pestaña
+- JSON intermedios con campo "generated" para trazabilidad temporal
+- Console.log al final de cada script indicando archivos generados y tamaño
+
+# ── Flujo de ejecución ────────────────────────────────────────
+# Los scripts se ejecutan en este orden (cada uno depende del anterior):
+#
+# 1. audit-home.js         → home-info.json, screenshots
+# 2. audit-links.js        → all-links.json
+# 3. audit-pages.js        → audit-manifest.json, pages/*.html, pages/*.png
+# 4. audit-colors.js       → color-palette.json, colors-global.json, colors/*.json
+# 5. enrich-colors.js      → colors-by-role.json
+# 6. audit-typography.js   → typography.json, typography/*.json
+# 7. extract-rem-scale.js  → rem-scale.json
+# 8. audit-icons.js        → icons.json, assets/icons/*.png
+# 9. audit-components.js   → components.json, assets/components/*.png
+# 10. audit-accessibility.js → accessibility.json
+# 11. generate-report.js   → audit.html (informe final)

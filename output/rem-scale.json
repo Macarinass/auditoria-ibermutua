@@ -1,0 +1,964 @@
+{
+  "generated": "2026-02-07T18:08:03.095Z",
+  "baseFontSize": 16,
+  "totalEntries": 17,
+  "scale": [
+    {
+      "sizePx": 42,
+      "rem": 2.625,
+      "remLabel": "2.625rem",
+      "count": 1,
+      "components": [
+        {
+          "name": "Body",
+          "count": 1
+        }
+      ],
+      "roles": [
+        {
+          "name": "H2",
+          "count": 1
+        }
+      ],
+      "weights": [
+        600
+      ],
+      "lineHeights": [
+        54.6
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Body",
+          "role": "H2",
+          "text": "Ibermutuade un vistazo",
+          "page": "home"
+        }
+      ]
+    },
+    {
+      "sizePx": 40,
+      "rem": 2.5,
+      "remLabel": "2.5rem",
+      "count": 1,
+      "components": [
+        {
+          "name": "Hero",
+          "count": 1
+        }
+      ],
+      "roles": [
+        {
+          "name": "H1",
+          "count": 1
+        }
+      ],
+      "weights": [
+        500
+      ],
+      "lineHeights": [
+        56
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Hero",
+          "role": "H1",
+          "text": "Reconocimiento a las empresas y despacho",
+          "page": "noticia-detalle"
+        }
+      ]
+    },
+    {
+      "sizePx": 36,
+      "rem": 2.25,
+      "remLabel": "2.25rem",
+      "count": 3,
+      "components": [
+        {
+          "name": "Body",
+          "count": 3
+        }
+      ],
+      "roles": [
+        {
+          "name": "H1",
+          "count": 2
+        },
+        {
+          "name": "H2",
+          "count": 1
+        }
+      ],
+      "weights": [
+        500,
+        600
+      ],
+      "lineHeights": [
+        46.8,
+        50.4
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Body",
+          "role": "H2",
+          "text": "Más de un siglo de protección de empresa",
+          "page": "home"
+        },
+        {
+          "component": "Body",
+          "role": "H1",
+          "text": "Conoce tu mutua",
+          "page": "home"
+        },
+        {
+          "component": "Body",
+          "role": "H1",
+          "text": "Descubre las ventajas y beneficios de tr",
+          "page": "microsite-trabaja"
+        }
+      ]
+    },
+    {
+      "sizePx": 34,
+      "rem": 2.125,
+      "remLabel": "2.125rem",
+      "count": 2,
+      "components": [
+        {
+          "name": "Body",
+          "count": 2
+        }
+      ],
+      "roles": [
+        {
+          "name": "H2",
+          "count": 2
+        }
+      ],
+      "weights": [
+        600
+      ],
+      "lineHeights": [
+        44.2
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Body",
+          "role": "H2",
+          "text": "Únete a nuestro Equipo",
+          "page": "microsite-trabaja"
+        },
+        {
+          "component": "Body",
+          "role": "H2",
+          "text": "Conoce a nuestro Equipo de Reclutamiento",
+          "page": "microsite-trabaja"
+        }
+      ]
+    },
+    {
+      "sizePx": 32,
+      "rem": 2,
+      "remLabel": "2rem",
+      "count": 8,
+      "components": [
+        {
+          "name": "Hero",
+          "count": 8
+        }
+      ],
+      "roles": [
+        {
+          "name": "H1",
+          "count": 8
+        }
+      ],
+      "weights": [
+        500
+      ],
+      "lineHeights": [
+        41.6
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Hero",
+          "role": "H1",
+          "text": "Dedicados a la protección de empresas y ",
+          "page": "home"
+        },
+        {
+          "component": "Hero",
+          "role": "H1",
+          "text": "Dedicados a la protección de empresas",
+          "page": "empresas"
+        },
+        {
+          "component": "Hero",
+          "role": "H1",
+          "text": "Nuestros servicios",
+          "page": "servicios"
+        }
+      ]
+    },
+    {
+      "sizePx": 28.8,
+      "rem": 1.8,
+      "remLabel": "1.8rem",
+      "count": 5,
+      "components": [
+        {
+          "name": "Tabs",
+          "count": 5
+        }
+      ],
+      "roles": [
+        {
+          "name": "H4",
+          "count": 5
+        }
+      ],
+      "weights": [
+        600
+      ],
+      "lineHeights": [
+        46.1
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Tabs",
+          "role": "H4",
+          "text": "Todos los formularios",
+          "page": "formularios"
+        },
+        {
+          "component": "Tabs",
+          "role": "H4",
+          "text": "Formularios para Empresas:",
+          "page": "formularios"
+        },
+        {
+          "component": "Tabs",
+          "role": "H4",
+          "text": "Formularios para Trabajadores:",
+          "page": "formularios"
+        }
+      ]
+    },
+    {
+      "sizePx": 28,
+      "rem": 1.75,
+      "remLabel": "1.75rem",
+      "count": 10,
+      "components": [
+        {
+          "name": "Body",
+          "count": 8
+        },
+        {
+          "name": "Hero",
+          "count": 2
+        }
+      ],
+      "roles": [
+        {
+          "name": "H2",
+          "count": 8
+        },
+        {
+          "name": "H1",
+          "count": 2
+        }
+      ],
+      "weights": [
+        500,
+        600
+      ],
+      "lineHeights": [
+        36.4,
+        39.2
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Body",
+          "role": "H2",
+          "text": "Servicios Ibermutua",
+          "page": "home"
+        },
+        {
+          "component": "Body",
+          "role": "H2",
+          "text": "Servicios para tu empresa",
+          "page": "empresas"
+        },
+        {
+          "component": "Body",
+          "role": "H2",
+          "text": "Coberturas",
+          "page": "servicios"
+        }
+      ]
+    },
+    {
+      "sizePx": 24,
+      "rem": 1.5,
+      "remLabel": "1.5rem",
+      "count": 57,
+      "components": [
+        {
+          "name": "Accordion",
+          "count": 31
+        },
+        {
+          "name": "Body",
+          "count": 22
+        },
+        {
+          "name": "Formulario",
+          "count": 2
+        },
+        {
+          "name": "Hero",
+          "count": 1
+        },
+        {
+          "name": "Cita",
+          "count": 1
+        }
+      ],
+      "roles": [
+        {
+          "name": "H2",
+          "count": 54
+        },
+        {
+          "name": "Enlace",
+          "count": 1
+        },
+        {
+          "name": "H1",
+          "count": 1
+        },
+        {
+          "name": "Párrafo",
+          "count": 1
+        }
+      ],
+      "weights": [
+        400,
+        600
+      ],
+      "lineHeights": [
+        31.2,
+        38.4
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Body",
+          "role": "H2",
+          "text": "Empresas de salud y bienestar",
+          "page": "empresas"
+        },
+        {
+          "component": "Body",
+          "role": "Enlace",
+          "text": "Regímenes y sistemas especiales",
+          "page": "empresas"
+        },
+        {
+          "component": "Body",
+          "role": "H2",
+          "text": "Ibermutua digital",
+          "page": "servicios"
+        }
+      ]
+    },
+    {
+      "sizePx": 22,
+      "rem": 1.375,
+      "remLabel": "1.375rem",
+      "count": 2,
+      "components": [
+        {
+          "name": "Body",
+          "count": 2
+        }
+      ],
+      "roles": [
+        {
+          "name": "Span",
+          "count": 2
+        }
+      ],
+      "weights": [
+        700
+      ],
+      "lineHeights": [
+        30
+      ],
+      "families": [
+        "Lucida Console"
+      ],
+      "samples": [
+        {
+          "component": "Body",
+          "role": "Span",
+          "text": "+",
+          "page": "red-centros"
+        },
+        {
+          "component": "Body",
+          "role": "Span",
+          "text": "−",
+          "page": "red-centros"
+        }
+      ]
+    },
+    {
+      "sizePx": 20,
+      "rem": 1.25,
+      "remLabel": "1.25rem",
+      "count": 27,
+      "components": [
+        {
+          "name": "Body",
+          "count": 14
+        },
+        {
+          "name": "Tabs",
+          "count": 7
+        },
+        {
+          "name": "Hero",
+          "count": 6
+        }
+      ],
+      "roles": [
+        {
+          "name": "H3",
+          "count": 8
+        },
+        {
+          "name": "H2",
+          "count": 7
+        },
+        {
+          "name": "Span",
+          "count": 6
+        },
+        {
+          "name": "Énfasis",
+          "count": 3
+        },
+        {
+          "name": "Párrafo",
+          "count": 3
+        }
+      ],
+      "weights": [
+        300,
+        600,
+        700
+      ],
+      "lineHeights": [
+        26,
+        28,
+        30
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Body",
+          "role": "H2",
+          "text": "Trámites frecuentes",
+          "page": "home"
+        },
+        {
+          "component": "Body",
+          "role": "H2",
+          "text": "Noticias",
+          "page": "home"
+        },
+        {
+          "component": "Body",
+          "role": "H2",
+          "text": "Convocatorias y agenda",
+          "page": "home"
+        }
+      ]
+    },
+    {
+      "sizePx": 18,
+      "rem": 1.125,
+      "remLabel": "1.125rem",
+      "count": 2,
+      "components": [
+        {
+          "name": "Body",
+          "count": 2
+        }
+      ],
+      "roles": [
+        {
+          "name": "Énfasis",
+          "count": 2
+        }
+      ],
+      "weights": [
+        500
+      ],
+      "lineHeights": [
+        25.2
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Body",
+          "role": "Énfasis",
+          "text": "Eduardo Ruiz Esteban",
+          "page": "noticia-detalle"
+        },
+        {
+          "component": "Body",
+          "role": "Énfasis",
+          "text": "Antonio José Hernández Villa",
+          "page": "noticia-detalle"
+        }
+      ]
+    },
+    {
+      "sizePx": 16,
+      "rem": 1,
+      "remLabel": "1rem",
+      "count": 255,
+      "components": [
+        {
+          "name": "Body",
+          "count": 193
+        },
+        {
+          "name": "Accordion",
+          "count": 18
+        },
+        {
+          "name": "Hero",
+          "count": 14
+        },
+        {
+          "name": "Search",
+          "count": 10
+        },
+        {
+          "name": "Pagination",
+          "count": 9
+        },
+        {
+          "name": "Navegación",
+          "count": 4
+        },
+        {
+          "name": "Formulario",
+          "count": 3
+        },
+        {
+          "name": "Tabs",
+          "count": 2
+        },
+        {
+          "name": "Breadcrumb",
+          "count": 2
+        }
+      ],
+      "roles": [
+        {
+          "name": "Lista",
+          "count": 79
+        },
+        {
+          "name": "Párrafo",
+          "count": 54
+        },
+        {
+          "name": "Enlace",
+          "count": 48
+        },
+        {
+          "name": "Span",
+          "count": 25
+        },
+        {
+          "name": "Énfasis",
+          "count": 18
+        },
+        {
+          "name": "H3",
+          "count": 12
+        },
+        {
+          "name": "Input",
+          "count": 7
+        },
+        {
+          "name": "Label",
+          "count": 4
+        },
+        {
+          "name": "Caption",
+          "count": 3
+        },
+        {
+          "name": "H2",
+          "count": 3
+        },
+        {
+          "name": "H5",
+          "count": 2
+        }
+      ],
+      "weights": [
+        400,
+        500,
+        600,
+        700
+      ],
+      "lineHeights": [
+        16,
+        21.9,
+        22.4,
+        24,
+        25.6
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Body",
+          "role": "Enlace",
+          "text": "Ir al contenido",
+          "page": "home"
+        },
+        {
+          "component": "Hero",
+          "role": "Párrafo",
+          "text": "Renovamos nuestra actitud y atención cad",
+          "page": "home"
+        },
+        {
+          "component": "Search",
+          "role": "Label",
+          "text": "Provincia o Código Postal",
+          "page": "home"
+        }
+      ]
+    },
+    {
+      "sizePx": 14,
+      "rem": 0.875,
+      "remLabel": "0.875rem",
+      "count": 363,
+      "components": [
+        {
+          "name": "Navegación",
+          "count": 228
+        },
+        {
+          "name": "Body",
+          "count": 63
+        },
+        {
+          "name": "Tabs",
+          "count": 26
+        },
+        {
+          "name": "Footer",
+          "count": 24
+        },
+        {
+          "name": "Tag/Chip",
+          "count": 18
+        },
+        {
+          "name": "Formulario",
+          "count": 4
+        }
+      ],
+      "roles": [
+        {
+          "name": "Enlace",
+          "count": 269
+        },
+        {
+          "name": "Párrafo",
+          "count": 42
+        },
+        {
+          "name": "Label",
+          "count": 30
+        },
+        {
+          "name": "Span",
+          "count": 18
+        },
+        {
+          "name": "Énfasis",
+          "count": 3
+        },
+        {
+          "name": "H6",
+          "count": 1
+        }
+      ],
+      "weights": [
+        400,
+        500,
+        600
+      ],
+      "lineHeights": [
+        14,
+        18,
+        21,
+        22,
+        22.4
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Body",
+          "role": "Enlace",
+          "text": "900 23 33 33 - 24h.",
+          "page": "home"
+        },
+        {
+          "component": "Navegación",
+          "role": "Enlace",
+          "text": "Atención clientes",
+          "page": "home"
+        },
+        {
+          "component": "Navegación",
+          "role": "Enlace",
+          "text": "Preguntas frecuentes",
+          "page": "home"
+        }
+      ]
+    },
+    {
+      "sizePx": 13.6,
+      "rem": 0.85,
+      "remLabel": "0.85rem",
+      "count": 46,
+      "components": [
+        {
+          "name": "Botón",
+          "count": 41
+        },
+        {
+          "name": "Search",
+          "count": 5
+        }
+      ],
+      "roles": [
+        {
+          "name": "Enlace",
+          "count": 29
+        },
+        {
+          "name": "Botón",
+          "count": 17
+        }
+      ],
+      "weights": [
+        500
+      ],
+      "lineHeights": [
+        13
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Botón",
+          "role": "Enlace",
+          "text": "Red de centros",
+          "page": "home"
+        },
+        {
+          "component": "Botón",
+          "role": "Enlace",
+          "text": "Ibermutua digital",
+          "page": "home"
+        },
+        {
+          "component": "Search",
+          "role": "Botón",
+          "text": "Buscar",
+          "page": "home"
+        }
+      ]
+    },
+    {
+      "sizePx": 13,
+      "rem": 0.8125,
+      "remLabel": "0.8125rem",
+      "count": 2,
+      "components": [
+        {
+          "name": "Hero",
+          "count": 2
+        }
+      ],
+      "roles": [
+        {
+          "name": "Párrafo",
+          "count": 2
+        }
+      ],
+      "weights": [
+        300
+      ],
+      "lineHeights": [
+        16.9
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Hero",
+          "role": "Párrafo",
+          "text": "También puedes contactarnos por WhatsApp",
+          "page": "microsite-trabaja"
+        },
+        {
+          "component": "Hero",
+          "role": "Párrafo",
+          "text": "*Los CVs se pueden enviar exclusivamente",
+          "page": "microsite-trabaja"
+        }
+      ]
+    },
+    {
+      "sizePx": 12,
+      "rem": 0.75,
+      "remLabel": "0.75rem",
+      "count": 13,
+      "components": [
+        {
+          "name": "Body",
+          "count": 7
+        },
+        {
+          "name": "Tag/Chip",
+          "count": 6
+        }
+      ],
+      "roles": [
+        {
+          "name": "Span",
+          "count": 7
+        },
+        {
+          "name": "Enlace",
+          "count": 6
+        }
+      ],
+      "weights": [
+        400,
+        700
+      ],
+      "lineHeights": [
+        12,
+        20.4
+      ],
+      "families": [
+        "Helvetica Neue",
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Body",
+          "role": "Span",
+          "text": "4",
+          "page": "red-centros"
+        },
+        {
+          "component": "Body",
+          "role": "Span",
+          "text": "2",
+          "page": "red-centros"
+        },
+        {
+          "component": "Body",
+          "role": "Span",
+          "text": "11",
+          "page": "red-centros"
+        }
+      ]
+    },
+    {
+      "sizePx": 8,
+      "rem": 0.5,
+      "remLabel": "0.5rem",
+      "count": 1,
+      "components": [
+        {
+          "name": "Body",
+          "count": 1
+        }
+      ],
+      "roles": [
+        {
+          "name": "Enlace",
+          "count": 1
+        }
+      ],
+      "weights": [
+        400
+      ],
+      "lineHeights": [
+        8
+      ],
+      "families": [
+        "Noto Sans"
+      ],
+      "samples": [
+        {
+          "component": "Body",
+          "role": "Enlace",
+          "text": "OpenStreetMap",
+          "page": "red-centros"
+        }
+      ]
+    }
+  ]
+}

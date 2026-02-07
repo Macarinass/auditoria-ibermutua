@@ -1,0 +1,1636 @@
+{
+  "generated": "2026-02-07T17:24:18.538Z",
+  "pages_analyzed": 12,
+  "contrast": {
+    "total_pairs_checked": 809,
+    "total_pass": 766,
+    "total_fail": 43,
+    "pass_rate": 94.7,
+    "unique_combinations": 32,
+    "unique_fail": 6,
+    "unique_pass": 26,
+    "pairs": [
+      {
+        "fg_hex": "#0075c9",
+        "bg_hex": "#0075c9",
+        "ratio": 1,
+        "level": "FAIL",
+        "isLarge": false,
+        "count": 12,
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "Ibermutua digital",
+            "page": "home",
+            "fontSize": 13.6352,
+            "fontWeight": 500
+          },
+          {
+            "tag": "a",
+            "text": "Ibermutua digital",
+            "page": "empresas",
+            "fontSize": 13.6352,
+            "fontWeight": 500
+          },
+          {
+            "tag": "a",
+            "text": "Ibermutua digital",
+            "page": "servicios",
+            "fontSize": 13.6352,
+            "fontWeight": 500
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 12
+      },
+      {
+        "fg_hex": "#ffffff",
+        "bg_hex": "#ffffff",
+        "ratio": 1,
+        "level": "FAIL",
+        "isLarge": true,
+        "count": 4,
+        "pages": [
+          "servicios",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "h2",
+            "text": "Servicios de atención e información",
+            "page": "servicios",
+            "fontSize": 24,
+            "fontWeight": 600
+          },
+          {
+            "tag": "strong",
+            "text": "María Perdices Fernández",
+            "page": "microsite-trabaja",
+            "fontSize": 20,
+            "fontWeight": 700
+          },
+          {
+            "tag": "strong",
+            "text": "Antonio José García Hernández",
+            "page": "microsite-trabaja",
+            "fontSize": 20,
+            "fontWeight": 700
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 2
+      },
+      {
+        "fg_hex": "#ffffff",
+        "bg_hex": "#ffffff",
+        "ratio": 1,
+        "level": "FAIL",
+        "isLarge": false,
+        "count": 22,
+        "pages": [
+          "servicios",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "p",
+            "text": "¿Alguna consulta? Estaremos encantados/as de ayuda",
+            "page": "servicios",
+            "fontSize": 16,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "900 23 33 33 - 24h.",
+            "page": "servicios",
+            "fontSize": 16,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "info@ibermutua.es",
+            "page": "servicios",
+            "fontSize": 16,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "content",
+          "button"
+        ],
+        "pages_count": 2
+      },
+      {
+        "fg_hex": "#738aa0",
+        "bg_hex": "#ffffff",
+        "ratio": 3.58,
+        "level": "FAIL",
+        "isLarge": false,
+        "count": 3,
+        "pages": [
+          "servicio-detalle",
+          "tramite-detalle"
+        ],
+        "samples": [
+          {
+            "tag": "em",
+            "text": "Línea integral 24 horas",
+            "page": "servicio-detalle",
+            "fontSize": 14,
+            "fontWeight": 400
+          },
+          {
+            "tag": "em",
+            "text": "Asistencia en el extranjero",
+            "page": "servicio-detalle",
+            "fontSize": 14,
+            "fontWeight": 400
+          },
+          {
+            "tag": "em",
+            "text": "Línea integral 24 horas",
+            "page": "tramite-detalle",
+            "fontSize": 14,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 2
+      },
+      {
+        "fg_hex": "#2782ad",
+        "bg_hex": "#ffffff",
+        "ratio": 4.3,
+        "level": "AA",
+        "isLarge": true,
+        "count": 5,
+        "pages": [
+          "formularios"
+        ],
+        "samples": [
+          {
+            "tag": "h4",
+            "text": "Todos los formularios",
+            "page": "formularios",
+            "fontSize": 28.8,
+            "fontWeight": 600
+          },
+          {
+            "tag": "h4",
+            "text": "Formularios para Empresas:",
+            "page": "formularios",
+            "fontSize": 28.8,
+            "fontWeight": 600
+          },
+          {
+            "tag": "h4",
+            "text": "Formularios para Trabajadores:",
+            "page": "formularios",
+            "fontSize": 28.8,
+            "fontWeight": 600
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 1
+      },
+      {
+        "fg_hex": "#0075c9",
+        "bg_hex": "#ecf6fe",
+        "ratio": 4.37,
+        "level": "FAIL",
+        "isLarge": false,
+        "count": 1,
+        "pages": [
+          "empresas"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "Empresas",
+            "page": "empresas",
+            "fontSize": 14,
+            "fontWeight": 600
+          }
+        ],
+        "contexts": [
+          "nav"
+        ],
+        "pages_count": 1
+      },
+      {
+        "fg_hex": "#0075c9",
+        "bg_hex": "#f5f8fa",
+        "ratio": 4.49,
+        "level": "FAIL",
+        "isLarge": false,
+        "count": 1,
+        "pages": [
+          "red-centros"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "¿Por qué acudir directamente a nuestros centros?",
+            "page": "red-centros",
+            "fontSize": 16,
+            "fontWeight": 700
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 1
+      },
+      {
+        "fg_hex": "#0075c9",
+        "bg_hex": "#ffffff",
+        "ratio": 4.79,
+        "level": "AA",
+        "isLarge": false,
+        "count": 63,
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "Empresas",
+            "page": "home",
+            "fontSize": 14,
+            "fontWeight": 600
+          },
+          {
+            "tag": "a",
+            "text": "Trabajadores",
+            "page": "home",
+            "fontSize": 14,
+            "fontWeight": 600
+          },
+          {
+            "tag": "a",
+            "text": "Autónomos",
+            "page": "home",
+            "fontSize": 14,
+            "fontWeight": 600
+          }
+        ],
+        "contexts": [
+          "nav",
+          "button",
+          "header"
+        ],
+        "pages_count": 12
+      },
+      {
+        "fg_hex": "#ffffff",
+        "bg_hex": "#0075c9",
+        "ratio": 4.79,
+        "level": "AA",
+        "isLarge": false,
+        "count": 16,
+        "pages": [
+          "home",
+          "empresas",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "corporativo-quienes-somos",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "button",
+            "text": "Buscar",
+            "page": "home",
+            "fontSize": 13.6352,
+            "fontWeight": 500
+          },
+          {
+            "tag": "a",
+            "text": "Somos la mutua del futuroConoce tu mutua en Intern",
+            "page": "home",
+            "fontSize": 16,
+            "fontWeight": 400
+          },
+          {
+            "tag": "p",
+            "text": "Somos la mutua del futuroConoce tu mutua en Intern",
+            "page": "empresas",
+            "fontSize": 16,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "button",
+          "content",
+          "hero"
+        ],
+        "pages_count": 8
+      },
+      {
+        "fg_hex": "#0078a8",
+        "bg_hex": "#ffffff",
+        "ratio": 4.94,
+        "level": "AA",
+        "isLarge": false,
+        "count": 1,
+        "pages": [
+          "red-centros"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "OpenStreetMap",
+            "page": "red-centros",
+            "fontSize": 8,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 1
+      },
+      {
+        "fg_hex": "#566673",
+        "bg_hex": "#ecf6fe",
+        "ratio": 5.41,
+        "level": "AA",
+        "isLarge": false,
+        "count": 25,
+        "pages": [
+          "servicios"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "Accidente de trabajo y enfermedad profesional",
+            "page": "servicios",
+            "fontSize": 14,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "Enfermedad común y accidente no laboral",
+            "page": "servicios",
+            "fontSize": 14,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "Protección por cese de actividad para trabajadores",
+            "page": "servicios",
+            "fontSize": 14,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 1
+      },
+      {
+        "fg_hex": "#0065b7",
+        "bg_hex": "#f5f8fa",
+        "ratio": 5.55,
+        "level": "AA",
+        "isLarge": false,
+        "count": 2,
+        "pages": [
+          "home"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "Ver todo",
+            "page": "home",
+            "fontSize": 16,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "Ver todo",
+            "page": "home",
+            "fontSize": 16,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 1
+      },
+      {
+        "fg_hex": "#0065b7",
+        "bg_hex": "#f5f8fa",
+        "ratio": 5.55,
+        "level": "AAA",
+        "isLarge": true,
+        "count": 1,
+        "pages": [
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "h1",
+            "text": "Descubre las ventajas y beneficios de trabajar en ",
+            "page": "microsite-trabaja",
+            "fontSize": 36,
+            "fontWeight": 500
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 1
+      },
+      {
+        "fg_hex": "#566673",
+        "bg_hex": "#f5f8fa",
+        "ratio": 5.56,
+        "level": "AA",
+        "isLarge": false,
+        "count": 220,
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "900 23 33 33 - 24h.",
+            "page": "home",
+            "fontSize": 14,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "Atención clientes",
+            "page": "home",
+            "fontSize": 14,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "Preguntas frecuentes",
+            "page": "home",
+            "fontSize": 14,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "content",
+          "nav",
+          "footer"
+        ],
+        "pages_count": 12
+      },
+      {
+        "fg_hex": "#0065b7",
+        "bg_hex": "#ffffff",
+        "ratio": 5.92,
+        "level": "AA",
+        "isLarge": false,
+        "count": 45,
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "noticias-listado",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "Ver todo",
+            "page": "home",
+            "fontSize": 16,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "Ver todas las Comunidades Autónomas",
+            "page": "home",
+            "fontSize": 16,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "Ver todo",
+            "page": "empresas",
+            "fontSize": 16,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "content",
+          "hero"
+        ],
+        "pages_count": 9
+      },
+      {
+        "fg_hex": "#0065b7",
+        "bg_hex": "#ffffff",
+        "ratio": 5.92,
+        "level": "AAA",
+        "isLarge": true,
+        "count": 4,
+        "pages": [
+          "home",
+          "noticias-listado",
+          "corporativo-quienes-somos",
+          "faqs"
+        ],
+        "samples": [
+          {
+            "tag": "h1",
+            "text": "Conoce tu mutua",
+            "page": "home",
+            "fontSize": 36,
+            "fontWeight": 500
+          },
+          {
+            "tag": "h1",
+            "text": "Prensa y noticias",
+            "page": "noticias-listado",
+            "fontSize": 32,
+            "fontWeight": 500
+          },
+          {
+            "tag": "h1",
+            "text": "¿Quiénes somos?",
+            "page": "corporativo-quienes-somos",
+            "fontSize": 32,
+            "fontWeight": 500
+          }
+        ],
+        "contexts": [
+          "hero",
+          "header"
+        ],
+        "pages_count": 4
+      },
+      {
+        "fg_hex": "#ffffff",
+        "bg_hex": "#0065b7",
+        "ratio": 5.92,
+        "level": "AA",
+        "isLarge": false,
+        "count": 8,
+        "pages": [
+          "empresas",
+          "red-centros"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "Coberturas",
+            "page": "empresas",
+            "fontSize": 16,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "Prestaciones económicas",
+            "page": "empresas",
+            "fontSize": 16,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "Herramientas y Accesos",
+            "page": "empresas",
+            "fontSize": 16,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "nav",
+          "content"
+        ],
+        "pages_count": 2
+      },
+      {
+        "fg_hex": "#566673",
+        "bg_hex": "#ffffff",
+        "ratio": 5.93,
+        "level": "AA",
+        "isLarge": false,
+        "count": 194,
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "Ir al contenido",
+            "page": "home",
+            "fontSize": 16,
+            "fontWeight": 400
+          },
+          {
+            "tag": "label",
+            "text": "Provincia o Código Postal",
+            "page": "home",
+            "fontSize": 16,
+            "fontWeight": 400
+          },
+          {
+            "tag": "p",
+            "text": "Más que un centenario, nuestra declaración de prop",
+            "page": "home",
+            "fontSize": 16,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "content",
+          "hero",
+          "nav",
+          "header"
+        ],
+        "pages_count": 12
+      },
+      {
+        "fg_hex": "#566673",
+        "bg_hex": "#ffffff",
+        "ratio": 5.93,
+        "level": "AAA",
+        "isLarge": true,
+        "count": 1,
+        "pages": [
+          "corporativo-quienes-somos"
+        ],
+        "samples": [
+          {
+            "tag": "p",
+            "text": "Ibermutua es una Mutua colaboradora con la Segurid",
+            "page": "corporativo-quienes-somos",
+            "fontSize": 24,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 1
+      },
+      {
+        "fg_hex": "#595d6e",
+        "bg_hex": "#ffffff",
+        "ratio": 6.53,
+        "level": "AA",
+        "isLarge": false,
+        "count": 1,
+        "pages": [
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "2",
+            "page": "microsite-trabaja",
+            "fontSize": 16,
+            "fontWeight": 500
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 1
+      },
+      {
+        "fg_hex": "#004799",
+        "bg_hex": "#ecf6fe",
+        "ratio": 8.12,
+        "level": "AAA",
+        "isLarge": false,
+        "count": 3,
+        "pages": [
+          "red-centros",
+          "noticias-listado",
+          "faqs"
+        ],
+        "samples": [
+          {
+            "tag": "label",
+            "text": "Centro propio",
+            "page": "red-centros",
+            "fontSize": 14,
+            "fontWeight": 400
+          },
+          {
+            "tag": "label",
+            "text": "Todo",
+            "page": "noticias-listado",
+            "fontSize": 14,
+            "fontWeight": 400
+          },
+          {
+            "tag": "label",
+            "text": "Asistencia sanitaria",
+            "page": "faqs",
+            "fontSize": 14,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 3
+      },
+      {
+        "fg_hex": "#004799",
+        "bg_hex": "#f5f8fa",
+        "ratio": 8.34,
+        "level": "AAA",
+        "isLarge": true,
+        "count": 5,
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "formularios"
+        ],
+        "samples": [
+          {
+            "tag": "h1",
+            "text": "Dedicados a la protección de empresas y personas",
+            "page": "home",
+            "fontSize": 32,
+            "fontWeight": 500
+          },
+          {
+            "tag": "h1",
+            "text": "Dedicados a la protección de empresas",
+            "page": "empresas",
+            "fontSize": 32,
+            "fontWeight": 500
+          },
+          {
+            "tag": "h1",
+            "text": "Nuestros servicios",
+            "page": "servicios",
+            "fontSize": 32,
+            "fontWeight": 500
+          }
+        ],
+        "contexts": [
+          "header"
+        ],
+        "pages_count": 5
+      },
+      {
+        "fg_hex": "#004799",
+        "bg_hex": "#ffffff",
+        "ratio": 8.89,
+        "level": "AAA",
+        "isLarge": false,
+        "count": 23,
+        "pages": [
+          "home",
+          "noticias-listado",
+          "noticia-detalle"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "Corporativo",
+            "page": "home",
+            "fontSize": 14,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "Corporativo",
+            "page": "home",
+            "fontSize": 14,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "Corporativo",
+            "page": "noticias-listado",
+            "fontSize": 14,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "card"
+        ],
+        "pages_count": 3
+      },
+      {
+        "fg_hex": "#004799",
+        "bg_hex": "#ffffff",
+        "ratio": 8.89,
+        "level": "AAA",
+        "isLarge": true,
+        "count": 2,
+        "pages": [
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "h1",
+            "text": "Solicitud de asistencia sanitaria",
+            "page": "tramite-detalle",
+            "fontSize": 28,
+            "fontWeight": 500
+          },
+          {
+            "tag": "h1",
+            "text": "Trabaja en Ibermutua",
+            "page": "microsite-trabaja",
+            "fontSize": 32,
+            "fontWeight": 500
+          }
+        ],
+        "contexts": [
+          "header"
+        ],
+        "pages_count": 2
+      },
+      {
+        "fg_hex": "#262d33",
+        "bg_hex": "#ecf6fe",
+        "ratio": 12.74,
+        "level": "AAA",
+        "isLarge": false,
+        "count": 1,
+        "pages": [
+          "servicios"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "Servicios",
+            "page": "servicios",
+            "fontSize": 14,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "nav"
+        ],
+        "pages_count": 1
+      },
+      {
+        "fg_hex": "#262d33",
+        "bg_hex": "#f5f8fa",
+        "ratio": 13.08,
+        "level": "AAA",
+        "isLarge": false,
+        "count": 23,
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "p",
+            "text": "Renovamos nuestra actitud y atención cada día.Refo",
+            "page": "home",
+            "fontSize": 16,
+            "fontWeight": 400
+          },
+          {
+            "tag": "h2",
+            "text": "Noticias",
+            "page": "home",
+            "fontSize": 20,
+            "fontWeight": 600
+          },
+          {
+            "tag": "h2",
+            "text": "Convocatorias y agenda",
+            "page": "home",
+            "fontSize": 20,
+            "fontWeight": 600
+          }
+        ],
+        "contexts": [
+          "header",
+          "content"
+        ],
+        "pages_count": 9
+      },
+      {
+        "fg_hex": "#262d33",
+        "bg_hex": "#f5f8fa",
+        "ratio": 13.08,
+        "level": "AAA",
+        "isLarge": true,
+        "count": 5,
+        "pages": [
+          "home",
+          "empresas",
+          "red-centros",
+          "formularios"
+        ],
+        "samples": [
+          {
+            "tag": "h2",
+            "text": "Servicios Ibermutua",
+            "page": "home",
+            "fontSize": 28,
+            "fontWeight": 600
+          },
+          {
+            "tag": "h2",
+            "text": "Servicios para tu empresa",
+            "page": "empresas",
+            "fontSize": 28,
+            "fontWeight": 600
+          },
+          {
+            "tag": "h1",
+            "text": "Red de centros",
+            "page": "red-centros",
+            "fontSize": 24,
+            "fontWeight": 600
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 4
+      },
+      {
+        "fg_hex": "#292a2c",
+        "bg_hex": "#f5f8fa",
+        "ratio": 13.47,
+        "level": "AAA",
+        "isLarge": false,
+        "count": 1,
+        "pages": [
+          "noticia-detalle"
+        ],
+        "samples": [
+          {
+            "tag": "h2",
+            "text": "Noticias relacionadas",
+            "page": "noticia-detalle",
+            "fontSize": 20,
+            "fontWeight": 600
+          }
+        ],
+        "contexts": [
+          "footer"
+        ],
+        "pages_count": 1
+      },
+      {
+        "fg_hex": "#262d33",
+        "bg_hex": "#ffffff",
+        "ratio": 13.95,
+        "level": "AAA",
+        "isLarge": false,
+        "count": 49,
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "a",
+            "text": "Servicios",
+            "page": "home",
+            "fontSize": 14,
+            "fontWeight": 400
+          },
+          {
+            "tag": "a",
+            "text": "Corporativo",
+            "page": "home",
+            "fontSize": 14,
+            "fontWeight": 400
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "page": "home",
+            "fontSize": 16,
+            "fontWeight": 400
+          }
+        ],
+        "contexts": [
+          "nav",
+          "content",
+          "hero",
+          "header"
+        ],
+        "pages_count": 12
+      },
+      {
+        "fg_hex": "#262d33",
+        "bg_hex": "#ffffff",
+        "ratio": 13.95,
+        "level": "AAA",
+        "isLarge": true,
+        "count": 59,
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "formularios",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "h2",
+            "text": "Más de un siglo de protección de empresas y person",
+            "page": "home",
+            "fontSize": 36,
+            "fontWeight": 600
+          },
+          {
+            "tag": "h2",
+            "text": "Ibermutuade un vistazo",
+            "page": "home",
+            "fontSize": 42,
+            "fontWeight": 600
+          },
+          {
+            "tag": "h2",
+            "text": "Empresas de salud y bienestar",
+            "page": "empresas",
+            "fontSize": 24,
+            "fontWeight": 600
+          }
+        ],
+        "contexts": [
+          "content",
+          "hero",
+          "header"
+        ],
+        "pages_count": 9
+      },
+      {
+        "fg_hex": "#000000",
+        "bg_hex": "#ffffff",
+        "ratio": 21,
+        "level": "AAA",
+        "isLarge": true,
+        "count": 6,
+        "pages": [
+          "red-centros",
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "span",
+            "text": "+",
+            "page": "red-centros",
+            "fontSize": 22,
+            "fontWeight": 700
+          },
+          {
+            "tag": "span",
+            "text": "−",
+            "page": "red-centros",
+            "fontSize": 22,
+            "fontWeight": 700
+          },
+          {
+            "tag": "h2",
+            "text": "Perla Meneses Rodríguez, Médica Asistencial CP en ",
+            "page": "microsite-trabaja",
+            "fontSize": 24,
+            "fontWeight": 600
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 2
+      },
+      {
+        "fg_hex": "#000000",
+        "bg_hex": "#ffffff",
+        "ratio": 21,
+        "level": "AAA",
+        "isLarge": false,
+        "count": 3,
+        "pages": [
+          "microsite-trabaja"
+        ],
+        "samples": [
+          {
+            "tag": "h3",
+            "text": "Rocío Cano Fernández, Enfermera en Albacete",
+            "page": "microsite-trabaja",
+            "fontSize": 20,
+            "fontWeight": 600
+          },
+          {
+            "tag": "h3",
+            "text": "Rocío Cano Fernández, Enfermera en Albacete",
+            "page": "microsite-trabaja",
+            "fontSize": 20,
+            "fontWeight": 600
+          },
+          {
+            "tag": "h3",
+            "text": "Rocío Cano Fernández, Enfermera en Albacete",
+            "page": "microsite-trabaja",
+            "fontSize": 20,
+            "fontWeight": 600
+          }
+        ],
+        "contexts": [
+          "content"
+        ],
+        "pages_count": 1
+      }
+    ]
+  },
+  "issues": {
+    "total": 229,
+    "errors": 1,
+    "warnings": 228,
+    "unique": [
+      {
+        "type": "small-touch-target",
+        "severity": "warning",
+        "criterion": "2.5.5",
+        "tag": "a",
+        "detail": "Objetivo táctil muy pequeño: 16×16px (mínimo 44×44 recomendado)",
+        "selector": "a",
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "count": 120
+      },
+      {
+        "type": "empty-alt",
+        "severity": "warning",
+        "criterion": "1.1.1",
+        "tag": "img",
+        "selector": "img",
+        "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/brand-standard-neg-hor.svg",
+        "detail": "Imagen con alt vacío (verificar si es decorativa)",
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "red-centros",
+          "noticias-listado",
+          "corporativo-quienes-somos",
+          "faqs",
+          "microsite-trabaja"
+        ],
+        "count": 51
+      },
+      {
+        "type": "small-touch-target",
+        "severity": "warning",
+        "criterion": "2.5.5",
+        "tag": "a",
+        "detail": "Objetivo táctil muy pequeño: 14×16px (mínimo 44×44 recomendado)",
+        "selector": "a",
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "count": 24
+      },
+      {
+        "type": "focus-outline-removed",
+        "severity": "warning",
+        "criterion": "2.4.7",
+        "tag": "style",
+        "detail": "Se detectó \"outline: none/0\" en estilos. Verificar que existe indicador de foco alternativo.",
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "count": 12
+      },
+      {
+        "type": "small-touch-target",
+        "severity": "warning",
+        "criterion": "2.5.5",
+        "tag": "a",
+        "detail": "Objetivo táctil muy pequeño: 1×1px (mínimo 44×44 recomendado)",
+        "selector": "a.skip-link.screen-reader-text",
+        "pages": [
+          "home",
+          "empresas",
+          "servicios",
+          "servicio-detalle",
+          "red-centros",
+          "formularios",
+          "noticias-listado",
+          "noticia-detalle",
+          "corporativo-quienes-somos",
+          "faqs",
+          "tramite-detalle",
+          "microsite-trabaja"
+        ],
+        "count": 12
+      },
+      {
+        "type": "heading-multiple-h1",
+        "severity": "warning",
+        "criterion": "1.3.1",
+        "tag": "h1",
+        "detail": "Múltiples H1 (2). Recomendado: uno solo.",
+        "pages": [
+          "home",
+          "microsite-trabaja"
+        ],
+        "count": 2
+      },
+      {
+        "type": "heading-skip",
+        "severity": "warning",
+        "criterion": "1.3.1",
+        "tag": "h5",
+        "detail": "Salto de nivel: H1 → H5 (\"Urgencias\")",
+        "pages": [
+          "servicio-detalle"
+        ],
+        "count": 1
+      },
+      {
+        "type": "heading-skip",
+        "severity": "warning",
+        "criterion": "1.3.1",
+        "tag": "h4",
+        "detail": "Salto de nivel: H2 → H4 (\"Formularios para Empresas:\")",
+        "pages": [
+          "formularios"
+        ],
+        "count": 1
+      },
+      {
+        "type": "heading-skip",
+        "severity": "warning",
+        "criterion": "1.3.1",
+        "tag": "h4",
+        "detail": "Salto de nivel: H2 → H4 (\"Formularios para Trabajadores:\")",
+        "pages": [
+          "formularios"
+        ],
+        "count": 1
+      },
+      {
+        "type": "heading-skip",
+        "severity": "warning",
+        "criterion": "1.3.1",
+        "tag": "h4",
+        "detail": "Salto de nivel: H2 → H4 (\"Todos los formularios:\")",
+        "pages": [
+          "formularios"
+        ],
+        "count": 1
+      },
+      {
+        "type": "heading-skip",
+        "severity": "warning",
+        "criterion": "1.3.1",
+        "tag": "h4",
+        "detail": "Salto de nivel: H2 → H4 (\"Formularios para Asesorías:\")",
+        "pages": [
+          "formularios"
+        ],
+        "count": 1
+      },
+      {
+        "type": "heading-skip",
+        "severity": "warning",
+        "criterion": "1.3.1",
+        "tag": "h5",
+        "detail": "Salto de nivel: H2 → H5 (\"¿Tienes dudas? Ponte en contac\")",
+        "pages": [
+          "tramite-detalle"
+        ],
+        "count": 1
+      },
+      {
+        "type": "heading-skip",
+        "severity": "warning",
+        "criterion": "1.3.1",
+        "tag": "h3",
+        "detail": "Salto de nivel: H1 → H3 (\"Condiciones laborales\")",
+        "pages": [
+          "microsite-trabaja"
+        ],
+        "count": 1
+      },
+      {
+        "type": "missing-label",
+        "severity": "error",
+        "criterion": "1.3.1 / 4.1.2",
+        "tag": "input",
+        "selector": "input[type=text]",
+        "detail": "Campo de formulario sin label, aria-label ni title",
+        "pages": [
+          "faqs"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  "page_summaries": [
+    {
+      "page_id": "home",
+      "pairs_total": 45,
+      "pairs_pass": 44,
+      "pairs_fail": 1,
+      "issues_error": 0,
+      "issues_warning": 16,
+      "htmlLang": "es-ES",
+      "headings": 9
+    },
+    {
+      "page_id": "empresas",
+      "pairs_total": 38,
+      "pairs_pass": 36,
+      "pairs_fail": 2,
+      "issues_error": 0,
+      "issues_warning": 16,
+      "htmlLang": "es-ES",
+      "headings": 5
+    },
+    {
+      "page_id": "servicios",
+      "pairs_total": 79,
+      "pairs_pass": 73,
+      "pairs_fail": 6,
+      "issues_error": 0,
+      "issues_warning": 19,
+      "htmlLang": "es-ES",
+      "headings": 10
+    },
+    {
+      "page_id": "servicio-detalle",
+      "pairs_total": 106,
+      "pairs_pass": 103,
+      "pairs_fail": 3,
+      "issues_error": 0,
+      "issues_warning": 15,
+      "htmlLang": "es-ES",
+      "headings": 7
+    },
+    {
+      "page_id": "red-centros",
+      "pairs_total": 44,
+      "pairs_pass": 42,
+      "pairs_fail": 2,
+      "issues_error": 0,
+      "issues_warning": 32,
+      "htmlLang": "es-ES",
+      "headings": 1
+    },
+    {
+      "page_id": "formularios",
+      "pairs_total": 92,
+      "pairs_pass": 91,
+      "pairs_fail": 1,
+      "issues_error": 0,
+      "issues_warning": 18,
+      "htmlLang": "es-ES",
+      "headings": 45
+    },
+    {
+      "page_id": "noticias-listado",
+      "pairs_total": 75,
+      "pairs_pass": 74,
+      "pairs_fail": 1,
+      "issues_error": 0,
+      "issues_warning": 15,
+      "htmlLang": "es-ES",
+      "headings": 2
+    },
+    {
+      "page_id": "noticia-detalle",
+      "pairs_total": 41,
+      "pairs_pass": 40,
+      "pairs_fail": 1,
+      "issues_error": 0,
+      "issues_warning": 14,
+      "htmlLang": "es-ES",
+      "headings": 3
+    },
+    {
+      "page_id": "corporativo-quienes-somos",
+      "pairs_total": 49,
+      "pairs_pass": 48,
+      "pairs_fail": 1,
+      "issues_error": 0,
+      "issues_warning": 16,
+      "htmlLang": "es-ES",
+      "headings": 7
+    },
+    {
+      "page_id": "faqs",
+      "pairs_total": 31,
+      "pairs_pass": 30,
+      "pairs_fail": 1,
+      "issues_error": 1,
+      "issues_warning": 15,
+      "htmlLang": "es-ES",
+      "headings": 1
+    },
+    {
+      "page_id": "tramite-detalle",
+      "pairs_total": 59,
+      "pairs_pass": 57,
+      "pairs_fail": 2,
+      "issues_error": 0,
+      "issues_warning": 15,
+      "htmlLang": "es-ES",
+      "headings": 9
+    },
+    {
+      "page_id": "microsite-trabaja",
+      "pairs_total": 150,
+      "pairs_pass": 128,
+      "pairs_fail": 22,
+      "issues_error": 0,
+      "issues_warning": 37,
+      "htmlLang": "es-ES",
+      "headings": 29
+    }
+  ],
+  "recommendations": [
+    {
+      "criterion": "1.4.3 Contraste mínimo",
+      "severity": "error",
+      "title": "6 combinaciones de color no cumplen WCAG AA",
+      "detail": "Los pares de color texto/fondo listados no alcanzan el ratio mínimo de contraste (4.5:1 para texto normal, 3:1 para texto grande).",
+      "action": "Oscurecer textos claros o aclarar fondos. Para los grises sobre blanco, usar como mínimo #595959 (ratio 7:1) o #767676 (ratio 4.5:1).",
+      "affected": [
+        "#0075c9 sobre #0075c9 (ratio 1:1)",
+        "#ffffff sobre #ffffff (ratio 1:1)",
+        "#ffffff sobre #ffffff (ratio 1:1)",
+        "#738aa0 sobre #ffffff (ratio 3.58:1)",
+        "#0075c9 sobre #ecf6fe (ratio 4.37:1)"
+      ]
+    },
+    {
+      "criterion": "1.3.1 / 4.1.2 Etiquetas de formulario",
+      "severity": "error",
+      "title": "1 campos sin label asociado",
+      "detail": "Los campos sin label, aria-label ni title no son accesibles.",
+      "action": "Asociar un <label for=\"id\"> a cada campo, o usar aria-label.",
+      "affected": [
+        "input[type=text]"
+      ]
+    },
+    {
+      "criterion": "1.3.1 Estructura de encabezados",
+      "severity": "warning",
+      "title": "Problemas en la jerarquía de encabezados",
+      "detail": "Múltiples H1 (2). Recomendado: uno solo.. Salto de nivel: H1 → H5 (\"Urgencias\"). Salto de nivel: H2 → H4 (\"Formularios para Empresas:\"). Salto de nivel: H2 → H4 (\"Formularios para Trabajadores:\"). Salto de nivel: H2 → H4 (\"Todos los formularios:\"). Salto de nivel: H2 → H4 (\"Formularios para Asesorías:\"). Salto de nivel: H2 → H5 (\"¿Tienes dudas? Ponte en contac\"). Salto de nivel: H1 → H3 (\"Condiciones laborales\")",
+      "action": "Mantener jerarquía secuencial (H1→H2→H3). Un solo H1 por página.",
+      "affected": [
+        "2 páginas",
+        "1 páginas",
+        "1 páginas",
+        "1 páginas",
+        "1 páginas",
+        "1 páginas",
+        "1 páginas",
+        "1 páginas"
+      ]
+    },
+    {
+      "criterion": "2.4.7 Foco visible",
+      "severity": "warning",
+      "title": "Indicador de foco posiblemente eliminado",
+      "detail": "Se detectó \"outline: none/0\" en CSS. Los usuarios de teclado necesitan un indicador de foco visible.",
+      "action": "Reemplazar outline:none con un estilo de foco alternativo (box-shadow, border, etc.).",
+      "affected": [
+        "Estilos globales"
+      ]
+    },
+    {
+      "criterion": "2.5.5 Tamaño del objetivo",
+      "severity": "warning",
+      "title": "156 objetivos táctiles demasiado pequeños",
+      "detail": "Botones o enlaces con área interactiva menor a 44×44px.",
+      "action": "Aumentar padding o min-width/min-height a 44px mínimo.",
+      "affected": [
+        "Objetivo táctil muy pequeño: 16×16px (mínimo 44×44 recomendado)",
+        "Objetivo táctil muy pequeño: 14×16px (mínimo 44×44 recomendado)",
+        "Objetivo táctil muy pequeño: 1×1px (mínimo 44×44 recomendado)"
+      ]
+    }
+  ]
+}

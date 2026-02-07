@@ -1,0 +1,1938 @@
+{
+  "cssVars": [
+    "--wp--preset--color--vivid-red: #cf2e2e",
+    "--wp--preset--color--luminous-vivid-orange: #ff6900",
+    "--wp--preset--color--light-green-cyan: #aee5b9",
+    "--wp--preset--color--vivid-green-cyan: #1cdc9a",
+    "--wp--preset--color--red: #ff0000",
+    "--wp--preset--color--green: #00ff00",
+    "--wp--preset--color--vibrant-yellow: #ffcd42",
+    "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)",
+    "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)",
+    "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)"
+  ],
+  "classColors": [
+    {
+      "selector": ".fancybox-infobar",
+      "prop": "color",
+      "value": "rgb(204, 204, 204)",
+      "page": "home"
+    },
+    {
+      "selector": ".fancybox-error",
+      "prop": "background-color",
+      "value": "rgb(255, 255, 255)",
+      "page": "home"
+    },
+    {
+      "selector": ".fancybox-error p",
+      "prop": "color",
+      "value": "rgb(68, 68, 68)",
+      "page": "home"
+    },
+    {
+      "selector": ".wp-block-getwid-contact-form .wp-block-getwid-contact-form__result.success",
+      "prop": "color",
+      "value": "green",
+      "page": "home"
+    },
+    {
+      "selector": ".wp-block-getwid-mailchimp .wp-block-getwid-mailchimp__result.success",
+      "prop": "color",
+      "value": "green",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "background-color",
+      "value": "rgb(246, 255, 237)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-top-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-right-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-bottom-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-left-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-success .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(82, 196, 26)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "background-color",
+      "value": "rgb(230, 247, 255)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-top-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-right-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-bottom-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-left-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-info .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(24, 144, 255)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "background-color",
+      "value": "rgb(255, 251, 230)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-top-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-right-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-bottom-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-left-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-warning .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(250, 173, 20)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "background-color",
+      "value": "rgb(255, 242, 240)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-top-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-right-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-bottom-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-left-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-error .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(255, 77, 79)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "background-color",
+      "value": "transparent",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-top-color",
+      "value": "initial",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-right-color",
+      "value": "initial",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-bottom-color",
+      "value": "initial",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-left-color",
+      "value": "initial",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "outline-color",
+      "value": "initial",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-close-icon .anticon-close",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.45)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-close-icon .anticon-close:hover",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.75)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-close-text",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.45)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-close-text:hover",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.75)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-with-description .ant-alert-message",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-message",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-top-color",
+      "value": "initial",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-right-color",
+      "value": "initial",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-bottom-color",
+      "value": "initial",
+      "page": "home"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-left-color",
+      "value": "initial",
+      "page": "home"
+    },
+    {
+      "selector": ".fancybox-infobar",
+      "prop": "color",
+      "value": "rgb(204, 204, 204)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".fancybox-error",
+      "prop": "background-color",
+      "value": "rgb(255, 255, 255)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".fancybox-error p",
+      "prop": "color",
+      "value": "rgb(68, 68, 68)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".wp-block-getwid-contact-form .wp-block-getwid-contact-form__result.success",
+      "prop": "color",
+      "value": "green",
+      "page": "formularios"
+    },
+    {
+      "selector": ".wp-block-getwid-mailchimp .wp-block-getwid-mailchimp__result.success",
+      "prop": "color",
+      "value": "green",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "background-color",
+      "value": "rgb(246, 255, 237)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-top-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-right-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-bottom-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-left-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-success .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(82, 196, 26)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "background-color",
+      "value": "rgb(230, 247, 255)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-top-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-right-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-bottom-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-left-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-info .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(24, 144, 255)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "background-color",
+      "value": "rgb(255, 251, 230)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-top-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-right-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-bottom-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-left-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-warning .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(250, 173, 20)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "background-color",
+      "value": "rgb(255, 242, 240)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-top-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-right-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-bottom-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-left-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-error .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(255, 77, 79)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "background-color",
+      "value": "transparent",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-top-color",
+      "value": "initial",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-right-color",
+      "value": "initial",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-bottom-color",
+      "value": "initial",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-left-color",
+      "value": "initial",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "outline-color",
+      "value": "initial",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-close-icon .anticon-close",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.45)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-close-icon .anticon-close:hover",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.75)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-close-text",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.45)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-close-text:hover",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.75)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-with-description .ant-alert-message",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-message",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-top-color",
+      "value": "initial",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-right-color",
+      "value": "initial",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-bottom-color",
+      "value": "initial",
+      "page": "formularios"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-left-color",
+      "value": "initial",
+      "page": "formularios"
+    },
+    {
+      "selector": ".fancybox-infobar",
+      "prop": "color",
+      "value": "rgb(204, 204, 204)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".fancybox-error",
+      "prop": "background-color",
+      "value": "rgb(255, 255, 255)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".fancybox-error p",
+      "prop": "color",
+      "value": "rgb(68, 68, 68)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".wp-block-getwid-contact-form .wp-block-getwid-contact-form__result.success",
+      "prop": "color",
+      "value": "green",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".wp-block-getwid-mailchimp .wp-block-getwid-mailchimp__result.success",
+      "prop": "color",
+      "value": "green",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "background-color",
+      "value": "rgb(246, 255, 237)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-top-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-right-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-bottom-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-left-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-success .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(82, 196, 26)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "background-color",
+      "value": "rgb(230, 247, 255)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-top-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-right-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-bottom-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-left-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-info .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(24, 144, 255)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "background-color",
+      "value": "rgb(255, 251, 230)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-top-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-right-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-bottom-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-left-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-warning .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(250, 173, 20)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "background-color",
+      "value": "rgb(255, 242, 240)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-top-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-right-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-bottom-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-left-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-error .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(255, 77, 79)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "background-color",
+      "value": "transparent",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-top-color",
+      "value": "initial",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-right-color",
+      "value": "initial",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-bottom-color",
+      "value": "initial",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-left-color",
+      "value": "initial",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "outline-color",
+      "value": "initial",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-close-icon .anticon-close",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.45)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-close-icon .anticon-close:hover",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.75)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-close-text",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.45)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-close-text:hover",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.75)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-with-description .ant-alert-message",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-message",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-top-color",
+      "value": "initial",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-right-color",
+      "value": "initial",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-bottom-color",
+      "value": "initial",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-left-color",
+      "value": "initial",
+      "page": "red-centros"
+    },
+    {
+      "selector": ".fancybox-infobar",
+      "prop": "color",
+      "value": "rgb(204, 204, 204)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".fancybox-error",
+      "prop": "background-color",
+      "value": "rgb(255, 255, 255)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".fancybox-error p",
+      "prop": "color",
+      "value": "rgb(68, 68, 68)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".wp-block-getwid-contact-form .wp-block-getwid-contact-form__result.success",
+      "prop": "color",
+      "value": "green",
+      "page": "faqs"
+    },
+    {
+      "selector": ".wp-block-getwid-mailchimp .wp-block-getwid-mailchimp__result.success",
+      "prop": "color",
+      "value": "green",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "background-color",
+      "value": "rgb(246, 255, 237)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-top-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-right-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-bottom-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-left-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-success .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(82, 196, 26)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "background-color",
+      "value": "rgb(230, 247, 255)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-top-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-right-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-bottom-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-left-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-info .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(24, 144, 255)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "background-color",
+      "value": "rgb(255, 251, 230)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-top-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-right-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-bottom-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-left-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-warning .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(250, 173, 20)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "background-color",
+      "value": "rgb(255, 242, 240)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-top-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-right-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-bottom-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-left-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-error .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(255, 77, 79)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "background-color",
+      "value": "transparent",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-top-color",
+      "value": "initial",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-right-color",
+      "value": "initial",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-bottom-color",
+      "value": "initial",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-left-color",
+      "value": "initial",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "outline-color",
+      "value": "initial",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-close-icon .anticon-close",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.45)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-close-icon .anticon-close:hover",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.75)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-close-text",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.45)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-close-text:hover",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.75)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-with-description .ant-alert-message",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-message",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-top-color",
+      "value": "initial",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-right-color",
+      "value": "initial",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-bottom-color",
+      "value": "initial",
+      "page": "faqs"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-left-color",
+      "value": "initial",
+      "page": "faqs"
+    },
+    {
+      "selector": ".fancybox-infobar",
+      "prop": "color",
+      "value": "rgb(204, 204, 204)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".fancybox-error",
+      "prop": "background-color",
+      "value": "rgb(255, 255, 255)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".fancybox-error p",
+      "prop": "color",
+      "value": "rgb(68, 68, 68)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".wp-block-getwid-contact-form .wp-block-getwid-contact-form__result.success",
+      "prop": "color",
+      "value": "green",
+      "page": "tramite"
+    },
+    {
+      "selector": ".wp-block-getwid-mailchimp .wp-block-getwid-mailchimp__result.success",
+      "prop": "color",
+      "value": "green",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "background-color",
+      "value": "rgb(246, 255, 237)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-top-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-right-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-bottom-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-success",
+      "prop": "border-left-color",
+      "value": "rgb(183, 235, 143)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-success .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(82, 196, 26)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "background-color",
+      "value": "rgb(230, 247, 255)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-top-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-right-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-bottom-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-info",
+      "prop": "border-left-color",
+      "value": "rgb(145, 213, 255)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-info .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(24, 144, 255)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "background-color",
+      "value": "rgb(255, 251, 230)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-top-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-right-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-bottom-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-warning",
+      "prop": "border-left-color",
+      "value": "rgb(255, 229, 143)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-warning .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(250, 173, 20)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "background-color",
+      "value": "rgb(255, 242, 240)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-top-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-right-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-bottom-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-error",
+      "prop": "border-left-color",
+      "value": "rgb(255, 204, 199)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-error .ant-alert-icon",
+      "prop": "color",
+      "value": "rgb(255, 77, 79)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "background-color",
+      "value": "transparent",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-top-color",
+      "value": "initial",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-right-color",
+      "value": "initial",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-bottom-color",
+      "value": "initial",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "border-left-color",
+      "value": "initial",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-close-icon",
+      "prop": "outline-color",
+      "value": "initial",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-close-icon .anticon-close",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.45)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-close-icon .anticon-close:hover",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.75)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-close-text",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.45)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-close-text:hover",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.75)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-with-description .ant-alert-message",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-message",
+      "prop": "color",
+      "value": "rgba(0, 0, 0, 0.85)",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-top-color",
+      "value": "initial",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-right-color",
+      "value": "initial",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-bottom-color",
+      "value": "initial",
+      "page": "tramite"
+    },
+    {
+      "selector": ".ant-alert-banner",
+      "prop": "border-left-color",
+      "value": "initial",
+      "page": "tramite"
+    }
+  ],
+  "statusElements": [
+    {
+      "selector": "[class*=\"error\"]",
+      "tag": "div",
+      "className": "grecaptcha-error",
+      "text": "",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": false,
+      "page": "home"
+    },
+    {
+      "selector": "[class*=\"info\"]",
+      "tag": "div",
+      "className": "site-info",
+      "text": "© Ibermutua, Mutua Colaboradora con la Seguridad Social nº 2",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "home"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice",
+      "text": "Valoramos tu privacidad    Utilizamos cookies propias y de t",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "home"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-group",
+      "text": "Utilizamos cookies propias y de terceros para analizar el us",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "block",
+      "visible": true,
+      "page": "home"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-des",
+      "text": "Utilizamos cookies propias y de terceros para analizar el us",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "block",
+      "visible": true,
+      "page": "home"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-btn-wrapper",
+      "text": "Personalizar Rechazar todo Aceptar todo",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "flex",
+      "visible": true,
+      "page": "home"
+    },
+    {
+      "selector": "[class*=\"error\"]",
+      "tag": "div",
+      "className": "grecaptcha-error",
+      "text": "",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": false,
+      "page": "formularios"
+    },
+    {
+      "selector": "[class*=\"info\"]",
+      "tag": "div",
+      "className": "site-info",
+      "text": "© Ibermutua, Mutua Colaboradora con la Seguridad Social nº 2",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "formularios"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice",
+      "text": "Valoramos tu privacidad    Utilizamos cookies propias y de t",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "formularios"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-group",
+      "text": "Utilizamos cookies propias y de terceros para analizar el us",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "block",
+      "visible": true,
+      "page": "formularios"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-des",
+      "text": "Utilizamos cookies propias y de terceros para analizar el us",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "block",
+      "visible": true,
+      "page": "formularios"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-btn-wrapper",
+      "text": "Personalizar Rechazar todo Aceptar todo",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "flex",
+      "visible": true,
+      "page": "formularios"
+    },
+    {
+      "selector": "[class*=\"error\"]",
+      "tag": "div",
+      "className": "grecaptcha-error",
+      "text": "",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": false,
+      "page": "red-centros"
+    },
+    {
+      "selector": "[class*=\"info\"]",
+      "tag": "div",
+      "className": "site-info",
+      "text": "© Ibermutua, Mutua Colaboradora con la Seguridad Social nº 2",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "red-centros"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice",
+      "text": "Valoramos tu privacidad    Utilizamos cookies propias y de t",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "red-centros"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-group",
+      "text": "Utilizamos cookies propias y de terceros para analizar el us",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "block",
+      "visible": true,
+      "page": "red-centros"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-des",
+      "text": "Utilizamos cookies propias y de terceros para analizar el us",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "block",
+      "visible": true,
+      "page": "red-centros"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-btn-wrapper",
+      "text": "Personalizar Rechazar todo Aceptar todo",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "flex",
+      "visible": true,
+      "page": "red-centros"
+    },
+    {
+      "selector": "[class*=\"error\"]",
+      "tag": "body",
+      "className": "error404 wp-custom-logo wp-theme-ibermutua hfeed no-sidebar",
+      "text": "Valoramos tu privacidad    Utilizamos cookies propias y de t",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "faqs"
+    },
+    {
+      "selector": "[class*=\"error\"]",
+      "tag": "section",
+      "className": "error-404",
+      "text": "Error 404\n\n\n\nPágina no encontrada\n\n\n\nNo pasa nada. Aquí tien",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "faqs"
+    },
+    {
+      "selector": "[class*=\"error\"]",
+      "tag": "div",
+      "className": "grecaptcha-error",
+      "text": "",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": false,
+      "page": "faqs"
+    },
+    {
+      "selector": "[class*=\"info\"]",
+      "tag": "div",
+      "className": "site-info",
+      "text": "© Ibermutua, Mutua Colaboradora con la Seguridad Social nº 2",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "faqs"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice",
+      "text": "Valoramos tu privacidad    Utilizamos cookies propias y de t",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "faqs"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-group",
+      "text": "Utilizamos cookies propias y de terceros para analizar el us",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "block",
+      "visible": true,
+      "page": "faqs"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-des",
+      "text": "Utilizamos cookies propias y de terceros para analizar el us",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "block",
+      "visible": true,
+      "page": "faqs"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-btn-wrapper",
+      "text": "Personalizar Rechazar todo Aceptar todo",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "flex",
+      "visible": true,
+      "page": "faqs"
+    },
+    {
+      "selector": "[class*=\"error\"]",
+      "tag": "body",
+      "className": "error404 wp-custom-logo wp-theme-ibermutua hfeed no-sidebar",
+      "text": "Valoramos tu privacidad    Utilizamos cookies propias y de t",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "tramite"
+    },
+    {
+      "selector": "[class*=\"error\"]",
+      "tag": "section",
+      "className": "error-404",
+      "text": "Error 404\n\n\n\nPágina no encontrada\n\n\n\nNo pasa nada. Aquí tien",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "tramite"
+    },
+    {
+      "selector": "[class*=\"error\"]",
+      "tag": "div",
+      "className": "grecaptcha-error",
+      "text": "",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": false,
+      "page": "tramite"
+    },
+    {
+      "selector": "[class*=\"info\"]",
+      "tag": "div",
+      "className": "site-info",
+      "text": "© Ibermutua, Mutua Colaboradora con la Seguridad Social nº 2",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "tramite"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice",
+      "text": "Valoramos tu privacidad    Utilizamos cookies propias y de t",
+      "color": "rgb(86, 102, 115)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(86, 102, 115)",
+      "display": "block",
+      "visible": true,
+      "page": "tramite"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-group",
+      "text": "Utilizamos cookies propias y de terceros para analizar el us",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "block",
+      "visible": true,
+      "page": "tramite"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-des",
+      "text": "Utilizamos cookies propias y de terceros para analizar el us",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "block",
+      "visible": true,
+      "page": "tramite"
+    },
+    {
+      "selector": "[class*=\"notice\"]",
+      "tag": "div",
+      "className": "cky-notice-btn-wrapper",
+      "text": "Personalizar Rechazar todo Aceptar todo",
+      "color": "rgb(33, 33, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderColor": "rgb(33, 33, 33)",
+      "display": "flex",
+      "visible": true,
+      "page": "tramite"
+    }
+  ],
+  "statusPatterns": [
+    {
+      "tag": "span",
+      "className": "cky-always-active",
+      "text": "Siempre activas",
+      "color": "rgb(0, 128, 0)",
+      "colorType": "success-green",
+      "bg": null,
+      "bgType": null,
+      "border": "rgb(0, 128, 0)",
+      "borderType": "success-green",
+      "visible": true,
+      "page": "home"
+    },
+    {
+      "tag": "a",
+      "className": "",
+      "text": "900 23 33 33 - 24h.",
+      "color": "rgb(115, 138, 160)",
+      "colorType": "success-green",
+      "bg": null,
+      "bgType": null,
+      "border": "rgb(115, 138, 160)",
+      "borderType": "success-green",
+      "visible": false,
+      "page": "home"
+    },
+    {
+      "tag": "span",
+      "className": "cky-always-active",
+      "text": "Siempre activas",
+      "color": "rgb(0, 128, 0)",
+      "colorType": "success-green",
+      "bg": null,
+      "bgType": null,
+      "border": "rgb(0, 128, 0)",
+      "borderType": "success-green",
+      "visible": true,
+      "page": "formularios"
+    },
+    {
+      "tag": "a",
+      "className": "",
+      "text": "900 23 33 33 - 24h.",
+      "color": "rgb(115, 138, 160)",
+      "colorType": "success-green",
+      "bg": null,
+      "bgType": null,
+      "border": "rgb(115, 138, 160)",
+      "borderType": "success-green",
+      "visible": false,
+      "page": "formularios"
+    },
+    {
+      "tag": "span",
+      "className": "cky-always-active",
+      "text": "Siempre activas",
+      "color": "rgb(0, 128, 0)",
+      "colorType": "success-green",
+      "bg": null,
+      "bgType": null,
+      "border": "rgb(0, 128, 0)",
+      "borderType": "success-green",
+      "visible": true,
+      "page": "red-centros"
+    },
+    {
+      "tag": "a",
+      "className": "",
+      "text": "900 23 33 33 - 24h.",
+      "color": "rgb(115, 138, 160)",
+      "colorType": "success-green",
+      "bg": null,
+      "bgType": null,
+      "border": "rgb(115, 138, 160)",
+      "borderType": "success-green",
+      "visible": false,
+      "page": "red-centros"
+    },
+    {
+      "tag": "span",
+      "className": "cky-always-active",
+      "text": "Siempre activas",
+      "color": "rgb(0, 128, 0)",
+      "colorType": "success-green",
+      "bg": null,
+      "bgType": null,
+      "border": "rgb(0, 128, 0)",
+      "borderType": "success-green",
+      "visible": true,
+      "page": "faqs"
+    },
+    {
+      "tag": "a",
+      "className": "",
+      "text": "900 23 33 33 - 24h.",
+      "color": "rgb(115, 138, 160)",
+      "colorType": "success-green",
+      "bg": null,
+      "bgType": null,
+      "border": "rgb(115, 138, 160)",
+      "borderType": "success-green",
+      "visible": false,
+      "page": "faqs"
+    },
+    {
+      "tag": "span",
+      "className": "cky-always-active",
+      "text": "Siempre activas",
+      "color": "rgb(0, 128, 0)",
+      "colorType": "success-green",
+      "bg": null,
+      "bgType": null,
+      "border": "rgb(0, 128, 0)",
+      "borderType": "success-green",
+      "visible": true,
+      "page": "tramite"
+    },
+    {
+      "tag": "a",
+      "className": "",
+      "text": "900 23 33 33 - 24h.",
+      "color": "rgb(115, 138, 160)",
+      "colorType": "success-green",
+      "bg": null,
+      "bgType": null,
+      "border": "rgb(115, 138, 160)",
+      "borderType": "success-green",
+      "visible": false,
+      "page": "tramite"
+    }
+  ]
+}

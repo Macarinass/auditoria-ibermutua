@@ -1,0 +1,3876 @@
+{
+  "generated": "2026-02-07T17:45:00.899Z",
+  "pages_analyzed": 12,
+  "total_unique_components": 72,
+  "total_occurrences": 424,
+  "screenshots_captured": 70,
+  "by_category": {
+    "card": {
+      "unique": 21,
+      "total": 140,
+      "variants": {}
+    },
+    "chip-tag": {
+      "unique": 1,
+      "total": 24,
+      "variants": {}
+    },
+    "accordion": {
+      "unique": 3,
+      "total": 42,
+      "variants": {}
+    },
+    "button": {
+      "unique": 14,
+      "total": 79,
+      "variants": {
+        "primary": 26,
+        "tertiary": 50,
+        "secondary": 3
+      }
+    },
+    "header": {
+      "unique": 2,
+      "total": 23,
+      "variants": {}
+    },
+    "footer": {
+      "unique": 1,
+      "total": 12,
+      "variants": {}
+    },
+    "search-bar": {
+      "unique": 2,
+      "total": 16,
+      "variants": {}
+    },
+    "modal": {
+      "unique": 1,
+      "total": 12,
+      "variants": {}
+    },
+    "navigation": {
+      "unique": 1,
+      "total": 9,
+      "variants": {}
+    },
+    "breadcrumb": {
+      "unique": 2,
+      "total": 10,
+      "variants": {}
+    },
+    "tabs": {
+      "unique": 9,
+      "total": 27,
+      "variants": {}
+    },
+    "list": {
+      "unique": 3,
+      "total": 8,
+      "variants": {
+        "ul": 8
+      }
+    },
+    "form": {
+      "unique": 5,
+      "total": 12,
+      "variants": {}
+    },
+    "form-element": {
+      "unique": 4,
+      "total": 7,
+      "variants": {
+        "text": 5,
+        "select-one": 2
+      }
+    },
+    "pagination": {
+      "unique": 3,
+      "total": 3,
+      "variants": {}
+    }
+  },
+  "top_components": [
+    {
+      "component_id": "f2ffef81cfed",
+      "category": "card",
+      "variant": null,
+      "occurrences": 100,
+      "pages_count": 6,
+      "size": {
+        "w": 314,
+        "h": 118
+      },
+      "selector": "div.wp-block-column.is-layout-flow.wp-block-column-is-layout-flow",
+      "asset_path_png": "assets/components/f2ffef81cfed.png"
+    },
+    {
+      "component_id": "c50305a4a692",
+      "category": "chip-tag",
+      "variant": null,
+      "occurrences": 24,
+      "pages_count": 3,
+      "size": {
+        "w": 78,
+        "h": 19
+      },
+      "selector": "a.category-link",
+      "asset_path_png": "assets/components/c50305a4a692.png"
+    },
+    {
+      "component_id": "830fc72282ef",
+      "category": "accordion",
+      "variant": null,
+      "occurrences": 18,
+      "pages_count": 1,
+      "size": {
+        "w": 1084,
+        "h": 38
+      },
+      "selector": "span.wp-block-getwid-accordion__header",
+      "asset_path_png": "assets/components/830fc72282ef.png"
+    },
+    {
+      "component_id": "2503345cd42e",
+      "category": "accordion",
+      "variant": null,
+      "occurrences": 18,
+      "pages_count": 1,
+      "size": {
+        "w": 1086,
+        "h": 165
+      },
+      "selector": "div.wp-block-getwid-accordion__content",
+      "asset_path_png": "assets/components/2503345cd42e.png"
+    },
+    {
+      "component_id": "42c54a36f283",
+      "category": "button",
+      "variant": "primary",
+      "occurrences": 14,
+      "pages_count": 12,
+      "size": {
+        "w": 151,
+        "h": 40
+      },
+      "selector": "a.wp-block-button__link.wp-element-button",
+      "asset_path_png": "assets/components/42c54a36f283.png"
+    },
+    {
+      "component_id": "c9ef08b475a9",
+      "category": "card",
+      "variant": null,
+      "occurrences": 14,
+      "pages_count": 6,
+      "size": {
+        "w": 560,
+        "h": 348
+      },
+      "selector": "div.wp-block-column.is-vertically-aligned-center.is-layout-flow",
+      "asset_path_png": "assets/components/c9ef08b475a9.png"
+    },
+    {
+      "component_id": "84cbe8f31360",
+      "category": "header",
+      "variant": null,
+      "occurrences": 12,
+      "pages_count": 12,
+      "size": {
+        "w": 1440,
+        "h": 64
+      },
+      "selector": "header.site-header",
+      "asset_path_png": "assets/components/84cbe8f31360.png"
+    },
+    {
+      "component_id": "85fda99e77e8",
+      "category": "footer",
+      "variant": null,
+      "occurrences": 12,
+      "pages_count": 12,
+      "size": {
+        "w": 1440,
+        "h": 146
+      },
+      "selector": "footer.site-footer",
+      "asset_path_png": "assets/components/85fda99e77e8.png"
+    },
+    {
+      "component_id": "746a398a4e73",
+      "category": "button",
+      "variant": "tertiary",
+      "occurrences": 12,
+      "pages_count": 12,
+      "size": {
+        "w": 30,
+        "h": 40
+      },
+      "selector": "button.cky-btn-revisit",
+      "asset_path_png": "assets/components/746a398a4e73.png"
+    },
+    {
+      "component_id": "5563e3f5f826",
+      "category": "button",
+      "variant": "tertiary",
+      "occurrences": 12,
+      "pages_count": 12,
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "selector": "a.search-button",
+      "asset_path_png": "assets/components/5563e3f5f826.png"
+    },
+    {
+      "component_id": "5b34465b78e6",
+      "category": "button",
+      "variant": "tertiary",
+      "occurrences": 12,
+      "pages_count": 12,
+      "size": {
+        "w": 133,
+        "h": 40
+      },
+      "selector": "a.wp-block-button__link.wp-element-button",
+      "asset_path_png": "assets/components/5b34465b78e6.png"
+    },
+    {
+      "component_id": "880522dcda56",
+      "category": "search-bar",
+      "variant": null,
+      "occurrences": 12,
+      "pages_count": 12,
+      "size": {
+        "w": 291,
+        "h": 40
+      },
+      "selector": "div.search-links",
+      "asset_path_png": "assets/components/880522dcda56.png"
+    },
+    {
+      "component_id": "3efe38a01770",
+      "category": "modal",
+      "variant": null,
+      "occurrences": 12,
+      "pages_count": 12,
+      "size": {
+        "w": 845,
+        "h": 711
+      },
+      "selector": "div.cky-modal",
+      "asset_path_png": null
+    },
+    {
+      "component_id": "5cd8dad7e169",
+      "category": "header",
+      "variant": null,
+      "occurrences": 11,
+      "pages_count": 11,
+      "size": {
+        "w": 1440,
+        "h": 400
+      },
+      "selector": "header.entry-header",
+      "asset_path_png": "assets/components/5cd8dad7e169.png"
+    },
+    {
+      "component_id": "1258725ec1b5",
+      "category": "button",
+      "variant": "tertiary",
+      "occurrences": 10,
+      "pages_count": 1,
+      "size": {
+        "w": 63,
+        "h": 40
+      },
+      "selector": "a.btn.btn-bold.btn-sm",
+      "asset_path_png": "assets/components/1258725ec1b5.png"
+    },
+    {
+      "component_id": "86d1c19e38fd",
+      "category": "navigation",
+      "variant": null,
+      "occurrences": 9,
+      "pages_count": 9,
+      "size": {
+        "w": 1440,
+        "h": 22
+      },
+      "selector": "nav.rank-math-breadcrumb",
+      "asset_path_png": null
+    },
+    {
+      "component_id": "e40321b2ac1b",
+      "category": "breadcrumb",
+      "variant": null,
+      "occurrences": 9,
+      "pages_count": 9,
+      "size": {
+        "w": 1440,
+        "h": 22
+      },
+      "selector": "nav.rank-math-breadcrumb",
+      "asset_path_png": "assets/components/e40321b2ac1b.png"
+    },
+    {
+      "component_id": "ba20d0914ebc",
+      "category": "accordion",
+      "variant": null,
+      "occurrences": 6,
+      "pages_count": 1,
+      "size": {
+        "w": 1086,
+        "h": 157
+      },
+      "selector": "div.wp-block-getwid-accordion.has-icon-left",
+      "asset_path_png": "assets/components/ba20d0914ebc.png"
+    },
+    {
+      "component_id": "c16e1124f5d3",
+      "category": "tabs",
+      "variant": null,
+      "occurrences": 6,
+      "pages_count": 1,
+      "size": {
+        "w": 1136,
+        "h": 267
+      },
+      "selector": "div.wp-block-getwid-tabs__tab-content",
+      "asset_path_png": "assets/components/c16e1124f5d3.png"
+    },
+    {
+      "component_id": "7bca2362391e",
+      "category": "list",
+      "variant": "ul",
+      "occurrences": 5,
+      "pages_count": 2,
+      "size": {
+        "w": 540,
+        "h": 371
+      },
+      "selector": "ul.wp-block-list",
+      "asset_path_png": "assets/components/7bca2362391e.png"
+    },
+    {
+      "component_id": "81b302897d28",
+      "category": "button",
+      "variant": "primary",
+      "occurrences": 4,
+      "pages_count": 4,
+      "size": {
+        "w": 85,
+        "h": 40
+      },
+      "selector": "button.btn.search-centros",
+      "asset_path_png": "assets/components/81b302897d28.png"
+    },
+    {
+      "component_id": "194a22309741",
+      "category": "form",
+      "variant": null,
+      "occurrences": 4,
+      "pages_count": 4,
+      "size": {
+        "w": 562,
+        "h": 113
+      },
+      "selector": "div.search-map-form",
+      "asset_path_png": "assets/components/194a22309741.png"
+    },
+    {
+      "component_id": "f2cf145efca1",
+      "category": "form",
+      "variant": null,
+      "occurrences": 4,
+      "pages_count": 4,
+      "size": {
+        "w": 530,
+        "h": 40
+      },
+      "selector": "form.map-searchform",
+      "asset_path_png": "assets/components/f2cf145efca1.png"
+    },
+    {
+      "component_id": "2eeb77ce1393",
+      "category": "form-element",
+      "variant": "text",
+      "occurrences": 4,
+      "pages_count": 4,
+      "size": {
+        "w": 321,
+        "h": 40
+      },
+      "selector": "input[type=text]",
+      "asset_path_png": "assets/components/2eeb77ce1393.png"
+    },
+    {
+      "component_id": "75f5639823a5",
+      "category": "search-bar",
+      "variant": null,
+      "occurrences": 4,
+      "pages_count": 4,
+      "size": {
+        "w": 332,
+        "h": 40
+      },
+      "selector": "div.search-content",
+      "asset_path_png": "assets/components/75f5639823a5.png"
+    },
+    {
+      "component_id": "b67eaeb41b36",
+      "category": "button",
+      "variant": "primary",
+      "occurrences": 4,
+      "pages_count": 1,
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "selector": "div.leaflet-marker-icon.marker-cluster.marker-cluster-custom-large",
+      "asset_path_png": "assets/components/b67eaeb41b36.png"
+    },
+    {
+      "component_id": "fcf8b36f29c3",
+      "category": "tabs",
+      "variant": null,
+      "occurrences": 4,
+      "pages_count": 1,
+      "size": {
+        "w": 128,
+        "h": 49
+      },
+      "selector": "li.wp-block-getwid-tabs__nav-link.ui-tabs-tab",
+      "asset_path_png": "assets/components/fcf8b36f29c3.png"
+    },
+    {
+      "component_id": "375d25f9e085",
+      "category": "tabs",
+      "variant": null,
+      "occurrences": 4,
+      "pages_count": 1,
+      "size": {
+        "w": 126,
+        "h": 48
+      },
+      "selector": "h3.wp-block-getwid-tabs__title-wrapper",
+      "asset_path_png": "assets/components/375d25f9e085.png"
+    },
+    {
+      "component_id": "6e9dfe3f0b85",
+      "category": "tabs",
+      "variant": null,
+      "occurrences": 4,
+      "pages_count": 1,
+      "size": {
+        "w": 126,
+        "h": 48
+      },
+      "selector": "a.ui-tabs-anchor",
+      "asset_path_png": "assets/components/6e9dfe3f0b85.png"
+    },
+    {
+      "component_id": "2a772fb1eef1",
+      "category": "button",
+      "variant": "secondary",
+      "occurrences": 3,
+      "pages_count": 3,
+      "size": {
+        "w": 102,
+        "h": 40
+      },
+      "selector": "a.btn-white",
+      "asset_path_png": "assets/components/2a772fb1eef1.png"
+    }
+  ],
+  "components": [
+    {
+      "component_id": "f2ffef81cfed",
+      "category": "card",
+      "variant": null,
+      "occurrences": 100,
+      "pages": {
+        "home": 34,
+        "empresas": 23,
+        "servicios": 15,
+        "servicio-detalle": 2,
+        "corporativo-quienes-somos": 14,
+        "microsite-trabaja": 12
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 152,
+            "y": 344,
+            "w": 314,
+            "h": 118
+          }
+        },
+        {
+          "page": "home",
+          "rect": {
+            "x": 482,
+            "y": 344,
+            "w": 562,
+            "h": 118
+          }
+        },
+        {
+          "page": "home",
+          "rect": {
+            "x": 152,
+            "y": 609,
+            "w": 176,
+            "h": 147
+          }
+        }
+      ],
+      "selector": "div.wp-block-column.is-layout-flow.wp-block-column-is-layout-flow",
+      "markup_sample": "<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" data-comp-mark=\"comp-mark-12\">...",
+      "size": {
+        "w": 314,
+        "h": 118
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/f2ffef81cfed.png",
+      "pages_count": 6,
+      "pages_list": [
+        "home",
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "corporativo-quienes-somos",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "c50305a4a692",
+      "category": "chip-tag",
+      "variant": null,
+      "occurrences": 24,
+      "pages": {
+        "home": 2,
+        "noticias-listado": 15,
+        "noticia-detalle": 7
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 454,
+            "y": 2735,
+            "w": 78,
+            "h": 19
+          }
+        },
+        {
+          "page": "home",
+          "rect": {
+            "x": 446,
+            "y": 2889,
+            "w": 78,
+            "h": 19
+          }
+        },
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 362,
+            "y": 749,
+            "w": 78,
+            "h": 19
+          }
+        }
+      ],
+      "selector": "a.category-link",
+      "markup_sample": "<a class=\"category-link\" href=\"https://www.ibermutua.es/noticia_cat/corporativo/\" data-comp-mark=\"comp-mark-54\">Corporativo</a>",
+      "size": {
+        "w": 78,
+        "h": 19
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/c50305a4a692.png",
+      "pages_count": 3,
+      "pages_list": [
+        "home",
+        "noticias-listado",
+        "noticia-detalle"
+      ]
+    },
+    {
+      "component_id": "830fc72282ef",
+      "category": "accordion",
+      "variant": null,
+      "occurrences": 18,
+      "pages": {
+        "formularios": 18
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 178,
+            "y": 777,
+            "w": 1084,
+            "h": 38
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 178,
+            "y": 815,
+            "w": 1084,
+            "h": 38
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 178,
+            "y": 854,
+            "w": 1084,
+            "h": 38
+          }
+        }
+      ],
+      "selector": "span.wp-block-getwid-accordion__header",
+      "markup_sample": "<span class=\"wp-block-getwid-accordion__header\" data-comp-mark=\"comp-mark-9\">...",
+      "size": {
+        "w": 1084,
+        "h": 38
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/830fc72282ef.png",
+      "pages_count": 1,
+      "pages_list": [
+        "formularios"
+      ]
+    },
+    {
+      "component_id": "2503345cd42e",
+      "category": "accordion",
+      "variant": null,
+      "occurrences": 18,
+      "pages": {
+        "formularios": 18
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 177,
+            "y": 815,
+            "w": 1086,
+            "h": 165
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 177,
+            "y": 854,
+            "w": 1086,
+            "h": 3661
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 177,
+            "y": 893,
+            "w": 1086,
+            "h": 97
+          }
+        }
+      ],
+      "selector": "div.wp-block-getwid-accordion__content",
+      "markup_sample": "<div class=\"wp-block-getwid-accordion__content\" data-comp-mark=\"comp-mark-10\">...",
+      "size": {
+        "w": 1086,
+        "h": 165
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/2503345cd42e.png",
+      "pages_count": 1,
+      "pages_list": [
+        "formularios"
+      ]
+    },
+    {
+      "component_id": "42c54a36f283",
+      "category": "button",
+      "variant": "primary",
+      "occurrences": 14,
+      "pages": {
+        "home": 1,
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "red-centros": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "faqs": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 3
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 1137,
+            "y": 52,
+            "w": 151,
+            "h": 40
+          }
+        },
+        {
+          "page": "empresas",
+          "rect": {
+            "x": 1137,
+            "y": 52,
+            "w": 151,
+            "h": 40
+          }
+        },
+        {
+          "page": "servicios",
+          "rect": {
+            "x": 1137,
+            "y": 52,
+            "w": 151,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "a.wp-block-button__link.wp-element-button",
+      "markup_sample": "<a class=\"wp-block-button__link wp-element-button\" href=\"https://digital.ibermutua.es\" target=\"_blank\" rel=\"noreferrer noopener\" data-comp-mark=\"comp-mark-6\">Ibermutua digital</a>",
+      "size": {
+        "w": 151,
+        "h": 40
+      },
+      "meta": {
+        "text": "Ibermutua digital",
+        "bg": "rgb(0, 117, 201)",
+        "color": "rgb(0, 117, 201)",
+        "border": "rgb(0, 117, 201)",
+        "fontSize": "13.6352px",
+        "fontWeight": "500"
+      },
+      "asset_path_png": "assets/components/42c54a36f283.png",
+      "pages_count": 12,
+      "pages_list": [
+        "home",
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "red-centros",
+        "formularios",
+        "noticias-listado",
+        "noticia-detalle",
+        "corporativo-quienes-somos",
+        "faqs",
+        "tramite-detalle",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "c9ef08b475a9",
+      "category": "card",
+      "variant": null,
+      "occurrences": 14,
+      "pages": {
+        "home": 5,
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 4,
+        "corporativo-quienes-somos": 1,
+        "microsite-trabaja": 2
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 152,
+            "y": 977,
+            "w": 560,
+            "h": 348
+          }
+        },
+        {
+          "page": "home",
+          "rect": {
+            "x": 728,
+            "y": 1063,
+            "w": 560,
+            "h": 177
+          }
+        },
+        {
+          "page": "home",
+          "rect": {
+            "x": 152,
+            "y": 1562,
+            "w": 272,
+            "h": 93
+          }
+        }
+      ],
+      "selector": "div.wp-block-column.is-vertically-aligned-center.is-layout-flow",
+      "markup_sample": "<div class=\"wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow\" data-comp-mark=\"comp-mark-21\">...",
+      "size": {
+        "w": 560,
+        "h": 348
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/c9ef08b475a9.png",
+      "pages_count": 6,
+      "pages_list": [
+        "home",
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "corporativo-quienes-somos",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "84cbe8f31360",
+      "category": "header",
+      "variant": null,
+      "occurrences": 12,
+      "pages": {
+        "home": 1,
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "red-centros": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "faqs": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 0,
+            "y": 40,
+            "w": 1440,
+            "h": 64
+          }
+        },
+        {
+          "page": "empresas",
+          "rect": {
+            "x": 0,
+            "y": 40,
+            "w": 1440,
+            "h": 64
+          }
+        },
+        {
+          "page": "servicios",
+          "rect": {
+            "x": 0,
+            "y": 40,
+            "w": 1440,
+            "h": 64
+          }
+        }
+      ],
+      "selector": "header.site-header",
+      "markup_sample": "<header id=\"masthead\" class=\"site-header\" data-comp-mark=\"comp-mark-0\">...",
+      "size": {
+        "w": 1440,
+        "h": 64
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/84cbe8f31360.png",
+      "pages_count": 12,
+      "pages_list": [
+        "home",
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "red-centros",
+        "formularios",
+        "noticias-listado",
+        "noticia-detalle",
+        "corporativo-quienes-somos",
+        "faqs",
+        "tramite-detalle",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "85fda99e77e8",
+      "category": "footer",
+      "variant": null,
+      "occurrences": 12,
+      "pages": {
+        "home": 1,
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "red-centros": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "faqs": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 0,
+            "y": 4307,
+            "w": 1440,
+            "h": 146
+          }
+        },
+        {
+          "page": "empresas",
+          "rect": {
+            "x": 0,
+            "y": 2546,
+            "w": 1440,
+            "h": 146
+          }
+        },
+        {
+          "page": "servicios",
+          "rect": {
+            "x": 0,
+            "y": 5449,
+            "w": 1440,
+            "h": 146
+          }
+        }
+      ],
+      "selector": "footer.site-footer",
+      "markup_sample": "<footer id=\"colophon\" class=\"site-footer\" data-comp-mark=\"comp-mark-2\">...",
+      "size": {
+        "w": 1440,
+        "h": 146
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/85fda99e77e8.png",
+      "pages_count": 12,
+      "pages_list": [
+        "home",
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "red-centros",
+        "formularios",
+        "noticias-listado",
+        "noticia-detalle",
+        "corporativo-quienes-somos",
+        "faqs",
+        "tramite-detalle",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "746a398a4e73",
+      "category": "button",
+      "variant": "tertiary",
+      "occurrences": 12,
+      "pages": {
+        "home": 1,
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "red-centros": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "faqs": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 23,
+            "y": 843,
+            "w": 30,
+            "h": 40
+          }
+        },
+        {
+          "page": "empresas",
+          "rect": {
+            "x": 23,
+            "y": 843,
+            "w": 30,
+            "h": 40
+          }
+        },
+        {
+          "page": "servicios",
+          "rect": {
+            "x": 23,
+            "y": 843,
+            "w": 30,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "button.cky-btn-revisit",
+      "markup_sample": "<button class=\"cky-btn-revisit\" aria-label=\"Preferencias de consentimiento\" data-comp-mark=\"comp-mark-3\"> <img src=\"https://cdn-cookieyes.com/assets/images/revisit.svg\" alt=\"Revisit consent button\"> </button>",
+      "size": {
+        "w": 30,
+        "h": 40
+      },
+      "meta": {
+        "text": "",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "border": "rgb(255, 255, 255)",
+        "fontSize": "13.6352px",
+        "fontWeight": "500"
+      },
+      "asset_path_png": "assets/components/746a398a4e73.png",
+      "pages_count": 12,
+      "pages_list": [
+        "home",
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "red-centros",
+        "formularios",
+        "noticias-listado",
+        "noticia-detalle",
+        "corporativo-quienes-somos",
+        "faqs",
+        "tramite-detalle",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "5563e3f5f826",
+      "category": "button",
+      "variant": "tertiary",
+      "occurrences": 12,
+      "pages": {
+        "home": 1,
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "red-centros": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "faqs": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 1116,
+            "y": 0,
+            "w": 40,
+            "h": 40
+          }
+        },
+        {
+          "page": "empresas",
+          "rect": {
+            "x": 1116,
+            "y": 0,
+            "w": 40,
+            "h": 40
+          }
+        },
+        {
+          "page": "servicios",
+          "rect": {
+            "x": 1116,
+            "y": 0,
+            "w": 40,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "a.search-button",
+      "markup_sample": "<a href=\"https://www.ibermutua.es/?s=\" class=\"search-button\" data-comp-mark=\"comp-mark-4\"><img decoding=\"async\" src=\"https://www.ibermutua.es/wp-content/themes/ibermutua/img/search_blue.svg\" alt=\"buscar\"></a>",
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "meta": {
+        "text": "",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(86, 102, 115)",
+        "border": "rgb(86, 102, 115)",
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      "asset_path_png": "assets/components/5563e3f5f826.png",
+      "pages_count": 12,
+      "pages_list": [
+        "home",
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "red-centros",
+        "formularios",
+        "noticias-listado",
+        "noticia-detalle",
+        "corporativo-quienes-somos",
+        "faqs",
+        "tramite-detalle",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "5b34465b78e6",
+      "category": "button",
+      "variant": "tertiary",
+      "occurrences": 12,
+      "pages": {
+        "home": 1,
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "red-centros": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "faqs": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 997,
+            "y": 52,
+            "w": 133,
+            "h": 40
+          }
+        },
+        {
+          "page": "empresas",
+          "rect": {
+            "x": 997,
+            "y": 52,
+            "w": 133,
+            "h": 40
+          }
+        },
+        {
+          "page": "servicios",
+          "rect": {
+            "x": 997,
+            "y": 52,
+            "w": 133,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "a.wp-block-button__link.wp-element-button",
+      "markup_sample": "<a class=\"wp-block-button__link wp-element-button\" href=\"/red-de-centros/\" data-comp-mark=\"comp-mark-5\">Red de centros</a>",
+      "size": {
+        "w": 133,
+        "h": 40
+      },
+      "meta": {
+        "text": "Red de centros",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(0, 117, 201)",
+        "border": "rgb(255, 255, 255)",
+        "fontSize": "13.6352px",
+        "fontWeight": "500"
+      },
+      "asset_path_png": "assets/components/5b34465b78e6.png",
+      "pages_count": 12,
+      "pages_list": [
+        "home",
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "red-centros",
+        "formularios",
+        "noticias-listado",
+        "noticia-detalle",
+        "corporativo-quienes-somos",
+        "faqs",
+        "tramite-detalle",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "880522dcda56",
+      "category": "search-bar",
+      "variant": null,
+      "occurrences": 12,
+      "pages": {
+        "home": 1,
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "red-centros": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "faqs": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 997,
+            "y": 52,
+            "w": 291,
+            "h": 40
+          }
+        },
+        {
+          "page": "empresas",
+          "rect": {
+            "x": 997,
+            "y": 52,
+            "w": 291,
+            "h": 40
+          }
+        },
+        {
+          "page": "servicios",
+          "rect": {
+            "x": 997,
+            "y": 52,
+            "w": 291,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "div.search-links",
+      "markup_sample": "<div class=\"search-links\" data-comp-mark=\"comp-mark-52\">...",
+      "size": {
+        "w": 291,
+        "h": 40
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/880522dcda56.png",
+      "pages_count": 12,
+      "pages_list": [
+        "home",
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "red-centros",
+        "formularios",
+        "noticias-listado",
+        "noticia-detalle",
+        "corporativo-quienes-somos",
+        "faqs",
+        "tramite-detalle",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "3efe38a01770",
+      "category": "modal",
+      "variant": null,
+      "occurrences": 12,
+      "pages": {
+        "home": 1,
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "red-centros": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "faqs": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": -422,
+            "y": 1161,
+            "w": 845,
+            "h": 711
+          }
+        },
+        {
+          "page": "empresas",
+          "rect": {
+            "x": -422,
+            "y": 1161,
+            "w": 845,
+            "h": 711
+          }
+        },
+        {
+          "page": "servicios",
+          "rect": {
+            "x": -422,
+            "y": 1161,
+            "w": 845,
+            "h": 711
+          }
+        }
+      ],
+      "selector": "div.cky-modal",
+      "markup_sample": "<div class=\"cky-modal\" tabindex=\"0\" data-comp-mark=\"comp-mark-56\">...",
+      "size": {
+        "w": 845,
+        "h": 711
+      },
+      "meta": {
+        "visible": false
+      },
+      "asset_path_png": null,
+      "pages_count": 12,
+      "pages_list": [
+        "home",
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "red-centros",
+        "formularios",
+        "noticias-listado",
+        "noticia-detalle",
+        "corporativo-quienes-somos",
+        "faqs",
+        "tramite-detalle",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "5cd8dad7e169",
+      "category": "header",
+      "variant": null,
+      "occurrences": 11,
+      "pages": {
+        "home": 1,
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "faqs": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 0,
+            "y": 104,
+            "w": 1440,
+            "h": 400
+          }
+        },
+        {
+          "page": "empresas",
+          "rect": {
+            "x": 0,
+            "y": 104,
+            "w": 1440,
+            "h": 380
+          }
+        },
+        {
+          "page": "servicios",
+          "rect": {
+            "x": 0,
+            "y": 104,
+            "w": 1440,
+            "h": 320
+          }
+        }
+      ],
+      "selector": "header.entry-header",
+      "markup_sample": "<header class=\"entry-header\" data-comp-mark=\"comp-mark-1\">...",
+      "size": {
+        "w": 1440,
+        "h": 400
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/5cd8dad7e169.png",
+      "pages_count": 11,
+      "pages_list": [
+        "home",
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "formularios",
+        "noticias-listado",
+        "noticia-detalle",
+        "corporativo-quienes-somos",
+        "faqs",
+        "tramite-detalle",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "1258725ec1b5",
+      "category": "button",
+      "variant": "tertiary",
+      "occurrences": 10,
+      "pages": {
+        "microsite-trabaja": 10
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "rect": {
+            "x": 1185,
+            "y": 934,
+            "w": 63,
+            "h": 40
+          }
+        },
+        {
+          "page": "microsite-trabaja",
+          "rect": {
+            "x": 1185,
+            "y": 1045,
+            "w": 63,
+            "h": 40
+          }
+        },
+        {
+          "page": "microsite-trabaja",
+          "rect": {
+            "x": 1185,
+            "y": 1156,
+            "w": 63,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "a.btn.btn-bold.btn-sm",
+      "markup_sample": "<a href=\"https://empleo.ibermutua.es/medico-a-asistencial-cc-murcia-XaBKZggggKhD/\" class=\"btn btn-bold btn-sm btn-font-sm  btn-label-brand vb-label-custom\" data-comp-mark=\"comp-mark-10\">Aplicar</a>",
+      "size": {
+        "w": 63,
+        "h": 40
+      },
+      "meta": {
+        "text": "Aplicar",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "border": "rgba(0, 0, 0, 0)",
+        "fontSize": "10.5px",
+        "fontWeight": "600"
+      },
+      "asset_path_png": "assets/components/1258725ec1b5.png",
+      "pages_count": 1,
+      "pages_list": [
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "86d1c19e38fd",
+      "category": "navigation",
+      "variant": null,
+      "occurrences": 9,
+      "pages": {
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "empresas",
+          "rect": {
+            "x": 0,
+            "y": 136,
+            "w": 1440,
+            "h": 22
+          }
+        },
+        {
+          "page": "servicios",
+          "rect": {
+            "x": 0,
+            "y": 136,
+            "w": 1440,
+            "h": 22
+          }
+        },
+        {
+          "page": "servicio-detalle",
+          "rect": {
+            "x": 0,
+            "y": 136,
+            "w": 1440,
+            "h": 22
+          }
+        }
+      ],
+      "selector": "nav.rank-math-breadcrumb",
+      "markup_sample": "<nav aria-label=\"breadcrumbs\" class=\"rank-math-breadcrumb\" data-comp-mark=\"comp-mark-1\"><p><a href=\"https://www.ibermutua.es\">Inicio</a><span class=\"separator\">&gt;</span></p></nav>",
+      "size": {
+        "w": 1440,
+        "h": 22
+      },
+      "meta": null,
+      "asset_path_png": null,
+      "pages_count": 9,
+      "pages_list": [
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "formularios",
+        "noticias-listado",
+        "noticia-detalle",
+        "corporativo-quienes-somos",
+        "tramite-detalle",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "e40321b2ac1b",
+      "category": "breadcrumb",
+      "variant": null,
+      "occurrences": 9,
+      "pages": {
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "empresas",
+          "rect": {
+            "x": 0,
+            "y": 136,
+            "w": 1440,
+            "h": 22
+          }
+        },
+        {
+          "page": "servicios",
+          "rect": {
+            "x": 0,
+            "y": 136,
+            "w": 1440,
+            "h": 22
+          }
+        },
+        {
+          "page": "servicio-detalle",
+          "rect": {
+            "x": 0,
+            "y": 136,
+            "w": 1440,
+            "h": 22
+          }
+        }
+      ],
+      "selector": "nav.rank-math-breadcrumb",
+      "markup_sample": "<nav aria-label=\"breadcrumbs\" class=\"rank-math-breadcrumb\" data-comp-mark=\"comp-mark-32\"><p><a href=\"https://www.ibermutua.es\">Inicio</a><span class=\"separator\">&gt;</span></p></nav>",
+      "size": {
+        "w": 1440,
+        "h": 22
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/e40321b2ac1b.png",
+      "pages_count": 9,
+      "pages_list": [
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "formularios",
+        "noticias-listado",
+        "noticia-detalle",
+        "corporativo-quienes-somos",
+        "tramite-detalle",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "ba20d0914ebc",
+      "category": "accordion",
+      "variant": null,
+      "occurrences": 6,
+      "pages": {
+        "formularios": 6
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 177,
+            "y": 776,
+            "w": 1086,
+            "h": 157
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 177,
+            "y": 1042,
+            "w": 1086,
+            "h": 79
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 177,
+            "y": 1042,
+            "w": 1086,
+            "h": 157
+          }
+        }
+      ],
+      "selector": "div.wp-block-getwid-accordion.has-icon-left",
+      "markup_sample": "<div class=\"wp-block-getwid-accordion has-icon-left getwid-init ui-accordion ui-widget ui-helper-reset\" data-active-element=\"none\" role=\"tablist\" data-comp-mark=\"comp-mark-8\">...",
+      "size": {
+        "w": 1086,
+        "h": 157
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/ba20d0914ebc.png",
+      "pages_count": 1,
+      "pages_list": [
+        "formularios"
+      ]
+    },
+    {
+      "component_id": "c16e1124f5d3",
+      "category": "tabs",
+      "variant": null,
+      "occurrences": 6,
+      "pages": {
+        "formularios": 6
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 152,
+            "y": 690,
+            "w": 1136,
+            "h": 267
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 152,
+            "y": 957,
+            "w": 1136,
+            "h": 189
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 152,
+            "y": 957,
+            "w": 1136,
+            "h": 267
+          }
+        }
+      ],
+      "selector": "div.wp-block-getwid-tabs__tab-content",
+      "markup_sample": "<div class=\"wp-block-getwid-tabs__tab-content\" data-comp-mark=\"comp-mark-67\">...",
+      "size": {
+        "w": 1136,
+        "h": 267
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/c16e1124f5d3.png",
+      "pages_count": 1,
+      "pages_list": [
+        "formularios"
+      ]
+    },
+    {
+      "component_id": "7bca2362391e",
+      "category": "list",
+      "variant": "ul",
+      "occurrences": 5,
+      "pages": {
+        "servicio-detalle": 3,
+        "tramite-detalle": 2
+      },
+      "sample_locations": [
+        {
+          "page": "servicio-detalle",
+          "rect": {
+            "x": 248,
+            "y": 1881,
+            "w": 540,
+            "h": 371
+          }
+        },
+        {
+          "page": "servicio-detalle",
+          "rect": {
+            "x": 248,
+            "y": 3387,
+            "w": 540,
+            "h": 209
+          }
+        },
+        {
+          "page": "servicio-detalle",
+          "rect": {
+            "x": 248,
+            "y": 3680,
+            "w": 540,
+            "h": 369
+          }
+        }
+      ],
+      "selector": "ul.wp-block-list",
+      "markup_sample": "<ul class=\"wp-block-list\" data-comp-mark=\"comp-mark-18\">...",
+      "size": {
+        "w": 540,
+        "h": 371
+      },
+      "meta": {
+        "items": 7
+      },
+      "asset_path_png": "assets/components/7bca2362391e.png",
+      "pages_count": 2,
+      "pages_list": [
+        "servicio-detalle",
+        "tramite-detalle"
+      ]
+    },
+    {
+      "component_id": "81b302897d28",
+      "category": "button",
+      "variant": "primary",
+      "occurrences": 4,
+      "pages": {
+        "home": 1,
+        "red-centros": 1,
+        "corporativo-quienes-somos": 1,
+        "tramite-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 830,
+            "y": 401,
+            "w": 85,
+            "h": 40
+          }
+        },
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 615,
+            "y": 193,
+            "w": 80,
+            "h": 40
+          }
+        },
+        {
+          "page": "corporativo-quienes-somos",
+          "rect": {
+            "x": 1076,
+            "y": 873,
+            "w": 83,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "button.btn.search-centros",
+      "markup_sample": "<button type=\"submit\" class=\"btn search-centros\" value=\"\" disabled=\"disabled\" data-comp-mark=\"comp-mark-7\">Buscar</button>",
+      "size": {
+        "w": 85,
+        "h": 40
+      },
+      "meta": {
+        "text": "Buscar",
+        "bg": "rgb(0, 117, 201)",
+        "color": "rgb(255, 255, 255)",
+        "border": "rgb(0, 117, 201)",
+        "fontSize": "13.6352px",
+        "fontWeight": "500"
+      },
+      "asset_path_png": "assets/components/81b302897d28.png",
+      "pages_count": 4,
+      "pages_list": [
+        "home",
+        "red-centros",
+        "corporativo-quienes-somos",
+        "tramite-detalle"
+      ]
+    },
+    {
+      "component_id": "194a22309741",
+      "category": "form",
+      "variant": null,
+      "occurrences": 4,
+      "pages": {
+        "home": 1,
+        "red-centros": 1,
+        "corporativo-quienes-somos": 1,
+        "tramite-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 482,
+            "y": 344,
+            "w": 562,
+            "h": 113
+          }
+        },
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 80,
+            "y": 177,
+            "w": 631,
+            "h": 56
+          }
+        },
+        {
+          "page": "corporativo-quienes-somos",
+          "rect": {
+            "x": 728,
+            "y": 816,
+            "w": 560,
+            "h": 113
+          }
+        }
+      ],
+      "selector": "div.search-map-form",
+      "markup_sample": "<div class=\"search-map-form\" data-comp-mark=\"comp-mark-9\">...",
+      "size": {
+        "w": 562,
+        "h": 113
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/194a22309741.png",
+      "pages_count": 4,
+      "pages_list": [
+        "home",
+        "red-centros",
+        "corporativo-quienes-somos",
+        "tramite-detalle"
+      ]
+    },
+    {
+      "component_id": "f2cf145efca1",
+      "category": "form",
+      "variant": null,
+      "occurrences": 4,
+      "pages": {
+        "home": 1,
+        "red-centros": 1,
+        "corporativo-quienes-somos": 1,
+        "tramite-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 498,
+            "y": 401,
+            "w": 530,
+            "h": 40
+          }
+        },
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 96,
+            "y": 193,
+            "w": 599,
+            "h": 40
+          }
+        },
+        {
+          "page": "corporativo-quienes-somos",
+          "rect": {
+            "x": 744,
+            "y": 873,
+            "w": 528,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "form.map-searchform",
+      "markup_sample": "<form role=\"search\" method=\"post\" class=\"map-searchform\" action=\"https://www.ibermutua.es/redcentros/\" data-comp-mark=\"comp-mark-10\">...",
+      "size": {
+        "w": 530,
+        "h": 40
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/f2cf145efca1.png",
+      "pages_count": 4,
+      "pages_list": [
+        "home",
+        "red-centros",
+        "corporativo-quienes-somos",
+        "tramite-detalle"
+      ]
+    },
+    {
+      "component_id": "2eeb77ce1393",
+      "category": "form-element",
+      "variant": "text",
+      "occurrences": 4,
+      "pages": {
+        "home": 1,
+        "red-centros": 1,
+        "corporativo-quienes-somos": 1,
+        "tramite-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 498,
+            "y": 401,
+            "w": 321,
+            "h": 40
+          }
+        },
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 383,
+            "y": 193,
+            "w": 208,
+            "h": 40
+          }
+        },
+        {
+          "page": "corporativo-quienes-somos",
+          "rect": {
+            "x": 744,
+            "y": 873,
+            "w": 321,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "input[type=text]",
+      "markup_sample": "<input type=\"text\" id=\"map-s\" value=\"\" placeholder=\"Provincia o Código Postal\" name=\"map_s\" data-comp-mark=\"comp-mark-11\">",
+      "size": {
+        "w": 321,
+        "h": 40
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/2eeb77ce1393.png",
+      "pages_count": 4,
+      "pages_list": [
+        "home",
+        "red-centros",
+        "corporativo-quienes-somos",
+        "tramite-detalle"
+      ]
+    },
+    {
+      "component_id": "75f5639823a5",
+      "category": "search-bar",
+      "variant": null,
+      "occurrences": 4,
+      "pages": {
+        "home": 1,
+        "red-centros": 1,
+        "corporativo-quienes-somos": 1,
+        "tramite-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 498,
+            "y": 401,
+            "w": 332,
+            "h": 40
+          }
+        },
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 354,
+            "y": 193,
+            "w": 253,
+            "h": 40
+          }
+        },
+        {
+          "page": "corporativo-quienes-somos",
+          "rect": {
+            "x": 744,
+            "y": 873,
+            "w": 332,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "div.search-content",
+      "markup_sample": "<div class=\"search-content\" data-comp-mark=\"comp-mark-53\">...",
+      "size": {
+        "w": 332,
+        "h": 40
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/75f5639823a5.png",
+      "pages_count": 4,
+      "pages_list": [
+        "home",
+        "red-centros",
+        "corporativo-quienes-somos",
+        "tramite-detalle"
+      ]
+    },
+    {
+      "component_id": "b67eaeb41b36",
+      "category": "button",
+      "variant": "primary",
+      "occurrences": 4,
+      "pages": {
+        "red-centros": 4
+      },
+      "sample_locations": [
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 1035,
+            "y": 351,
+            "w": 40,
+            "h": 40
+          }
+        },
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 1056,
+            "y": 221,
+            "w": 40,
+            "h": 40
+          }
+        },
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 1121,
+            "y": 299,
+            "w": 40,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "div.leaflet-marker-icon.marker-cluster.marker-cluster-custom-large",
+      "markup_sample": "<div class=\"leaflet-marker-icon marker-cluster marker-cluster-custom-large leaflet-zoom-animated leaflet-interactive\" tabindex=\"0\" role=\"button\" style=\"margin-left: -20px; margin-top: -20px; width: 40px; height: 40px; transform: translate3d(318px, 22...",
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "meta": {
+        "text": "11",
+        "bg": "rgb(0, 101, 183)",
+        "color": "rgb(38, 45, 51)",
+        "border": "rgba(0, 101, 183, 0.5)",
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      "asset_path_png": "assets/components/b67eaeb41b36.png",
+      "pages_count": 1,
+      "pages_list": [
+        "red-centros"
+      ]
+    },
+    {
+      "component_id": "fcf8b36f29c3",
+      "category": "tabs",
+      "variant": null,
+      "occurrences": 4,
+      "pages": {
+        "formularios": 4
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 247,
+            "y": 642,
+            "w": 128,
+            "h": 49
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 380,
+            "y": 642,
+            "w": 163,
+            "h": 49
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 548,
+            "y": 642,
+            "w": 148,
+            "h": 49
+          }
+        }
+      ],
+      "selector": "li.wp-block-getwid-tabs__nav-link.ui-tabs-tab",
+      "markup_sample": "<li class=\"wp-block-getwid-tabs__nav-link ui-tabs-tab ui-corner-top ui-state-default ui-tab\" role=\"tab\" tabindex=\"-1\" aria-controls=\"tab-tzCi3-1\" aria-labelledby=\"ui-id-2\" aria-selected=\"false\" aria-expanded=\"false\" data-comp-mark=\"comp-mark-52\">...",
+      "size": {
+        "w": 128,
+        "h": 49
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/fcf8b36f29c3.png",
+      "pages_count": 1,
+      "pages_list": [
+        "formularios"
+      ]
+    },
+    {
+      "component_id": "375d25f9e085",
+      "category": "tabs",
+      "variant": null,
+      "occurrences": 4,
+      "pages": {
+        "formularios": 4
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 248,
+            "y": 643,
+            "w": 126,
+            "h": 48
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 381,
+            "y": 643,
+            "w": 161,
+            "h": 48
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 549,
+            "y": 643,
+            "w": 146,
+            "h": 48
+          }
+        }
+      ],
+      "selector": "h3.wp-block-getwid-tabs__title-wrapper",
+      "markup_sample": "<h3 class=\"wp-block-getwid-tabs__title-wrapper\" data-comp-mark=\"comp-mark-53\"><a href=\"#tab-tzCi3-1\" tabindex=\"-1\" class=\"ui-tabs-anchor\" id=\"ui-id-2\"><span class=\"wp-block-getwid-tabs__title\">Empresas</span></a></h3>",
+      "size": {
+        "w": 126,
+        "h": 48
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/375d25f9e085.png",
+      "pages_count": 1,
+      "pages_list": [
+        "formularios"
+      ]
+    },
+    {
+      "component_id": "6e9dfe3f0b85",
+      "category": "tabs",
+      "variant": null,
+      "occurrences": 4,
+      "pages": {
+        "formularios": 4
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 248,
+            "y": 643,
+            "w": 126,
+            "h": 48
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 381,
+            "y": 643,
+            "w": 161,
+            "h": 48
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 549,
+            "y": 643,
+            "w": 146,
+            "h": 48
+          }
+        }
+      ],
+      "selector": "a.ui-tabs-anchor",
+      "markup_sample": "<a href=\"#tab-tzCi3-1\" tabindex=\"-1\" class=\"ui-tabs-anchor\" id=\"ui-id-2\" data-comp-mark=\"comp-mark-54\"><span class=\"wp-block-getwid-tabs__title\">Empresas</span></a>",
+      "size": {
+        "w": 126,
+        "h": 48
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/6e9dfe3f0b85.png",
+      "pages_count": 1,
+      "pages_list": [
+        "formularios"
+      ]
+    },
+    {
+      "component_id": "2a772fb1eef1",
+      "category": "button",
+      "variant": "secondary",
+      "occurrences": 3,
+      "pages": {
+        "home": 1,
+        "corporativo-quienes-somos": 1,
+        "tramite-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 926,
+            "y": 401,
+            "w": 102,
+            "h": 40
+          }
+        },
+        {
+          "page": "corporativo-quienes-somos",
+          "rect": {
+            "x": 1170,
+            "y": 873,
+            "w": 102,
+            "h": 40
+          }
+        },
+        {
+          "page": "tramite-detalle",
+          "rect": {
+            "x": 692,
+            "y": 1156,
+            "w": 102,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "a.btn-white",
+      "markup_sample": "<a href=\"https://www.ibermutua.es/redcentros/\" class=\"btn-white\" data-comp-mark=\"comp-mark-8\">Ir al mapa</a>",
+      "size": {
+        "w": 102,
+        "h": 40
+      },
+      "meta": {
+        "text": "Ir al mapa",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(0, 117, 201)",
+        "border": "rgb(0, 117, 201)",
+        "fontSize": "13.6352px",
+        "fontWeight": "500"
+      },
+      "asset_path_png": "assets/components/2a772fb1eef1.png",
+      "pages_count": 3,
+      "pages_list": [
+        "home",
+        "corporativo-quienes-somos",
+        "tramite-detalle"
+      ]
+    },
+    {
+      "component_id": "5e54f4f0f20a",
+      "category": "button",
+      "variant": "primary",
+      "occurrences": 3,
+      "pages": {
+        "red-centros": 3
+      },
+      "sample_locations": [
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 799,
+            "y": 577,
+            "w": 40,
+            "h": 40
+          }
+        },
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 1214,
+            "y": 240,
+            "w": 40,
+            "h": 40
+          }
+        },
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 1101,
+            "y": 174,
+            "w": 40,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "div.leaflet-marker-icon.marker-cluster.marker-cluster-custom",
+      "markup_sample": "<div class=\"leaflet-marker-icon marker-cluster marker-cluster-custom leaflet-zoom-animated leaflet-interactive\" tabindex=\"0\" role=\"button\" style=\"margin-left: -20px; margin-top: -20px; width: 40px; height: 40px; transform: translate3d(82px, 447px, 0p...",
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "meta": {
+        "text": "4",
+        "bg": "rgb(0, 117, 201)",
+        "color": "rgb(38, 45, 51)",
+        "border": "rgba(0, 117, 201, 0.5)",
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      "asset_path_png": "assets/components/5e54f4f0f20a.png",
+      "pages_count": 1,
+      "pages_list": [
+        "red-centros"
+      ]
+    },
+    {
+      "component_id": "2d250b1fe196",
+      "category": "card",
+      "variant": null,
+      "occurrences": 3,
+      "pages": {
+        "noticias-listado": 2,
+        "noticia-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 888,
+            "y": 1101,
+            "w": 304,
+            "h": 289
+          }
+        },
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 248,
+            "y": 1994,
+            "w": 491,
+            "h": 156
+          }
+        },
+        {
+          "page": "noticia-detalle",
+          "rect": {
+            "x": 869,
+            "y": 1204,
+            "w": 371,
+            "h": 136
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-44797",
+      "markup_sample": "<div class=\"item-post post-id-44797\" data-comp-mark=\"comp-mark-15\">...",
+      "size": {
+        "w": 304,
+        "h": 289
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/2d250b1fe196.png",
+      "pages_count": 2,
+      "pages_list": [
+        "noticias-listado",
+        "noticia-detalle"
+      ]
+    },
+    {
+      "component_id": "9652dc5fe32c",
+      "category": "list",
+      "variant": "ul",
+      "occurrences": 2,
+      "pages": {
+        "servicio-detalle": 1,
+        "tramite-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "servicio-detalle",
+          "rect": {
+            "x": 248,
+            "y": 470,
+            "w": 450,
+            "h": 224
+          }
+        },
+        {
+          "page": "tramite-detalle",
+          "rect": {
+            "x": 248,
+            "y": 412,
+            "w": 450,
+            "h": 150
+          }
+        }
+      ],
+      "selector": "ul.toc-list",
+      "markup_sample": "<ul class=\"toc-list\" data-comp-mark=\"comp-mark-17\">...",
+      "size": {
+        "w": 450,
+        "h": 224
+      },
+      "meta": {
+        "items": 5
+      },
+      "asset_path_png": "assets/components/9652dc5fe32c.png",
+      "pages_count": 2,
+      "pages_list": [
+        "servicio-detalle",
+        "tramite-detalle"
+      ]
+    },
+    {
+      "component_id": "32a022d64848",
+      "category": "tabs",
+      "variant": null,
+      "occurrences": 2,
+      "pages": {
+        "formularios": 2
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 152,
+            "y": 642,
+            "w": 1136,
+            "h": 315
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 152,
+            "y": 1077,
+            "w": 1136,
+            "h": 206
+          }
+        }
+      ],
+      "selector": "div.wp-block-getwid-tabs.getwid-init",
+      "markup_sample": "<div class=\"wp-block-getwid-tabs getwid-init ui-tabs ui-corner-all ui-widget ui-widget-content\" data-active-tab=\"0\" data-comp-mark=\"comp-mark-50\">...",
+      "size": {
+        "w": 1136,
+        "h": 315
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/32a022d64848.png",
+      "pages_count": 1,
+      "pages_list": [
+        "formularios"
+      ]
+    },
+    {
+      "component_id": "bd9cbbbdf322",
+      "category": "tabs",
+      "variant": null,
+      "occurrences": 2,
+      "pages": {
+        "formularios": 2
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 152,
+            "y": 642,
+            "w": 1136,
+            "h": 49
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 152,
+            "y": 1077,
+            "w": 1136,
+            "h": 49
+          }
+        }
+      ],
+      "selector": "ul.wp-block-getwid-tabs__nav-links.ui-tabs-nav",
+      "markup_sample": "<ul class=\"wp-block-getwid-tabs__nav-links ui-tabs-nav ui-corner-all ui-helper-reset ui-helper-clearfix ui-widget-header\" role=\"tablist\" data-comp-mark=\"comp-mark-51\">...",
+      "size": {
+        "w": 1136,
+        "h": 49
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/bd9cbbbdf322.png",
+      "pages_count": 1,
+      "pages_list": [
+        "formularios"
+      ]
+    },
+    {
+      "component_id": "7ca0cde6c898",
+      "category": "tabs",
+      "variant": null,
+      "occurrences": 2,
+      "pages": {
+        "formularios": 2
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 396,
+            "y": 653,
+            "w": 131,
+            "h": 27
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 564,
+            "y": 653,
+            "w": 116,
+            "h": 27
+          }
+        }
+      ],
+      "selector": "span.wp-block-getwid-tabs__title",
+      "markup_sample": "<span class=\"wp-block-getwid-tabs__title\" data-comp-mark=\"comp-mark-58\">Trabajadores</span>",
+      "size": {
+        "w": 131,
+        "h": 27
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/7ca0cde6c898.png",
+      "pages_count": 1,
+      "pages_list": [
+        "formularios"
+      ]
+    },
+    {
+      "component_id": "cedfce15f574",
+      "category": "tabs",
+      "variant": null,
+      "occurrences": 2,
+      "pages": {
+        "formularios": 2
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 152,
+            "y": 690,
+            "w": 1136,
+            "h": 267
+          }
+        },
+        {
+          "page": "formularios",
+          "rect": {
+            "x": 152,
+            "y": 1125,
+            "w": 1136,
+            "h": 158
+          }
+        }
+      ],
+      "selector": "div.wp-block-getwid-tabs__tab-content-wrapper.is-active-tab",
+      "markup_sample": "<div class=\"wp-block-getwid-tabs__tab-content-wrapper is-active-tab ui-tabs-panel ui-corner-bottom ui-widget-content\" id=\"tab-tzCi3-0\" aria-labelledby=\"ui-id-1\" role=\"tabpanel\" aria-hidden=\"false\" data-comp-mark=\"comp-mark-66\">...",
+      "size": {
+        "w": 1136,
+        "h": 267
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/cedfce15f574.png",
+      "pages_count": 1,
+      "pages_list": [
+        "formularios"
+      ]
+    },
+    {
+      "component_id": "27821ee17e37",
+      "category": "form",
+      "variant": null,
+      "occurrences": 2,
+      "pages": {
+        "noticias-listado": 1,
+        "faqs": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 152,
+            "y": 421,
+            "w": 1136,
+            "h": 48
+          }
+        },
+        {
+          "page": "faqs",
+          "rect": {
+            "x": 152,
+            "y": 515,
+            "w": 1136,
+            "h": 48
+          }
+        }
+      ],
+      "selector": "form.tabs.filter-checks",
+      "markup_sample": "<form class=\"tabs filter-checks over\" action=\"https://www.ibermutua.es/corporativo/sala-de-comunicacion/prensa-y-noticias/ \" method=\"post\" data-comp-mark=\"comp-mark-8\">...",
+      "size": {
+        "w": 1136,
+        "h": 48
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/27821ee17e37.png",
+      "pages_count": 2,
+      "pages_list": [
+        "noticias-listado",
+        "faqs"
+      ]
+    },
+    {
+      "component_id": "36da58a4a5f1",
+      "category": "card",
+      "variant": null,
+      "occurrences": 2,
+      "pages": {
+        "noticias-listado": 1,
+        "noticia-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 728,
+            "y": 493,
+            "w": 464,
+            "h": 156
+          }
+        },
+        {
+          "page": "noticia-detalle",
+          "rect": {
+            "x": 200,
+            "y": 1732,
+            "w": 336,
+            "h": 291
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-45035",
+      "markup_sample": "<div class=\"item-post post-id-45035\" data-comp-mark=\"comp-mark-10\">...",
+      "size": {
+        "w": 464,
+        "h": 156
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/36da58a4a5f1.png",
+      "pages_count": 2,
+      "pages_list": [
+        "noticias-listado",
+        "noticia-detalle"
+      ]
+    },
+    {
+      "component_id": "fc20371eeda4",
+      "category": "card",
+      "variant": null,
+      "occurrences": 2,
+      "pages": {
+        "noticias-listado": 1,
+        "noticia-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 728,
+            "y": 665,
+            "w": 464,
+            "h": 156
+          }
+        },
+        {
+          "page": "noticia-detalle",
+          "rect": {
+            "x": 552,
+            "y": 1732,
+            "w": 336,
+            "h": 291
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-45014",
+      "markup_sample": "<div class=\"item-post post-id-45014\" data-comp-mark=\"comp-mark-11\">...",
+      "size": {
+        "w": 464,
+        "h": 156
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/fc20371eeda4.png",
+      "pages_count": 2,
+      "pages_list": [
+        "noticias-listado",
+        "noticia-detalle"
+      ]
+    },
+    {
+      "component_id": "d633dcd80625",
+      "category": "card",
+      "variant": null,
+      "occurrences": 2,
+      "pages": {
+        "noticias-listado": 1,
+        "noticia-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 728,
+            "y": 837,
+            "w": 464,
+            "h": 156
+          }
+        },
+        {
+          "page": "noticia-detalle",
+          "rect": {
+            "x": 904,
+            "y": 1732,
+            "w": 336,
+            "h": 291
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-44962",
+      "markup_sample": "<div class=\"item-post post-id-44962\" data-comp-mark=\"comp-mark-12\">...",
+      "size": {
+        "w": 464,
+        "h": 156
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/d633dcd80625.png",
+      "pages_count": 2,
+      "pages_list": [
+        "noticias-listado",
+        "noticia-detalle"
+      ]
+    },
+    {
+      "component_id": "d11b34a2e642",
+      "category": "card",
+      "variant": null,
+      "occurrences": 2,
+      "pages": {
+        "noticias-listado": 1,
+        "noticia-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 248,
+            "y": 1101,
+            "w": 304,
+            "h": 289
+          }
+        },
+        {
+          "page": "noticia-detalle",
+          "rect": {
+            "x": 869,
+            "y": 924,
+            "w": 371,
+            "h": 136
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-43788",
+      "markup_sample": "<div class=\"item-post post-id-43788\" data-comp-mark=\"comp-mark-13\">...",
+      "size": {
+        "w": 304,
+        "h": 289
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/d11b34a2e642.png",
+      "pages_count": 2,
+      "pages_list": [
+        "noticias-listado",
+        "noticia-detalle"
+      ]
+    },
+    {
+      "component_id": "c7c1587765bf",
+      "category": "card",
+      "variant": null,
+      "occurrences": 2,
+      "pages": {
+        "noticias-listado": 1,
+        "noticia-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 568,
+            "y": 1101,
+            "w": 304,
+            "h": 289
+          }
+        },
+        {
+          "page": "noticia-detalle",
+          "rect": {
+            "x": 869,
+            "y": 1075,
+            "w": 371,
+            "h": 113
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-41704",
+      "markup_sample": "<div class=\"item-post post-id-41704\" data-comp-mark=\"comp-mark-14\">...",
+      "size": {
+        "w": 304,
+        "h": 289
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/c7c1587765bf.png",
+      "pages_count": 2,
+      "pages_list": [
+        "noticias-listado",
+        "noticia-detalle"
+      ]
+    },
+    {
+      "component_id": "c04ded5bdfde",
+      "category": "card",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "home": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "rect": {
+            "x": 152,
+            "y": 786,
+            "w": 1136,
+            "h": 119
+          }
+        }
+      ],
+      "selector": "div.wp-block-column.ib-nomarginbottom.is-layout-flow",
+      "markup_sample": "<div class=\"wp-block-column ib-nomarginbottom is-layout-flow wp-block-column-is-layout-flow\" data-comp-mark=\"comp-mark-20\">...",
+      "size": {
+        "w": 1136,
+        "h": 119
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/c04ded5bdfde.png",
+      "pages_count": 1,
+      "pages_list": [
+        "home"
+      ]
+    },
+    {
+      "component_id": "48efbb11d21e",
+      "category": "list",
+      "variant": "ul",
+      "occurrences": 1,
+      "pages": {
+        "empresas": 1
+      },
+      "sample_locations": [
+        {
+          "page": "empresas",
+          "rect": {
+            "x": 152,
+            "y": 451,
+            "w": 1136,
+            "h": 66
+          }
+        }
+      ],
+      "selector": "ul.menu",
+      "markup_sample": "<ul id=\"menu-menu-empresas\" class=\"menu\" data-comp-mark=\"comp-mark-35\">...",
+      "size": {
+        "w": 1136,
+        "h": 66
+      },
+      "meta": {
+        "items": 4
+      },
+      "asset_path_png": "assets/components/48efbb11d21e.png",
+      "pages_count": 1,
+      "pages_list": [
+        "empresas"
+      ]
+    },
+    {
+      "component_id": "b38eb5175fc1",
+      "category": "card",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "servicios": 1
+      },
+      "sample_locations": [
+        {
+          "page": "servicios",
+          "rect": {
+            "x": 248,
+            "y": 3592,
+            "w": 428,
+            "h": 372
+          }
+        }
+      ],
+      "selector": "div.wp-block-column.is-vertically-aligned-top.is-layout-flow",
+      "markup_sample": "<div class=\"wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow\" data-comp-mark=\"comp-mark-18\">...",
+      "size": {
+        "w": 428,
+        "h": 372
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/b38eb5175fc1.png",
+      "pages_count": 1,
+      "pages_list": [
+        "servicios"
+      ]
+    },
+    {
+      "component_id": "83ed3a64283c",
+      "category": "card",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "servicios": 1
+      },
+      "sample_locations": [
+        {
+          "page": "servicios",
+          "rect": {
+            "x": 764,
+            "y": 3646,
+            "w": 428,
+            "h": 264
+          }
+        }
+      ],
+      "selector": "div.wp-block-column.ib-nomargintop.ib-white",
+      "markup_sample": "<div class=\"wp-block-column ib-nomargintop ib-white is-layout-flow wp-block-column-is-layout-flow\" data-comp-mark=\"comp-mark-19\">...",
+      "size": {
+        "w": 428,
+        "h": 264
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/83ed3a64283c.png",
+      "pages_count": 1,
+      "pages_list": [
+        "servicios"
+      ]
+    },
+    {
+      "component_id": "eb907de8e44e",
+      "category": "button",
+      "variant": "tertiary",
+      "occurrences": 1,
+      "pages": {
+        "red-centros": 1
+      },
+      "sample_locations": [
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 749,
+            "y": 162,
+            "w": 30,
+            "h": 30
+          }
+        }
+      ],
+      "selector": "a.leaflet-control-zoom-in",
+      "markup_sample": "<a class=\"leaflet-control-zoom-in\" href=\"#\" title=\"Zoom in\" role=\"button\" aria-label=\"Zoom in\" aria-disabled=\"false\" data-comp-mark=\"comp-mark-14\"><span aria-hidden=\"true\">+</span></a>",
+      "size": {
+        "w": 30,
+        "h": 30
+      },
+      "meta": {
+        "text": "+",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 0)",
+        "border": "rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204)",
+        "fontSize": "22px",
+        "fontWeight": "700"
+      },
+      "asset_path_png": "assets/components/eb907de8e44e.png",
+      "pages_count": 1,
+      "pages_list": [
+        "red-centros"
+      ]
+    },
+    {
+      "component_id": "7fd52edba36a",
+      "category": "button",
+      "variant": "tertiary",
+      "occurrences": 1,
+      "pages": {
+        "red-centros": 1
+      },
+      "sample_locations": [
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 749,
+            "y": 192,
+            "w": 30,
+            "h": 30
+          }
+        }
+      ],
+      "selector": "a.leaflet-control-zoom-out",
+      "markup_sample": "<a class=\"leaflet-control-zoom-out\" href=\"#\" title=\"Zoom out\" role=\"button\" aria-label=\"Zoom out\" aria-disabled=\"false\" data-comp-mark=\"comp-mark-15\"><span aria-hidden=\"true\">−</span></a>",
+      "size": {
+        "w": 30,
+        "h": 30
+      },
+      "meta": {
+        "text": "−",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 0)",
+        "border": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700"
+      },
+      "asset_path_png": "assets/components/7fd52edba36a.png",
+      "pages_count": 1,
+      "pages_list": [
+        "red-centros"
+      ]
+    },
+    {
+      "component_id": "44e5ece209db",
+      "category": "form",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "red-centros": 1
+      },
+      "sample_locations": [
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 96,
+            "y": 241,
+            "w": 599,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "form.map-filterform",
+      "markup_sample": "<form method=\"post\" class=\"map-filterform\" action=\"https://www.ibermutua.es/redcentros/\" data-comp-mark=\"comp-mark-18\">...",
+      "size": {
+        "w": 599,
+        "h": 40
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/44e5ece209db.png",
+      "pages_count": 1,
+      "pages_list": [
+        "red-centros"
+      ]
+    },
+    {
+      "component_id": "9a2f712fb401",
+      "category": "form-element",
+      "variant": "select-one",
+      "occurrences": 1,
+      "pages": {
+        "red-centros": 1
+      },
+      "sample_locations": [
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 96,
+            "y": 193,
+            "w": 250,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "select[type=select-one].provinces",
+      "markup_sample": "<select name=\"province\" class=\"provinces\" title=\"Provincia\" data-comp-mark=\"comp-mark-20\">...",
+      "size": {
+        "w": 250,
+        "h": 40
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/9a2f712fb401.png",
+      "pages_count": 1,
+      "pages_list": [
+        "red-centros"
+      ]
+    },
+    {
+      "component_id": "fad561082242",
+      "category": "form-element",
+      "variant": "select-one",
+      "occurrences": 1,
+      "pages": {
+        "red-centros": 1
+      },
+      "sample_locations": [
+        {
+          "page": "red-centros",
+          "rect": {
+            "x": 602,
+            "y": 241,
+            "w": 93,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "select[type=select-one]",
+      "markup_sample": "<select name=\"km\" id=\"km\" title=\"km\" data-comp-mark=\"comp-mark-21\">...",
+      "size": {
+        "w": 93,
+        "h": 40
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/fad561082242.png",
+      "pages_count": 1,
+      "pages_list": [
+        "red-centros"
+      ]
+    },
+    {
+      "component_id": "8974703cef6e",
+      "category": "card",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "noticias-listado": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 248,
+            "y": 493,
+            "w": 464,
+            "h": 500
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-45143",
+      "markup_sample": "<div class=\"item-post post-id-45143\" data-comp-mark=\"comp-mark-9\">...",
+      "size": {
+        "w": 464,
+        "h": 500
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/8974703cef6e.png",
+      "pages_count": 1,
+      "pages_list": [
+        "noticias-listado"
+      ]
+    },
+    {
+      "component_id": "6ee7e0de0e22",
+      "category": "card",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "noticias-listado": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 728,
+            "y": 1478,
+            "w": 464,
+            "h": 500
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-44947",
+      "markup_sample": "<div class=\"item-post post-id-44947\" data-comp-mark=\"comp-mark-16\">...",
+      "size": {
+        "w": 464,
+        "h": 500
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/6ee7e0de0e22.png",
+      "pages_count": 1,
+      "pages_list": [
+        "noticias-listado"
+      ]
+    },
+    {
+      "component_id": "61d67e590780",
+      "category": "card",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "noticias-listado": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 248,
+            "y": 1478,
+            "w": 464,
+            "h": 156
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-44933",
+      "markup_sample": "<div class=\"item-post post-id-44933\" data-comp-mark=\"comp-mark-17\">...",
+      "size": {
+        "w": 464,
+        "h": 156
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/61d67e590780.png",
+      "pages_count": 1,
+      "pages_list": [
+        "noticias-listado"
+      ]
+    },
+    {
+      "component_id": "cbc0b9a3a41a",
+      "category": "card",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "noticias-listado": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 248,
+            "y": 1650,
+            "w": 464,
+            "h": 156
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-44912",
+      "markup_sample": "<div class=\"item-post post-id-44912\" data-comp-mark=\"comp-mark-18\">...",
+      "size": {
+        "w": 464,
+        "h": 156
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/cbc0b9a3a41a.png",
+      "pages_count": 1,
+      "pages_list": [
+        "noticias-listado"
+      ]
+    },
+    {
+      "component_id": "9d214b7fd676",
+      "category": "card",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "noticias-listado": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 248,
+            "y": 1822,
+            "w": 464,
+            "h": 156
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-44843",
+      "markup_sample": "<div class=\"item-post post-id-44843\" data-comp-mark=\"comp-mark-19\">...",
+      "size": {
+        "w": 464,
+        "h": 156
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/9d214b7fd676.png",
+      "pages_count": 1,
+      "pages_list": [
+        "noticias-listado"
+      ]
+    },
+    {
+      "component_id": "4a355dc46e57",
+      "category": "card",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "noticias-listado": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 755,
+            "y": 1994,
+            "w": 437,
+            "h": 500
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-44796",
+      "markup_sample": "<div class=\"item-post post-id-44796\" data-comp-mark=\"comp-mark-20\">...",
+      "size": {
+        "w": 437,
+        "h": 500
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/4a355dc46e57.png",
+      "pages_count": 1,
+      "pages_list": [
+        "noticias-listado"
+      ]
+    },
+    {
+      "component_id": "e411e4862399",
+      "category": "card",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "noticias-listado": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 248,
+            "y": 2166,
+            "w": 491,
+            "h": 156
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-44781",
+      "markup_sample": "<div class=\"item-post post-id-44781\" data-comp-mark=\"comp-mark-22\">...",
+      "size": {
+        "w": 491,
+        "h": 156
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/e411e4862399.png",
+      "pages_count": 1,
+      "pages_list": [
+        "noticias-listado"
+      ]
+    },
+    {
+      "component_id": "512da9579dd8",
+      "category": "card",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "noticias-listado": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 248,
+            "y": 2338,
+            "w": 491,
+            "h": 156
+          }
+        }
+      ],
+      "selector": "div.item-post.post-id-44297",
+      "markup_sample": "<div class=\"item-post post-id-44297\" data-comp-mark=\"comp-mark-23\">...",
+      "size": {
+        "w": 491,
+        "h": 156
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/512da9579dd8.png",
+      "pages_count": 1,
+      "pages_list": [
+        "noticias-listado"
+      ]
+    },
+    {
+      "component_id": "018527a65f4a",
+      "category": "pagination",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "noticias-listado": 1
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "rect": {
+            "x": 508,
+            "y": 2570,
+            "w": 424,
+            "h": 58
+          }
+        }
+      ],
+      "selector": "div.blog-pagination",
+      "markup_sample": "<div class=\"blog-pagination\" data-comp-mark=\"comp-mark-26\">...",
+      "size": {
+        "w": 424,
+        "h": 58
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/018527a65f4a.png",
+      "pages_count": 1,
+      "pages_list": [
+        "noticias-listado"
+      ]
+    },
+    {
+      "component_id": "cfb6da18c72a",
+      "category": "button",
+      "variant": "primary",
+      "occurrences": 1,
+      "pages": {
+        "faqs": 1
+      },
+      "sample_locations": [
+        {
+          "page": "faqs",
+          "rect": {
+            "x": 923,
+            "y": 397,
+            "w": 80,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "button.btn.search",
+      "markup_sample": "<button type=\"submit\" id=\"searchsubmit\" class=\"btn search\" value=\"\" data-comp-mark=\"comp-mark-7\">...",
+      "size": {
+        "w": 80,
+        "h": 40
+      },
+      "meta": {
+        "text": "Buscar",
+        "bg": "rgb(0, 117, 201)",
+        "color": "rgb(255, 255, 255)",
+        "border": "rgb(0, 117, 201)",
+        "fontSize": "13.6352px",
+        "fontWeight": "500"
+      },
+      "asset_path_png": "assets/components/cfb6da18c72a.png",
+      "pages_count": 1,
+      "pages_list": [
+        "faqs"
+      ]
+    },
+    {
+      "component_id": "2a35448d663c",
+      "category": "form",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "faqs": 1
+      },
+      "sample_locations": [
+        {
+          "page": "faqs",
+          "rect": {
+            "x": 437,
+            "y": 397,
+            "w": 566,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "form.search-faqs",
+      "markup_sample": "<form class=\"search-faqs\" action=\"\" method=\"post\" data-comp-mark=\"comp-mark-8\">...",
+      "size": {
+        "w": 566,
+        "h": 40
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/2a35448d663c.png",
+      "pages_count": 1,
+      "pages_list": [
+        "faqs"
+      ]
+    },
+    {
+      "component_id": "e5f98ca3e0ce",
+      "category": "form-element",
+      "variant": "text",
+      "occurrences": 1,
+      "pages": {
+        "faqs": 1
+      },
+      "sample_locations": [
+        {
+          "page": "faqs",
+          "rect": {
+            "x": 437,
+            "y": 397,
+            "w": 482,
+            "h": 40
+          }
+        }
+      ],
+      "selector": "input[type=text].search-input",
+      "markup_sample": "<input type=\"text\" name=\"search_text\" class=\"search-input\" value=\"\" placeholder=\"Busca tu duda...\" data-comp-mark=\"comp-mark-10\">",
+      "size": {
+        "w": 482,
+        "h": 40
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/e5f98ca3e0ce.png",
+      "pages_count": 1,
+      "pages_list": [
+        "faqs"
+      ]
+    },
+    {
+      "component_id": "b4a1a128b772",
+      "category": "breadcrumb",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "faqs": 1
+      },
+      "sample_locations": [
+        {
+          "page": "faqs",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 1440,
+            "h": 2345
+          }
+        }
+      ],
+      "selector": "body.wp-singular.page-template-default",
+      "markup_sample": "<body class=\"wp-singular page-template-default page page-id-1141 wp-custom-logo wp-theme-ibermutua no-sidebar light white no-breadcrumb align-center page-faqs\" data-comp-mark=\"comp-mark-11\">...",
+      "size": {
+        "w": 1440,
+        "h": 2345
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/b4a1a128b772.png",
+      "pages_count": 1,
+      "pages_list": [
+        "faqs"
+      ]
+    },
+    {
+      "component_id": "cdfe5f07e4fa",
+      "category": "card",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "tramite-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "tramite-detalle",
+          "rect": {
+            "x": 248,
+            "y": 1443,
+            "w": 562,
+            "h": 153
+          }
+        }
+      ],
+      "selector": "div.dw-block-link.card-icon-right-des.form",
+      "markup_sample": "<div class=\"dw-block-link card-icon-right-des form wp-block-dwguten-block-link-contenido g-link\" data-comp-mark=\"comp-mark-13\">...",
+      "size": {
+        "w": 562,
+        "h": 153
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/cdfe5f07e4fa.png",
+      "pages_count": 1,
+      "pages_list": [
+        "tramite-detalle"
+      ]
+    },
+    {
+      "component_id": "f8f7748058bd",
+      "category": "card",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "tramite-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "tramite-detalle",
+          "rect": {
+            "x": 923,
+            "y": 772,
+            "w": 252,
+            "h": 68
+          }
+        }
+      ],
+      "selector": "div.title-content",
+      "markup_sample": "<div class=\"title-content\" data-comp-mark=\"comp-mark-14\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"title\">Volante de solicitud de asistencia sanitaria</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon\"><img src=\"https://www.ibermutua.es/wp-content/uploads/2021/12/download.svg\" alt=\"ir\"></div>\n\t\t\t\t\t\t\t\t</div>",
+      "size": {
+        "w": 252,
+        "h": 68
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/f8f7748058bd.png",
+      "pages_count": 1,
+      "pages_list": [
+        "tramite-detalle"
+      ]
+    },
+    {
+      "component_id": "1868771b326a",
+      "category": "button",
+      "variant": "tertiary",
+      "occurrences": 1,
+      "pages": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "rect": {
+            "x": 207,
+            "y": 3878,
+            "w": 64,
+            "h": 64
+          }
+        }
+      ],
+      "selector": "button.slick-prev.slick-arrow",
+      "markup_sample": "<button class=\"slick-prev slick-arrow\" aria-label=\"Previous\" type=\"button\" style=\"\" data-comp-mark=\"comp-mark-20\">Previous</button>",
+      "size": {
+        "w": 64,
+        "h": 64
+      },
+      "meta": {
+        "text": "Previous",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "border": "rgb(255, 255, 255)",
+        "fontSize": "0px",
+        "fontWeight": "500"
+      },
+      "asset_path_png": "assets/components/1868771b326a.png",
+      "pages_count": 1,
+      "pages_list": [
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "c15b5d4ffdd9",
+      "category": "button",
+      "variant": "tertiary",
+      "occurrences": 1,
+      "pages": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "rect": {
+            "x": 1169,
+            "y": 3878,
+            "w": 64,
+            "h": 64
+          }
+        }
+      ],
+      "selector": "button.slick-next.slick-arrow",
+      "markup_sample": "<button class=\"slick-next slick-arrow\" aria-label=\"Next\" type=\"button\" style=\"\" data-comp-mark=\"comp-mark-21\">Next</button>",
+      "size": {
+        "w": 64,
+        "h": 64
+      },
+      "meta": {
+        "text": "Next",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "border": "rgb(255, 255, 255)",
+        "fontSize": "0px",
+        "fontWeight": "500"
+      },
+      "asset_path_png": "assets/components/c15b5d4ffdd9.png",
+      "pages_count": 1,
+      "pages_list": [
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "e7e238c5cea5",
+      "category": "tabs",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "rect": {
+            "x": 344,
+            "y": 4151,
+            "w": 752,
+            "h": 28
+          }
+        }
+      ],
+      "selector": "ul.slick-dots",
+      "markup_sample": "<ul class=\"slick-dots\" style=\"\" role=\"tablist\" data-comp-mark=\"comp-mark-36\">...",
+      "size": {
+        "w": 752,
+        "h": 28
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/e7e238c5cea5.png",
+      "pages_count": 1,
+      "pages_list": [
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "338186346ea9",
+      "category": "pagination",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "rect": {
+            "x": 152,
+            "y": 2015,
+            "w": 1136,
+            "h": 34
+          }
+        }
+      ],
+      "selector": "div.kt-pagination.kt-pagination--brand",
+      "markup_sample": "<div class=\"kt-pagination kt-pagination--brand\" data-comp-mark=\"comp-mark-39\">...",
+      "size": {
+        "w": 1136,
+        "h": 34
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/338186346ea9.png",
+      "pages_count": 1,
+      "pages_list": [
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "component_id": "d9a73d295a79",
+      "category": "pagination",
+      "variant": null,
+      "occurrences": 1,
+      "pages": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "rect": {
+            "x": 322,
+            "y": 2015,
+            "w": 795,
+            "h": 34
+          }
+        }
+      ],
+      "selector": "ul.pagination.kt-pagination__links",
+      "markup_sample": "<ul class=\"pagination kt-pagination__links\" style=\"width: 70%; margin: auto;\" data-comp-mark=\"comp-mark-40\">...",
+      "size": {
+        "w": 795,
+        "h": 34
+      },
+      "meta": null,
+      "asset_path_png": "assets/components/d9a73d295a79.png",
+      "pages_count": 1,
+      "pages_list": [
+        "microsite-trabaja"
+      ]
+    }
+  ]
+}

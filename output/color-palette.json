@@ -1,0 +1,528 @@
+{
+  "textColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "total_count": 510,
+      "pages": 12,
+      "samples": [
+        "a.skip-link.screen-reader-text",
+        "a"
+      ]
+    },
+    {
+      "hex": "#0065b7",
+      "alpha": 1,
+      "total_count": 224,
+      "pages": 11,
+      "samples": [
+        "a",
+        "div.title",
+        "span.read-minus",
+        "strong",
+        "label"
+      ]
+    },
+    {
+      "hex": "#262d33",
+      "alpha": 1,
+      "total_count": 220,
+      "pages": 12,
+      "samples": [
+        "a",
+        "p.description",
+        "h1",
+        "div.post-title",
+        "h1.entry-title"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "total_count": 91,
+      "pages": 12,
+      "samples": [
+        "a"
+      ]
+    },
+    {
+      "hex": "#004799",
+      "alpha": 1,
+      "total_count": 59,
+      "pages": 11,
+      "samples": [
+        "h1.entry-title",
+        "div.date",
+        "a.category-link",
+        "label"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "total_count": 57,
+      "pages": 10,
+      "samples": [
+        "button.btn.search-centros",
+        "a",
+        "div.day",
+        "h2.wp-block-heading",
+        "p"
+      ]
+    },
+    {
+      "hex": "#000000",
+      "alpha": 1,
+      "total_count": 9,
+      "pages": 2,
+      "samples": [
+        "span",
+        "h3.wp-block-heading.has-black-color",
+        "h2.wp-block-heading.has-black-color"
+      ]
+    },
+    {
+      "hex": "#2782ad",
+      "alpha": 1,
+      "total_count": 5,
+      "pages": 1,
+      "samples": [
+        "h4.wp-block-heading.has-text-color"
+      ]
+    },
+    {
+      "hex": "#738aa0",
+      "alpha": 1,
+      "total_count": 3,
+      "pages": 2,
+      "samples": [
+        "em"
+      ]
+    }
+  ],
+  "backgroundColor": [
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "total_count": 198,
+      "pages": 12,
+      "samples": [
+        "body.home.wp-singular",
+        "header.site-header",
+        "a.wp-block-button__link.wp-element-button",
+        "body.wp-singular.page-template-default",
+        "body.wp-singular.servicio-template-default"
+      ]
+    },
+    {
+      "hex": "#ecf6fe",
+      "alpha": 1,
+      "total_count": 179,
+      "pages": 8,
+      "samples": [
+        "a",
+        "div.wp-block-column.is-layout-flow",
+        "a.title-content",
+        "label",
+        "div.title-content"
+      ]
+    },
+    {
+      "hex": "#f5f8fa",
+      "alpha": 1,
+      "total_count": 76,
+      "pages": 12,
+      "samples": [
+        "div.top-header",
+        "header.entry-header",
+        "div.wp-block-group.alignfull",
+        "main.site-main",
+        "div.entry-header-content.alignfull"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "total_count": 36,
+      "pages": 12,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button",
+        "button.btn.search-centros",
+        "div.wp-block-group.block-ibermutua-digital",
+        "div.wp-block-group.alignwide",
+        "figure.wp-block-image.size-large"
+      ]
+    },
+    {
+      "hex": "#0056a7",
+      "alpha": 1,
+      "total_count": 12,
+      "pages": 12,
+      "samples": [
+        "div.cky-btn-revisit-wrapper.cky-revisit-bottom-left"
+      ]
+    },
+    {
+      "hex": "#0065b7",
+      "alpha": 1,
+      "total_count": 9,
+      "pages": 2,
+      "samples": [
+        "div.widget_nav_menu",
+        "div.leaflet-marker-icon.marker-cluster",
+        "div"
+      ]
+    },
+    {
+      "hex": "#000000",
+      "alpha": 1,
+      "total_count": 3,
+      "pages": 2,
+      "samples": [
+        "span.wp-block-cover__background.has-background-dim-0",
+        "div.wp-block-getwid-media-text-slider-slide-content__media-overlay"
+      ]
+    }
+  ],
+  "borderColor": [
+    {
+      "hex": "#ebeff2",
+      "alpha": 1,
+      "total_count": 337,
+      "pages": 12,
+      "samples": [
+        "div.site-header-container",
+        "a.title-content",
+        "div.row-read",
+        "select",
+        "div.item-post.post-id-45143"
+      ]
+    },
+    {
+      "hex": "#eeeeee",
+      "alpha": 1,
+      "total_count": 114,
+      "pages": 1,
+      "samples": [
+        "div.wp-block-getwid-accordion__header-wrapper.ui-accordion-header"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "total_count": 88,
+      "pages": 12,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "total_count": 72,
+      "pages": 12,
+      "samples": [
+        "li.menu-item.menu-item-type-post_type"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "total_count": 48,
+      "pages": 12,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#ebeef1",
+      "alpha": 1,
+      "total_count": 30,
+      "pages": 1,
+      "samples": [
+        "li.wp-block-getwid-tabs__nav-link.ui-tabs-tab"
+      ]
+    },
+    {
+      "hex": "#d1d9e0",
+      "alpha": 1,
+      "total_count": 26,
+      "pages": 5,
+      "samples": [
+        "input",
+        "select.provinces",
+        "input.search-input"
+      ]
+    },
+    {
+      "hex": "#0065b7",
+      "alpha": 0.5,
+      "total_count": 16,
+      "pages": 1,
+      "samples": [
+        "div.leaflet-marker-icon.marker-cluster"
+      ]
+    },
+    {
+      "hex": "#9eaebd",
+      "alpha": 0.5,
+      "total_count": 14,
+      "pages": 1,
+      "samples": [
+        "div.question"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 0.5,
+      "total_count": 12,
+      "pages": 1,
+      "samples": [
+        "div.leaflet-marker-icon.marker-cluster"
+      ]
+    },
+    {
+      "hex": "#000000",
+      "alpha": 0.2,
+      "total_count": 4,
+      "pages": 1,
+      "samples": [
+        "div.leaflet-control-zoom.leaflet-bar"
+      ]
+    }
+  ],
+  "iconColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "total_count": 66,
+      "pages": 2,
+      "samples": [
+        "span[icon-font].wp-block-getwid-accordion__icon.is-active",
+        "i[icon-font].fas.fa-plus",
+        "span[icon-font].svg-icon.svg-icon-primary"
+      ]
+    }
+  ],
+  "linkColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "total_count": 491,
+      "pages": 12,
+      "samples": [
+        "a.skip-link.screen-reader-text",
+        "a"
+      ]
+    },
+    {
+      "hex": "#262d33",
+      "alpha": 1,
+      "total_count": 259,
+      "pages": 12,
+      "samples": [
+        "a",
+        "a.title-content"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "total_count": 77,
+      "pages": 12,
+      "samples": [
+        "a"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "total_count": 26,
+      "pages": 5,
+      "samples": [
+        "a",
+        "a.wp-block-button__link.wp-element-button",
+        "a.btn.btn-bold"
+      ]
+    },
+    {
+      "hex": "#004799",
+      "alpha": 1,
+      "total_count": 23,
+      "pages": 3,
+      "samples": [
+        "a.category-link"
+      ]
+    },
+    {
+      "hex": "#0065b7",
+      "alpha": 1,
+      "total_count": 15,
+      "pages": 6,
+      "samples": [
+        "a"
+      ]
+    },
+    {
+      "hex": "#000000",
+      "alpha": 1,
+      "total_count": 2,
+      "pages": 1,
+      "samples": [
+        "a.leaflet-control-zoom-in",
+        "a.leaflet-control-zoom-out"
+      ]
+    }
+  ],
+  "buttonColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "total_count": 130,
+      "pages": 12,
+      "samples": [
+        "div[text].cky-btn-revisit-wrapper.cky-revisit-bottom-left",
+        "div[border].cky-btn-revisit-wrapper.cky-revisit-bottom-left",
+        "a[text].search-button"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "total_count": 77,
+      "pages": 12,
+      "samples": [
+        "button[text].cky-btn-revisit",
+        "button[border].cky-btn-revisit",
+        "a[bg].wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "total_count": 71,
+      "pages": 12,
+      "samples": [
+        "a[text].wp-block-button__link.wp-element-button",
+        "a[bg].wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#0056a7",
+      "alpha": 1,
+      "total_count": 12,
+      "pages": 12,
+      "samples": [
+        "div[bg].cky-btn-revisit-wrapper.cky-revisit-bottom-left"
+      ]
+    },
+    {
+      "hex": "#262d33",
+      "alpha": 1,
+      "total_count": 7,
+      "pages": 1,
+      "samples": [
+        "div[text].leaflet-marker-icon.marker-cluster"
+      ]
+    },
+    {
+      "hex": "#0065b7",
+      "alpha": 1,
+      "total_count": 4,
+      "pages": 1,
+      "samples": [
+        "div[bg].leaflet-marker-icon.marker-cluster"
+      ]
+    },
+    {
+      "hex": "#0065b7",
+      "alpha": 0.5,
+      "total_count": 4,
+      "pages": 1,
+      "samples": [
+        "div[border].leaflet-marker-icon.marker-cluster"
+      ]
+    },
+    {
+      "hex": "#000000",
+      "alpha": 1,
+      "total_count": 4,
+      "pages": 1,
+      "samples": [
+        "a[text].leaflet-control-zoom-in",
+        "a[text].leaflet-control-zoom-out",
+        "a[border].leaflet-control-zoom-out"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 0.5,
+      "total_count": 3,
+      "pages": 1,
+      "samples": [
+        "div[border].leaflet-marker-icon.marker-cluster"
+      ]
+    }
+  ],
+  "shadowColor": [
+    {
+      "hex": "#6a6a6a",
+      "alpha": 0.05,
+      "total_count": 61,
+      "pages": 7,
+      "samples": [
+        "a[shadow].title-content",
+        "div[shadow].search-map-form",
+        "div[shadow].wp-block-group",
+        "div[shadow].wp-block-getwid-media-text-slider-slide-content"
+      ]
+    },
+    {
+      "hex": "#000000",
+      "alpha": 0.05,
+      "total_count": 10,
+      "pages": 1,
+      "samples": [
+        "div[shadow].kt-widget4.vb-jobs4"
+      ]
+    },
+    {
+      "hex": "#000000",
+      "alpha": 0.1,
+      "total_count": 4,
+      "pages": 1,
+      "samples": [
+        "figure[shadow].wp-block-image.size-large",
+        "figure[shadow].wp-block-image.size-full"
+      ]
+    },
+    {
+      "hex": "#004799",
+      "alpha": 0.17,
+      "total_count": 3,
+      "pages": 1,
+      "samples": [
+        "p[shadow].description",
+        "button[shadow].slick-prev.slick-arrow",
+        "button[shadow].slick-next.slick-arrow"
+      ]
+    }
+  ],
+  "gradients": [
+    {
+      "gradient": "linear-gradient(266.03deg, rgb(0, 101, 183) 30.09%, rgb(0, 71, 153) 99.48%)",
+      "element": "div.wp-block-cover.is-light",
+      "page_id": "servicios"
+    },
+    {
+      "gradient": "linear-gradient(90deg, rgba(245, 248, 250, 0.5) 0px, rgb(245, 248, 250) 100%)",
+      "element": "div.wp-block-getwid-media-text-slider-slide-content__media-overlay",
+      "page_id": "microsite-trabaja"
+    },
+    {
+      "gradient": "linear-gradient(87.71deg, rgb(0, 71, 153) 0px, rgb(0, 101, 183) 100%)",
+      "element": "div.wp-block-cover.is-light",
+      "page_id": "microsite-trabaja"
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "textColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 17,
+      "samples": [
+        "a.skip-link.screen-reader-text",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 8,
+      "samples": [
+        "button.btn.search-centros",
+        "span",
+        "span"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 7,
+      "samples": [
+        "a",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#262d33",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "a",
+        "a",
+        "h1"
+      ]
+    },
+    {
+      "hex": "#0065b7",
+      "alpha": 1,
+      "count": 3,
+      "samples": [
+        "label",
+        "label",
+        "label"
+      ]
+    },
+    {
+      "hex": "#000000",
+      "alpha": 1,
+      "count": 2,
+      "samples": [
+        "span",
+        "span"
+      ]
+    },
+    {
+      "hex": "#004799",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "label"
+      ]
+    },
+    {
+      "hex": "#0078a8",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "a"
+      ]
+    }
+  ],
+  "backgroundColor": [
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 12,
+      "samples": [
+        "body.wp-singular.page-template-default",
+        "header.site-header",
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 8,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button",
+        "button.btn.search-centros",
+        "div.leaflet-marker-icon.marker-cluster"
+      ]
+    },
+    {
+      "hex": "#0065b7",
+      "alpha": 1,
+      "count": 8,
+      "samples": [
+        "div.leaflet-marker-icon.marker-cluster",
+        "div",
+        "div.leaflet-marker-icon.marker-cluster"
+      ]
+    },
+    {
+      "hex": "#f5f8fa",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "div.top-header",
+        "main.site-main",
+        "div.map-centros"
+      ]
+    },
+    {
+      "hex": "#0056a7",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "div.cky-btn-revisit-wrapper.cky-revisit-bottom-left"
+      ]
+    },
+    {
+      "hex": "#ecf6fe",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "label"
+      ]
+    },
+    {
+      "hex": "#dddddd",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "div.leaflet-container.leaflet-touch"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 0.8,
+      "count": 1,
+      "samples": [
+        "div"
+      ]
+    }
+  ],
+  "borderColor": [
+    {
+      "hex": "#0065b7",
+      "alpha": 0.5,
+      "count": 16,
+      "samples": [
+        "div.leaflet-marker-icon.marker-cluster",
+        "div.leaflet-marker-icon.marker-cluster",
+        "div.leaflet-marker-icon.marker-cluster"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 0.5,
+      "count": 12,
+      "samples": [
+        "div.leaflet-marker-icon.marker-cluster",
+        "div.leaflet-marker-icon.marker-cluster",
+        "div.leaflet-marker-icon.marker-cluster"
+      ]
+    },
+    {
+      "hex": "#d1d9e0",
+      "alpha": 1,
+      "count": 10,
+      "samples": [
+        "select.provinces",
+        "select.provinces",
+        "select.provinces"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 8,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 6,
+      "samples": [
+        "li.menu-item.menu-item-type-post_type",
+        "li.menu-item.menu-item-type-post_type",
+        "li.menu-item.menu-item-type-post_type"
+      ]
+    },
+    {
+      "hex": "#ebeff2",
+      "alpha": 1,
+      "count": 5,
+      "samples": [
+        "div.site-header-container",
+        "select",
+        "select"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 4,
+      "samples": [
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button",
+        "a.wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#000000",
+      "alpha": 0.2,
+      "count": 4,
+      "samples": [
+        "div.leaflet-control-zoom.leaflet-bar",
+        "div.leaflet-control-zoom.leaflet-bar",
+        "div.leaflet-control-zoom.leaflet-bar"
+      ]
+    },
+    {
+      "hex": "#cccccc",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "a.leaflet-control-zoom-in"
+      ]
+    }
+  ],
+  "iconColor": [],
+  "linkColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 28,
+      "samples": [
+        "a.skip-link.screen-reader-text",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 7,
+      "samples": [
+        "a",
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#262d33",
+      "alpha": 1,
+      "count": 2,
+      "samples": [
+        "a",
+        "a"
+      ]
+    },
+    {
+      "hex": "#000000",
+      "alpha": 1,
+      "count": 2,
+      "samples": [
+        "a.leaflet-control-zoom-in",
+        "a.leaflet-control-zoom-out"
+      ]
+    },
+    {
+      "hex": "#0078a8",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "a"
+      ]
+    }
+  ],
+  "buttonColor": [
+    {
+      "hex": "#566673",
+      "alpha": 1,
+      "count": 10,
+      "samples": [
+        "div[text].cky-btn-revisit-wrapper.cky-revisit-bottom-left",
+        "div[border].cky-btn-revisit-wrapper.cky-revisit-bottom-left",
+        "a[text].search-button"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 1,
+      "count": 9,
+      "samples": [
+        "a[text].wp-block-button__link.wp-element-button",
+        "a[text].wp-block-button__link.wp-element-button",
+        "a[bg].wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#ffffff",
+      "alpha": 1,
+      "count": 7,
+      "samples": [
+        "button[text].cky-btn-revisit",
+        "button[border].cky-btn-revisit",
+        "a[bg].wp-block-button__link.wp-element-button"
+      ]
+    },
+    {
+      "hex": "#262d33",
+      "alpha": 1,
+      "count": 7,
+      "samples": [
+        "div[text].leaflet-marker-icon.marker-cluster",
+        "div[text].leaflet-marker-icon.marker-cluster",
+        "div[text].leaflet-marker-icon.marker-cluster"
+      ]
+    },
+    {
+      "hex": "#0065b7",
+      "alpha": 1,
+      "count": 4,
+      "samples": [
+        "div[bg].leaflet-marker-icon.marker-cluster",
+        "div[bg].leaflet-marker-icon.marker-cluster",
+        "div[bg].leaflet-marker-icon.marker-cluster"
+      ]
+    },
+    {
+      "hex": "#0065b7",
+      "alpha": 0.5,
+      "count": 4,
+      "samples": [
+        "div[border].leaflet-marker-icon.marker-cluster",
+        "div[border].leaflet-marker-icon.marker-cluster",
+        "div[border].leaflet-marker-icon.marker-cluster"
+      ]
+    },
+    {
+      "hex": "#000000",
+      "alpha": 1,
+      "count": 4,
+      "samples": [
+        "a[text].leaflet-control-zoom-in",
+        "a[text].leaflet-control-zoom-out",
+        "a[border].leaflet-control-zoom-out"
+      ]
+    },
+    {
+      "hex": "#0075c9",
+      "alpha": 0.5,
+      "count": 3,
+      "samples": [
+        "div[border].leaflet-marker-icon.marker-cluster",
+        "div[border].leaflet-marker-icon.marker-cluster",
+        "div[border].leaflet-marker-icon.marker-cluster"
+      ]
+    },
+    {
+      "hex": "#0056a7",
+      "alpha": 1,
+      "count": 1,
+      "samples": [
+        "div[bg].cky-btn-revisit-wrapper.cky-revisit-bottom-left"
+      ]
+    }
+  ],
+  "gradients": [],
+  "shadowColor": [
+    {
+      "hex": "#6a6a6a",
+      "alpha": 0.05,
+      "count": 1,
+      "samples": [
+        "div[shadow].search-map-form"
+      ]
+    }
+  ]
+}

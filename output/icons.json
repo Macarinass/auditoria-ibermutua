@@ -1,0 +1,2565 @@
+{
+  "generated": "2026-02-07T17:05:06.055Z",
+  "pages_analyzed": 12,
+  "total_unique_icons": 66,
+  "total_occurrences": 527,
+  "by_type": {
+    "img-svg": {
+      "count_unique": 52,
+      "count_total": 422
+    },
+    "icon-font": {
+      "count_unique": 5,
+      "count_total": 66
+    },
+    "svg": {
+      "count_unique": 3,
+      "count_total": 30
+    },
+    "img": {
+      "count_unique": 6,
+      "count_total": 9
+    }
+  },
+  "screenshots_captured": 66,
+  "top_20": [
+    {
+      "icon_id": "99ff2cb5f6be",
+      "type": "img-svg",
+      "occurrences_total": 155,
+      "pages": 2,
+      "size": {
+        "w": 18,
+        "h": 18
+      },
+      "color_hint": null,
+      "context": "card",
+      "className": "icon",
+      "asset_path_png": "assets/icons/99ff2cb5f6be.png"
+    },
+    {
+      "icon_id": "70c6203ecb4e",
+      "type": "img-svg",
+      "occurrences_total": 28,
+      "pages": 6,
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "context": "card",
+      "className": "icon",
+      "asset_path_png": "assets/icons/70c6203ecb4e.png"
+    },
+    {
+      "icon_id": "cd05c82565ae",
+      "type": "img-svg",
+      "occurrences_total": 24,
+      "pages": 12,
+      "size": {
+        "w": 16,
+        "h": 16
+      },
+      "color_hint": null,
+      "context": "link",
+      "className": null,
+      "asset_path_png": "assets/icons/cd05c82565ae.png"
+    },
+    {
+      "icon_id": "843162cd5cce",
+      "type": "img-svg",
+      "occurrences_total": 24,
+      "pages": 12,
+      "size": {
+        "w": 16,
+        "h": 16
+      },
+      "color_hint": null,
+      "context": "link",
+      "className": null,
+      "asset_path_png": "assets/icons/843162cd5cce.png"
+    },
+    {
+      "icon_id": "971e78901b67",
+      "type": "img-svg",
+      "occurrences_total": 24,
+      "pages": 12,
+      "size": {
+        "w": 14,
+        "h": 14
+      },
+      "color_hint": null,
+      "context": "link",
+      "className": null,
+      "asset_path_png": "assets/icons/971e78901b67.png"
+    },
+    {
+      "icon_id": "9bfd2a8a0e3b",
+      "type": "img-svg",
+      "occurrences_total": 24,
+      "pages": 12,
+      "size": {
+        "w": 16,
+        "h": 16
+      },
+      "color_hint": null,
+      "context": "link",
+      "className": null,
+      "asset_path_png": "assets/icons/9bfd2a8a0e3b.png"
+    },
+    {
+      "icon_id": "380df630bd17",
+      "type": "img-svg",
+      "occurrences_total": 24,
+      "pages": 12,
+      "size": {
+        "w": 16,
+        "h": 16
+      },
+      "color_hint": null,
+      "context": "link",
+      "className": null,
+      "asset_path_png": "assets/icons/380df630bd17.png"
+    },
+    {
+      "icon_id": "bde769cb2ba2",
+      "type": "img-svg",
+      "occurrences_total": 24,
+      "pages": 12,
+      "size": {
+        "w": 16,
+        "h": 16
+      },
+      "color_hint": null,
+      "context": "link",
+      "className": null,
+      "asset_path_png": "assets/icons/bde769cb2ba2.png"
+    },
+    {
+      "icon_id": "9ea9c667cbdb",
+      "type": "icon-font",
+      "occurrences_total": 18,
+      "pages": 1,
+      "size": {
+        "w": 11,
+        "h": 12
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "context": "link",
+      "className": "fas fa-plus",
+      "asset_path_png": "assets/icons/9ea9c667cbdb.png"
+    },
+    {
+      "icon_id": "a103b3865ded",
+      "type": "icon-font",
+      "occurrences_total": 18,
+      "pages": 1,
+      "size": {
+        "w": 11,
+        "h": 12
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "context": "link",
+      "className": "wp-block-getwid-accordion__icon is-active",
+      "asset_path_png": "assets/icons/a103b3865ded.png"
+    },
+    {
+      "icon_id": "d69653b08869",
+      "type": "img-svg",
+      "occurrences_total": 12,
+      "pages": 12,
+      "size": {
+        "w": 30,
+        "h": 30
+      },
+      "color_hint": null,
+      "context": "button",
+      "className": null,
+      "asset_path_png": "assets/icons/d69653b08869.png"
+    },
+    {
+      "icon_id": "c0960c2752b1",
+      "type": "img-svg",
+      "occurrences_total": 12,
+      "pages": 12,
+      "size": {
+        "w": 18,
+        "h": 18
+      },
+      "color_hint": null,
+      "context": "button",
+      "className": null,
+      "asset_path_png": "assets/icons/c0960c2752b1.png"
+    },
+    {
+      "icon_id": "b6009c49a623",
+      "type": "img-svg",
+      "occurrences_total": 12,
+      "pages": 12,
+      "size": {
+        "w": 120,
+        "h": 40
+      },
+      "color_hint": null,
+      "context": "link",
+      "className": null,
+      "asset_path_png": "assets/icons/b6009c49a623.png"
+    },
+    {
+      "icon_id": "dff60d8d744e",
+      "type": "img-svg",
+      "occurrences_total": 10,
+      "pages": 1,
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "context": "card",
+      "className": "icon",
+      "asset_path_png": "assets/icons/dff60d8d744e.png"
+    },
+    {
+      "icon_id": "5776ace61a2b",
+      "type": "svg",
+      "occurrences_total": 10,
+      "pages": 1,
+      "size": {
+        "w": 18,
+        "h": 18
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "context": "content",
+      "className": null,
+      "asset_path_png": "assets/icons/5776ace61a2b.png"
+    },
+    {
+      "icon_id": "77ae9d50dc51",
+      "type": "svg",
+      "occurrences_total": 10,
+      "pages": 1,
+      "size": {
+        "w": 18,
+        "h": 18
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "context": "content",
+      "className": null,
+      "asset_path_png": "assets/icons/77ae9d50dc51.png"
+    },
+    {
+      "icon_id": "f721637d8391",
+      "type": "svg",
+      "occurrences_total": 10,
+      "pages": 1,
+      "size": {
+        "w": 18,
+        "h": 18
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "context": "content",
+      "className": null,
+      "asset_path_png": "assets/icons/f721637d8391.png"
+    },
+    {
+      "icon_id": "e7828595a661",
+      "type": "icon-font",
+      "occurrences_total": 10,
+      "pages": 1,
+      "size": {
+        "w": 18,
+        "h": 25
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "context": "content",
+      "className": "svg-icon svg-icon-primary svg-icon-sm",
+      "asset_path_png": "assets/icons/e7828595a661.png"
+    },
+    {
+      "icon_id": "c9115ab1d4a6",
+      "type": "icon-font",
+      "occurrences_total": 10,
+      "pages": 1,
+      "size": {
+        "w": 18,
+        "h": 25
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "context": "content",
+      "className": "svg-icon svg-icon-primary kt-svg-icon--sm",
+      "asset_path_png": "assets/icons/c9115ab1d4a6.png"
+    },
+    {
+      "icon_id": "95bc8fca990d",
+      "type": "icon-font",
+      "occurrences_total": 10,
+      "pages": 1,
+      "size": {
+        "w": 18,
+        "h": 25
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "context": "content",
+      "className": "svg-icon svg-icon-primary svg-icon-2x",
+      "asset_path_png": "assets/icons/95bc8fca990d.png"
+    }
+  ],
+  "icons": [
+    {
+      "icon_id": "99ff2cb5f6be",
+      "type": "img-svg",
+      "occurrences_total": 155,
+      "pages_breakdown": {
+        "formularios": 150,
+        "tramite-detalle": 5
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "formularios",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "formularios",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "formularios",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 18,
+        "h": 18
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/download.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/99ff2cb5f6be.png"
+    },
+    {
+      "icon_id": "70c6203ecb4e",
+      "type": "img-svg",
+      "occurrences_total": 28,
+      "pages_breakdown": {
+        "home": 1,
+        "empresas": 2,
+        "servicios": 5,
+        "servicio-detalle": 7,
+        "corporativo-quienes-somos": 12,
+        "tramite-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "empresas",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "empresas",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "servicios",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/10/arrow_forward.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/70c6203ecb4e.png"
+    },
+    {
+      "icon_id": "cd05c82565ae",
+      "type": "img-svg",
+      "occurrences_total": 24,
+      "pages_breakdown": {
+        "home": 2,
+        "empresas": 2,
+        "servicios": 2,
+        "servicio-detalle": 2,
+        "red-centros": 2,
+        "formularios": 2,
+        "noticias-listado": 2,
+        "noticia-detalle": 2,
+        "corporativo-quienes-somos": 2,
+        "faqs": 2,
+        "tramite-detalle": 2,
+        "microsite-trabaja": 2
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "home",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 16,
+        "h": 16
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "/wp-content/uploads/2021/11/facebook.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/cd05c82565ae.png"
+    },
+    {
+      "icon_id": "843162cd5cce",
+      "type": "img-svg",
+      "occurrences_total": 24,
+      "pages_breakdown": {
+        "home": 2,
+        "empresas": 2,
+        "servicios": 2,
+        "servicio-detalle": 2,
+        "red-centros": 2,
+        "formularios": 2,
+        "noticias-listado": 2,
+        "noticia-detalle": 2,
+        "corporativo-quienes-somos": 2,
+        "faqs": 2,
+        "tramite-detalle": 2,
+        "microsite-trabaja": 2
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "home",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 16,
+        "h": 16
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "/wp-content/uploads/2023/08/x-logo.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/843162cd5cce.png"
+    },
+    {
+      "icon_id": "971e78901b67",
+      "type": "img-svg",
+      "occurrences_total": 24,
+      "pages_breakdown": {
+        "home": 2,
+        "empresas": 2,
+        "servicios": 2,
+        "servicio-detalle": 2,
+        "red-centros": 2,
+        "formularios": 2,
+        "noticias-listado": 2,
+        "noticia-detalle": 2,
+        "corporativo-quienes-somos": 2,
+        "faqs": 2,
+        "tramite-detalle": 2,
+        "microsite-trabaja": 2
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "home",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 14,
+        "h": 14
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "/wp-content/uploads/2023/06/linkedin.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/971e78901b67.png"
+    },
+    {
+      "icon_id": "9bfd2a8a0e3b",
+      "type": "img-svg",
+      "occurrences_total": 24,
+      "pages_breakdown": {
+        "home": 2,
+        "empresas": 2,
+        "servicios": 2,
+        "servicio-detalle": 2,
+        "red-centros": 2,
+        "formularios": 2,
+        "noticias-listado": 2,
+        "noticia-detalle": 2,
+        "corporativo-quienes-somos": 2,
+        "faqs": 2,
+        "tramite-detalle": 2,
+        "microsite-trabaja": 2
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "home",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 16,
+        "h": 16
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "/wp-content/uploads/2021/11/youtube.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/9bfd2a8a0e3b.png"
+    },
+    {
+      "icon_id": "380df630bd17",
+      "type": "img-svg",
+      "occurrences_total": 24,
+      "pages_breakdown": {
+        "home": 2,
+        "empresas": 2,
+        "servicios": 2,
+        "servicio-detalle": 2,
+        "red-centros": 2,
+        "formularios": 2,
+        "noticias-listado": 2,
+        "noticia-detalle": 2,
+        "corporativo-quienes-somos": 2,
+        "faqs": 2,
+        "tramite-detalle": 2,
+        "microsite-trabaja": 2
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "home",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 16,
+        "h": 16
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "/wp-content/uploads/2023/06/pinterest.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/380df630bd17.png"
+    },
+    {
+      "icon_id": "bde769cb2ba2",
+      "type": "img-svg",
+      "occurrences_total": 24,
+      "pages_breakdown": {
+        "home": 2,
+        "empresas": 2,
+        "servicios": 2,
+        "servicio-detalle": 2,
+        "red-centros": 2,
+        "formularios": 2,
+        "noticias-listado": 2,
+        "noticia-detalle": 2,
+        "corporativo-quienes-somos": 2,
+        "faqs": 2,
+        "tramite-detalle": 2,
+        "microsite-trabaja": 2
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "home",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 16,
+        "h": 16
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "/wp-content/uploads/2021/11/instagram.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/bde769cb2ba2.png"
+    },
+    {
+      "icon_id": "9ea9c667cbdb",
+      "type": "icon-font",
+      "occurrences_total": 18,
+      "pages_breakdown": {
+        "formularios": 18
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "context": "link",
+          "selector": "i.fas.fa-plus"
+        },
+        {
+          "page": "formularios",
+          "context": "link",
+          "selector": "i.fas.fa-plus"
+        },
+        {
+          "page": "formularios",
+          "context": "link",
+          "selector": "i.fas.fa-plus"
+        },
+        {
+          "page": "formularios",
+          "context": "link",
+          "selector": "i.fas.fa-plus"
+        }
+      ],
+      "size": {
+        "w": 11,
+        "h": 12
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "className": "fas fa-plus",
+      "src": null,
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": "normal",
+      "asset_path_png": "assets/icons/9ea9c667cbdb.png"
+    },
+    {
+      "icon_id": "a103b3865ded",
+      "type": "icon-font",
+      "occurrences_total": 18,
+      "pages_breakdown": {
+        "formularios": 18
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "context": "link",
+          "selector": "span.wp-block-getwid-accordion__icon.is-active"
+        },
+        {
+          "page": "formularios",
+          "context": "link",
+          "selector": "span.wp-block-getwid-accordion__icon.is-active"
+        },
+        {
+          "page": "formularios",
+          "context": "link",
+          "selector": "span.wp-block-getwid-accordion__icon.is-active"
+        },
+        {
+          "page": "formularios",
+          "context": "link",
+          "selector": "span.wp-block-getwid-accordion__icon.is-active"
+        }
+      ],
+      "size": {
+        "w": 11,
+        "h": 12
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "className": "wp-block-getwid-accordion__icon is-active",
+      "src": null,
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": "normal",
+      "asset_path_png": "assets/icons/a103b3865ded.png"
+    },
+    {
+      "icon_id": "d69653b08869",
+      "type": "img-svg",
+      "occurrences_total": 12,
+      "pages_breakdown": {
+        "home": 1,
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "red-centros": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "faqs": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "button",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "button",
+          "selector": "img"
+        },
+        {
+          "page": "servicios",
+          "context": "button",
+          "selector": "img"
+        },
+        {
+          "page": "servicio-detalle",
+          "context": "button",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 30,
+        "h": 30
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "https://cdn-cookieyes.com/assets/images/revisit.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/d69653b08869.png"
+    },
+    {
+      "icon_id": "c0960c2752b1",
+      "type": "img-svg",
+      "occurrences_total": 12,
+      "pages_breakdown": {
+        "home": 1,
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "red-centros": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "faqs": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "button",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "button",
+          "selector": "img"
+        },
+        {
+          "page": "servicios",
+          "context": "button",
+          "selector": "img"
+        },
+        {
+          "page": "servicio-detalle",
+          "context": "button",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 18,
+        "h": 18
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "https://www.ibermutua.es/wp-content/themes/ibermutua/img/search_blue.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/c0960c2752b1.png"
+    },
+    {
+      "icon_id": "b6009c49a623",
+      "type": "img-svg",
+      "occurrences_total": 12,
+      "pages_breakdown": {
+        "home": 1,
+        "empresas": 1,
+        "servicios": 1,
+        "servicio-detalle": 1,
+        "red-centros": 1,
+        "formularios": 1,
+        "noticias-listado": 1,
+        "noticia-detalle": 1,
+        "corporativo-quienes-somos": 1,
+        "faqs": 1,
+        "tramite-detalle": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "servicios",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "servicio-detalle",
+          "context": "link",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 120,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "/wp-content/uploads/2021/10/Download_on_the_App_Store_Badge_ES_RGB_blk_100217-1.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/b6009c49a623.png"
+    },
+    {
+      "icon_id": "dff60d8d744e",
+      "type": "img-svg",
+      "occurrences_total": 10,
+      "pages_breakdown": {
+        "formularios": 10
+      },
+      "sample_locations": [
+        {
+          "page": "formularios",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "formularios",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "formularios",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "formularios",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/10/launch.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/dff60d8d744e.png"
+    },
+    {
+      "icon_id": "5776ace61a2b",
+      "type": "svg",
+      "occurrences_total": 10,
+      "pages_breakdown": {
+        "microsite-trabaja": 10
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "svg"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "svg"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "svg"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "svg"
+        }
+      ],
+      "size": {
+        "w": 18,
+        "h": 18
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "className": null,
+      "src": null,
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/5776ace61a2b.png"
+    },
+    {
+      "icon_id": "77ae9d50dc51",
+      "type": "svg",
+      "occurrences_total": 10,
+      "pages_breakdown": {
+        "microsite-trabaja": 10
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "svg"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "svg"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "svg"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "svg"
+        }
+      ],
+      "size": {
+        "w": 18,
+        "h": 18
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "className": null,
+      "src": null,
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/77ae9d50dc51.png"
+    },
+    {
+      "icon_id": "f721637d8391",
+      "type": "svg",
+      "occurrences_total": 10,
+      "pages_breakdown": {
+        "microsite-trabaja": 10
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "svg"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "svg"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "svg"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "svg"
+        }
+      ],
+      "size": {
+        "w": 18,
+        "h": 18
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "className": null,
+      "src": null,
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/f721637d8391.png"
+    },
+    {
+      "icon_id": "e7828595a661",
+      "type": "icon-font",
+      "occurrences_total": 10,
+      "pages_breakdown": {
+        "microsite-trabaja": 10
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "span.svg-icon.svg-icon-primary.svg-icon-sm"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "span.svg-icon.svg-icon-primary.svg-icon-sm"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "span.svg-icon.svg-icon-primary.svg-icon-sm"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "span.svg-icon.svg-icon-primary.svg-icon-sm"
+        }
+      ],
+      "size": {
+        "w": 18,
+        "h": 25
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "className": "svg-icon svg-icon-primary svg-icon-sm",
+      "src": null,
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": "normal",
+      "asset_path_png": "assets/icons/e7828595a661.png"
+    },
+    {
+      "icon_id": "c9115ab1d4a6",
+      "type": "icon-font",
+      "occurrences_total": 10,
+      "pages_breakdown": {
+        "microsite-trabaja": 10
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "span.svg-icon.svg-icon-primary.kt-svg-icon--sm"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "span.svg-icon.svg-icon-primary.kt-svg-icon--sm"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "span.svg-icon.svg-icon-primary.kt-svg-icon--sm"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "span.svg-icon.svg-icon-primary.kt-svg-icon--sm"
+        }
+      ],
+      "size": {
+        "w": 18,
+        "h": 25
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "className": "svg-icon svg-icon-primary kt-svg-icon--sm",
+      "src": null,
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": "normal",
+      "asset_path_png": "assets/icons/c9115ab1d4a6.png"
+    },
+    {
+      "icon_id": "95bc8fca990d",
+      "type": "icon-font",
+      "occurrences_total": 10,
+      "pages_breakdown": {
+        "microsite-trabaja": 10
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "span.svg-icon.svg-icon-primary.svg-icon-2x"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "span.svg-icon.svg-icon-primary.svg-icon-2x"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "span.svg-icon.svg-icon-primary.svg-icon-2x"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "span.svg-icon.svg-icon-primary.svg-icon-2x"
+        }
+      ],
+      "size": {
+        "w": 18,
+        "h": 25
+      },
+      "color_hint": "rgb(86, 102, 115)",
+      "className": "svg-icon svg-icon-primary svg-icon-2x",
+      "src": null,
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": "normal",
+      "asset_path_png": "assets/icons/95bc8fca990d.png"
+    },
+    {
+      "icon_id": "d542e2d2826d",
+      "type": "img-svg",
+      "occurrences_total": 3,
+      "pages_breakdown": {
+        "servicio-detalle": 2,
+        "tramite-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "servicio-detalle",
+          "context": "content",
+          "selector": "img.wp-image-746"
+        },
+        {
+          "page": "servicio-detalle",
+          "context": "content",
+          "selector": "img.wp-image-746"
+        },
+        {
+          "page": "tramite-detalle",
+          "context": "content",
+          "selector": "img.wp-image-746"
+        }
+      ],
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": "wp-image-746",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/10/phone.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/d542e2d2826d.png"
+    },
+    {
+      "icon_id": "2c08044747b7",
+      "type": "img",
+      "occurrences_total": 2,
+      "pages_breakdown": {
+        "home": 1,
+        "empresas": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "empresas",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2024/04/Asistencia-Sanitaria.png",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/2c08044747b7.png"
+    },
+    {
+      "icon_id": "6dd7fa14d8e7",
+      "type": "img",
+      "occurrences_total": 2,
+      "pages_breakdown": {
+        "home": 1,
+        "empresas": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "empresas",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2024/04/Lesiones-permanentes.png",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/6dd7fa14d8e7.png"
+    },
+    {
+      "icon_id": "0941febec692",
+      "type": "img",
+      "occurrences_total": 2,
+      "pages_breakdown": {
+        "home": 1,
+        "empresas": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "empresas",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2024/04/Incapacidad-temporal.png",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/0941febec692.png"
+    },
+    {
+      "icon_id": "aa2c1f8f1b30",
+      "type": "img-svg",
+      "occurrences_total": 2,
+      "pages_breakdown": {
+        "home": 1,
+        "empresas": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "empresas",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2024/02/11_formularios.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/aa2c1f8f1b30.png"
+    },
+    {
+      "icon_id": "43fb4d4373fc",
+      "type": "img-svg",
+      "occurrences_total": 2,
+      "pages_breakdown": {
+        "home": 1,
+        "empresas": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "content",
+          "selector": "img.wp-image-1895"
+        },
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img.wp-image-1895"
+        }
+      ],
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": "wp-image-1895",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/launch_white.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/43fb4d4373fc.png"
+    },
+    {
+      "icon_id": "f42212e71391",
+      "type": "img-svg",
+      "occurrences_total": 2,
+      "pages_breakdown": {
+        "home": 1,
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "img.wp-image-1922"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/readaptacion.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/f42212e71391.png"
+    },
+    {
+      "icon_id": "7eab1794bbb7",
+      "type": "img-svg",
+      "occurrences_total": 2,
+      "pages_breakdown": {
+        "home": 1,
+        "corporativo-quienes-somos": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "card",
+          "selector": "img.icon"
+        },
+        {
+          "page": "corporativo-quienes-somos",
+          "context": "hero",
+          "selector": "img.wp-image-2728"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/trabajo-equipo.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/7eab1794bbb7.png"
+    },
+    {
+      "icon_id": "4d1c27c613dd",
+      "type": "img-svg",
+      "occurrences_total": 2,
+      "pages_breakdown": {
+        "empresas": 1,
+        "formularios": 1
+      },
+      "sample_locations": [
+        {
+          "page": "empresas",
+          "context": "link",
+          "selector": "img"
+        },
+        {
+          "page": "formularios",
+          "context": "link",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "/wp-content/uploads/2021/12/launch_white.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/4d1c27c613dd.png"
+    },
+    {
+      "icon_id": "29589141422e",
+      "type": "img-svg",
+      "occurrences_total": 2,
+      "pages_breakdown": {
+        "red-centros": 2
+      },
+      "sample_locations": [
+        {
+          "page": "red-centros",
+          "context": "content",
+          "selector": "img"
+        },
+        {
+          "page": "red-centros",
+          "context": "content",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 48,
+        "h": 48
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "https://www.ibermutua.es/wp-content/themes/ibermutua/img/place_propio.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/29589141422e.png"
+    },
+    {
+      "icon_id": "83941e4ac141",
+      "type": "img-svg",
+      "occurrences_total": 2,
+      "pages_breakdown": {
+        "noticias-listado": 2
+      },
+      "sample_locations": [
+        {
+          "page": "noticias-listado",
+          "context": "button",
+          "selector": "img"
+        },
+        {
+          "page": "noticias-listado",
+          "context": "link",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "https://www.ibermutua.es/wp-content/themes/ibermutua/img/chevron_right_black.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/83941e4ac141.png"
+    },
+    {
+      "icon_id": "19b5a5fd1b29",
+      "type": "img",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "home": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2024/04/enfermedades-y-accidentes-comun.png",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/19b5a5fd1b29.png"
+    },
+    {
+      "icon_id": "e5bfdbc42649",
+      "type": "img",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "home": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2024/04/Riesgo-en-el-embarazo.png",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/e5bfdbc42649.png"
+    },
+    {
+      "icon_id": "0b55a7d0c28f",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "home": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/interes-personas.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/0b55a7d0c28f.png"
+    },
+    {
+      "icon_id": "640364cfb5d9",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "home": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/centros.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/640364cfb5d9.png"
+    },
+    {
+      "icon_id": "df87ca57c17a",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "home": 1
+      },
+      "sample_locations": [
+        {
+          "page": "home",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2022/11/notification_important_48dp.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/df87ca57c17a.png"
+    },
+    {
+      "icon_id": "d7c03ba56e88",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "empresas": 1
+      },
+      "sample_locations": [
+        {
+          "page": "empresas",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2023/03/10_PRL.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/d7c03ba56e88.png"
+    },
+    {
+      "icon_id": "c1e3a264f4d6",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "empresas": 1
+      },
+      "sample_locations": [
+        {
+          "page": "empresas",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/8_botiquines.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/c1e3a264f4d6.png"
+    },
+    {
+      "icon_id": "4d34216114d4",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "empresas": 1
+      },
+      "sample_locations": [
+        {
+          "page": "empresas",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2022/11/agriculture_48dp.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/4d34216114d4.png"
+    },
+    {
+      "icon_id": "3be3c0572b53",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "empresas": 1
+      },
+      "sample_locations": [
+        {
+          "page": "empresas",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2022/11/phishing_48dp.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/3be3c0572b53.png"
+    },
+    {
+      "icon_id": "3ce2b8d14a38",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "empresas": 1
+      },
+      "sample_locations": [
+        {
+          "page": "empresas",
+          "context": "card",
+          "selector": "img.icon"
+        }
+      ],
+      "size": {
+        "w": 80,
+        "h": 80
+      },
+      "color_hint": null,
+      "className": "icon",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2022/11/front_loader_48dp.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/3ce2b8d14a38.png"
+    },
+    {
+      "icon_id": "48c5eee8d35c",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "servicios": 1
+      },
+      "sample_locations": [
+        {
+          "page": "servicios",
+          "context": "content",
+          "selector": "img.wp-image-1388"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-1388",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/phone_white.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/48c5eee8d35c.png"
+    },
+    {
+      "icon_id": "bcad28d086b6",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "servicios": 1
+      },
+      "sample_locations": [
+        {
+          "page": "servicios",
+          "context": "content",
+          "selector": "img.wp-image-1376"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-1376",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/email_white.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/bcad28d086b6.png"
+    },
+    {
+      "icon_id": "60e7fc0e822e",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "servicios": 1
+      },
+      "sample_locations": [
+        {
+          "page": "servicios",
+          "context": "content",
+          "selector": "img.wp-image-12511"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-12511",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2022/12/public_white.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/60e7fc0e822e.png"
+    },
+    {
+      "icon_id": "ea3837c506d8",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "servicios": 1
+      },
+      "sample_locations": [
+        {
+          "page": "servicios",
+          "context": "link",
+          "selector": "img.wp-image-1873"
+        }
+      ],
+      "size": {
+        "w": 23,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": "wp-image-1873",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/facebook-white.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/ea3837c506d8.png"
+    },
+    {
+      "icon_id": "e06e579e9e8e",
+      "type": "img",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "servicios": 1
+      },
+      "sample_locations": [
+        {
+          "page": "servicios",
+          "context": "link",
+          "selector": "img.wp-image-37113"
+        }
+      ],
+      "size": {
+        "w": 24,
+        "h": 25
+      },
+      "color_hint": null,
+      "className": "wp-image-37113",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2024/02/twitter-white-e1708540670425.png",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/e06e579e9e8e.png"
+    },
+    {
+      "icon_id": "04969736332a",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "servicios": 1
+      },
+      "sample_locations": [
+        {
+          "page": "servicios",
+          "context": "link",
+          "selector": "img.wp-image-1861"
+        }
+      ],
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": "wp-image-1861",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/instagram-white.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/04969736332a.png"
+    },
+    {
+      "icon_id": "dc113c12e30d",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "servicios": 1
+      },
+      "sample_locations": [
+        {
+          "page": "servicios",
+          "context": "link",
+          "selector": "img.wp-image-1879"
+        }
+      ],
+      "size": {
+        "w": 23,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": "wp-image-1879",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/youtube-white.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/dc113c12e30d.png"
+    },
+    {
+      "icon_id": "4207f58faa51",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "red-centros": 1
+      },
+      "sample_locations": [
+        {
+          "page": "red-centros",
+          "context": "content",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "https://www.ibermutua.es/wp-content/themes/ibermutua/img/search.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/4207f58faa51.png"
+    },
+    {
+      "icon_id": "38bf48bf861e",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "red-centros": 1
+      },
+      "sample_locations": [
+        {
+          "page": "red-centros",
+          "context": "content",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "https://www.ibermutua.es/wp-content/themes/ibermutua/img/my_location.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/38bf48bf861e.png"
+    },
+    {
+      "icon_id": "65999b5ecac0",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "red-centros": 1
+      },
+      "sample_locations": [
+        {
+          "page": "red-centros",
+          "context": "content",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "https://www.ibermutua.es/wp-content/themes/ibermutua/img/place_colaborador.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/65999b5ecac0.png"
+    },
+    {
+      "icon_id": "c4ccdc319f43",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "red-centros": 1
+      },
+      "sample_locations": [
+        {
+          "page": "red-centros",
+          "context": "content",
+          "selector": "img"
+        }
+      ],
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": null,
+      "src": "https://www.ibermutua.es/wp-content/themes/ibermutua/img/place_concertado.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/c4ccdc319f43.png"
+    },
+    {
+      "icon_id": "c322904338b7",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "corporativo-quienes-somos": 1
+      },
+      "sample_locations": [
+        {
+          "page": "corporativo-quienes-somos",
+          "context": "hero",
+          "selector": "img.wp-image-2535"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-2535",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/sanitario.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/c322904338b7.png"
+    },
+    {
+      "icon_id": "394a645cc4cb",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "corporativo-quienes-somos": 1
+      },
+      "sample_locations": [
+        {
+          "page": "corporativo-quienes-somos",
+          "context": "hero",
+          "selector": "img.wp-image-1915"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-1915",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/rehabilitacion.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/394a645cc4cb.png"
+    },
+    {
+      "icon_id": "36ed41a449e0",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "tramite-detalle": 1
+      },
+      "sample_locations": [
+        {
+          "page": "tramite-detalle",
+          "context": "content",
+          "selector": "img.wp-image-740"
+        }
+      ],
+      "size": {
+        "w": 24,
+        "h": 24
+      },
+      "color_hint": null,
+      "className": "wp-image-740",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/10/email.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/36ed41a449e0.png"
+    },
+    {
+      "icon_id": "77f37e61ea6e",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "img.wp-image-11801"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-11801",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2022/11/diversity_1_48dp.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/77f37e61ea6e.png"
+    },
+    {
+      "icon_id": "42155a112411",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "img.wp-image-463"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-463",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/10/child_friendly.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/42155a112411.png"
+    },
+    {
+      "icon_id": "de29ea097fb9",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "img.wp-image-11837"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-11837",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2022/11/image_48dp.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/de29ea097fb9.png"
+    },
+    {
+      "icon_id": "3d55db480092",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "img.wp-image-1909"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-1909",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/asistencia-ambulatoria.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/3d55db480092.png"
+    },
+    {
+      "icon_id": "fdc339fd36fe",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "img.wp-image-2716"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-2716",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/respeto.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/fdc339fd36fe.png"
+    },
+    {
+      "icon_id": "190173f8b253",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "img.wp-image-11646"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-11646",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2022/11/bookmark_add_48dp.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/190173f8b253.png"
+    },
+    {
+      "icon_id": "688f52d87584",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "img.wp-image-11825"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-11825",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2022/11/chat_48dp.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/688f52d87584.png"
+    },
+    {
+      "icon_id": "1c41bcc691e4",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "img.wp-image-11795"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-11795",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2022/11/diversity_2_48dp.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/1c41bcc691e4.png"
+    },
+    {
+      "icon_id": "0db11260f117",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "img.wp-image-2734"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-2734",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2021/12/act-innovadora.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/0db11260f117.png"
+    },
+    {
+      "icon_id": "d55b6671b43c",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "img.wp-image-11640"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-11640",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2022/11/balance_48dp.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/d55b6671b43c.png"
+    },
+    {
+      "icon_id": "901b7c349543",
+      "type": "img-svg",
+      "occurrences_total": 1,
+      "pages_breakdown": {
+        "microsite-trabaja": 1
+      },
+      "sample_locations": [
+        {
+          "page": "microsite-trabaja",
+          "context": "content",
+          "selector": "img.wp-image-11849"
+        }
+      ],
+      "size": {
+        "w": 40,
+        "h": 40
+      },
+      "color_hint": null,
+      "className": "wp-image-11849",
+      "src": "https://www.ibermutua.es/wp-content/uploads/2022/11/nature_people_48dp.svg",
+      "spriteRef": null,
+      "ariaLabel": null,
+      "titleText": null,
+      "pseudoContent": null,
+      "asset_path_png": "assets/icons/901b7c349543.png"
+    }
+  ]
+}

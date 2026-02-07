@@ -1,0 +1,1652 @@
+{
+  "generated": "2026-02-07T17:00:23.760Z",
+  "total_nodes_analyzed": 1359,
+  "pages_analyzed": 12,
+  "families": [
+    {
+      "family": "Noto Sans",
+      "count": 1324,
+      "pages": 12,
+      "page_list": [
+        "home",
+        "empresas",
+        "servicios",
+        "servicio-detalle",
+        "red-centros",
+        "formularios",
+        "noticias-listado",
+        "noticia-detalle",
+        "corporativo-quienes-somos",
+        "faqs",
+        "tramite-detalle",
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "count": 24,
+      "pages": 1,
+      "page_list": [
+        "microsite-trabaja"
+      ]
+    },
+    {
+      "family": "Helvetica Neue, Arial, Helvetica, sans-serif",
+      "count": 7,
+      "pages": 1,
+      "page_list": [
+        "red-centros"
+      ]
+    },
+    {
+      "family": "Lucida Console, Monaco, monospace",
+      "count": 4,
+      "pages": 1,
+      "page_list": [
+        "red-centros"
+      ]
+    }
+  ],
+  "scale": [
+    {
+      "size_px": 42,
+      "count_total": 1,
+      "typical_uses": [
+        "H2 hero-subtitle"
+      ],
+      "styles": [
+        {
+          "fontWeight": "600",
+          "fontFamily": "Noto Sans",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "size_px": 40,
+      "count_total": 1,
+      "typical_uses": [
+        "H1 hero"
+      ],
+      "styles": [
+        {
+          "fontWeight": "500",
+          "fontFamily": "Noto Sans",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "size_px": 36,
+      "count_total": 3,
+      "typical_uses": [
+        "H1 hero",
+        "H1 page-title",
+        "H2 hero-subtitle"
+      ],
+      "styles": [
+        {
+          "fontWeight": "500",
+          "fontFamily": "Noto Sans",
+          "count": 2
+        },
+        {
+          "fontWeight": "600",
+          "fontFamily": "Noto Sans",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "size_px": 34,
+      "count_total": 2,
+      "typical_uses": [
+        "H2 hero-subtitle",
+        "H2 section-title"
+      ],
+      "styles": [
+        {
+          "fontWeight": "600",
+          "fontFamily": "Noto Sans",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "size_px": 32,
+      "count_total": 8,
+      "typical_uses": [
+        "H1 hero"
+      ],
+      "styles": [
+        {
+          "fontWeight": "500",
+          "fontFamily": "Noto Sans",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "size_px": 29,
+      "count_total": 5,
+      "typical_uses": [
+        "H4 subheading"
+      ],
+      "styles": [
+        {
+          "fontWeight": "600",
+          "fontFamily": "Noto Sans",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "size_px": 28,
+      "count_total": 10,
+      "typical_uses": [
+        "H2 section-title",
+        "H1 hero"
+      ],
+      "styles": [
+        {
+          "fontWeight": "500",
+          "fontFamily": "Noto Sans",
+          "count": 8
+        },
+        {
+          "fontWeight": "600",
+          "fontFamily": "Noto Sans",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "size_px": 24,
+      "count_total": 59,
+      "typical_uses": [
+        "H2 section-title",
+        "H2 hero-subtitle",
+        "a link",
+        "H1 page-title",
+        "blockquote"
+      ],
+      "styles": [
+        {
+          "fontWeight": "600",
+          "fontFamily": "Noto Sans",
+          "count": 57
+        },
+        {
+          "fontWeight": "400",
+          "fontFamily": "Noto Sans",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "size_px": 22,
+      "count_total": 4,
+      "typical_uses": [
+        "a link",
+        "span inline"
+      ],
+      "styles": [
+        {
+          "fontWeight": "700",
+          "fontFamily": "Lucida Console",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "size_px": 20,
+      "count_total": 42,
+      "typical_uses": [
+        "H3 subsection",
+        "a nav-link",
+        "span nav",
+        "H2 section-title",
+        "H2 hero-subtitle"
+      ],
+      "styles": [
+        {
+          "fontWeight": "600",
+          "fontFamily": "Noto Sans",
+          "count": 33
+        },
+        {
+          "fontWeight": "400",
+          "fontFamily": "Noto Sans",
+          "count": 3
+        },
+        {
+          "fontWeight": "700",
+          "fontFamily": "Noto Sans",
+          "count": 3
+        },
+        {
+          "fontWeight": "300",
+          "fontFamily": "Noto Sans",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "size_px": 18,
+      "count_total": 2,
+      "typical_uses": [
+        "strong emphasis"
+      ],
+      "styles": [
+        {
+          "fontWeight": "500",
+          "fontFamily": "Noto Sans",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "size_px": 16,
+      "count_total": 578,
+      "typical_uses": [
+        "a card-link",
+        "li list-item",
+        "a link",
+        "p body-text",
+        "p hero-description"
+      ],
+      "styles": [
+        {
+          "fontWeight": "400",
+          "fontFamily": "Noto Sans",
+          "count": 499
+        },
+        {
+          "fontWeight": "600",
+          "fontFamily": "Noto Sans",
+          "count": 25
+        },
+        {
+          "fontWeight": "500",
+          "fontFamily": "Noto Sans",
+          "count": 21
+        },
+        {
+          "fontWeight": "700",
+          "fontFamily": "Noto Sans",
+          "count": 14
+        },
+        {
+          "fontWeight": "500",
+          "fontFamily": "Noto Sans",
+          "count": 11
+        },
+        {
+          "fontWeight": "400",
+          "fontFamily": "Noto Sans",
+          "count": 2
+        },
+        {
+          "fontWeight": "400",
+          "fontFamily": "Poppins",
+          "count": 2
+        },
+        {
+          "fontWeight": "500",
+          "fontFamily": "Poppins",
+          "count": 2
+        },
+        {
+          "fontWeight": "700",
+          "fontFamily": "Noto Sans",
+          "count": 1
+        },
+        {
+          "fontWeight": "400",
+          "fontFamily": "Noto Sans",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "size_px": 14,
+      "count_total": 616,
+      "typical_uses": [
+        "a nav-link",
+        "li nav-item",
+        "a link",
+        "p body-text",
+        "label"
+      ],
+      "styles": [
+        {
+          "fontWeight": "400",
+          "fontFamily": "Noto Sans",
+          "count": 192
+        },
+        {
+          "fontWeight": "400",
+          "fontFamily": "Noto Sans",
+          "count": 121
+        },
+        {
+          "fontWeight": "400",
+          "fontFamily": "Noto Sans",
+          "count": 121
+        },
+        {
+          "fontWeight": "400",
+          "fontFamily": "Noto Sans",
+          "count": 66
+        },
+        {
+          "fontWeight": "600",
+          "fontFamily": "Noto Sans",
+          "count": 48
+        },
+        {
+          "fontWeight": "500",
+          "fontFamily": "Noto Sans",
+          "count": 34
+        },
+        {
+          "fontWeight": "500",
+          "fontFamily": "Noto Sans",
+          "count": 19
+        },
+        {
+          "fontWeight": "600",
+          "fontFamily": "Poppins",
+          "count": 10
+        },
+        {
+          "fontWeight": "600",
+          "fontFamily": "Noto Sans",
+          "count": 4
+        },
+        {
+          "fontWeight": "500",
+          "fontFamily": "Noto Sans",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "size_px": 13,
+      "count_total": 2,
+      "typical_uses": [
+        "p hero-description"
+      ],
+      "styles": [
+        {
+          "fontWeight": "300",
+          "fontFamily": "Noto Sans",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "size_px": 12,
+      "count_total": 13,
+      "typical_uses": [
+        "span inline",
+        "a link"
+      ],
+      "styles": [
+        {
+          "fontWeight": "700",
+          "fontFamily": "Helvetica Neue",
+          "count": 7
+        },
+        {
+          "fontWeight": "400",
+          "fontFamily": "Noto Sans",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "size_px": 11,
+      "count_total": 10,
+      "typical_uses": [
+        "a button-link"
+      ],
+      "styles": [
+        {
+          "fontWeight": "600",
+          "fontFamily": "Poppins",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "size_px": 8,
+      "count_total": 1,
+      "typical_uses": [
+        "a link"
+      ],
+      "styles": [
+        {
+          "fontWeight": "400",
+          "fontFamily": "Noto Sans",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "size_px": 0,
+      "count_total": 2,
+      "typical_uses": [
+        "button"
+      ],
+      "styles": [
+        {
+          "fontWeight": "500",
+          "fontFamily": "Noto Sans",
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "top_styles": [
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "lineHeight": 22,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 499,
+      "pages": 12,
+      "typical_uses": [
+        "a card-link",
+        "li list-item",
+        "p body-text",
+        "a link",
+        "p hero-description"
+      ],
+      "examples": [
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.skip-link.screen-reader-text",
+          "text": "Ir al contenido"
+        },
+        {
+          "page": "home",
+          "tag": "p",
+          "role": "p hero-description",
+          "selector": "p.description",
+          "text": "Renovamos nuestra actitud y atención cada día.Reforzamos nue"
+        },
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a.title-content",
+          "text": "Asociarse, adherirse y colaborar con nosotros"
+        },
+        {
+          "page": "home",
+          "tag": "label",
+          "role": "label",
+          "selector": "label.screen-reader-text",
+          "text": "Provincia o Código Postal"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "lineHeight": 18,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 192,
+      "pages": 12,
+      "typical_uses": [
+        "li nav-item",
+        "a nav-link",
+        "p footer-text"
+      ],
+      "examples": [
+        {
+          "page": "home",
+          "tag": "p",
+          "role": "p footer-text",
+          "selector": "p",
+          "text": "© Ibermutua, Mutua Colaboradora con la Seguridad Social nº 2"
+        },
+        {
+          "page": "home",
+          "tag": "p",
+          "role": "p footer-text",
+          "selector": "p",
+          "text": "Todos los derechos reservados"
+        },
+        {
+          "page": "home",
+          "tag": "li",
+          "role": "li nav-item",
+          "selector": "li.menu-item.menu-item-type-post_type",
+          "text": "Condiciones de uso"
+        },
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a",
+          "text": "Condiciones de uso"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "lineHeight": 22,
+      "letterSpacing": "-0.28px",
+      "textTransform": null,
+      "fontStyle": "italic",
+      "count": 121,
+      "pages": 12,
+      "typical_uses": [
+        "li nav-item",
+        "a nav-link",
+        "a link",
+        "span nav",
+        "p body-text"
+      ],
+      "examples": [
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a",
+          "text": "900 23 33 33 - 24h."
+        },
+        {
+          "page": "home",
+          "tag": "li",
+          "role": "li nav-item",
+          "selector": "li.title.menu-added",
+          "text": "Atención clientes Centro de ayudaConoce y accede a todos nue"
+        },
+        {
+          "page": "home",
+          "tag": "li",
+          "role": "li nav-item",
+          "selector": "li.title.menu-item",
+          "text": "Preguntas frecuentes"
+        },
+        {
+          "page": "home",
+          "tag": "li",
+          "role": "li nav-item",
+          "selector": "li.title.menu-item",
+          "text": "Contacto web"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "lineHeight": 21,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 121,
+      "pages": 12,
+      "typical_uses": [
+        "li nav-item",
+        "a link",
+        "a nav-link"
+      ],
+      "examples": [
+        {
+          "page": "home",
+          "tag": "li",
+          "role": "li nav-item",
+          "selector": "li.menu-item.menu-item-type-post_type",
+          "text": "Empresas"
+        },
+        {
+          "page": "home",
+          "tag": "li",
+          "role": "li nav-item",
+          "selector": "li.menu-item.menu-item-type-post_type",
+          "text": "Trabajadores"
+        },
+        {
+          "page": "home",
+          "tag": "li",
+          "role": "li nav-item",
+          "selector": "li.menu-item.menu-item-type-post_type",
+          "text": "Autónomos"
+        },
+        {
+          "page": "home",
+          "tag": "li",
+          "role": "li nav-item",
+          "selector": "li.menu-item.menu-item-type-post_type",
+          "text": "Asesorías"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 14,
+      "fontWeight": "400",
+      "lineHeight": 14,
+      "letterSpacing": "-0.28px",
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 66,
+      "pages": 12,
+      "typical_uses": [
+        "a nav-link",
+        "label"
+      ],
+      "examples": [
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a",
+          "text": "Atención clientes"
+        },
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a",
+          "text": "Preguntas frecuentes"
+        },
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a",
+          "text": "Contacto web"
+        },
+        {
+          "page": "empresas",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a",
+          "text": "Atención clientes"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 24,
+      "fontWeight": "600",
+      "lineHeight": 31,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 57,
+      "pages": 9,
+      "typical_uses": [
+        "H2 section-title",
+        "H2 hero-subtitle",
+        "a link",
+        "H1 page-title"
+      ],
+      "examples": [
+        {
+          "page": "empresas",
+          "tag": "h2",
+          "role": "H2 hero-subtitle",
+          "selector": "h2.wp-block-heading.has-text-align-center",
+          "text": "Empresas de salud y bienestar"
+        },
+        {
+          "page": "empresas",
+          "tag": "h2",
+          "role": "H2 section-title",
+          "selector": "h2.wp-block-heading.has-text-align-center",
+          "text": "Regímenes y sistemas especiales"
+        },
+        {
+          "page": "empresas",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a",
+          "text": "Regímenes y sistemas especiales"
+        },
+        {
+          "page": "servicios",
+          "tag": "h2",
+          "role": "H2 section-title",
+          "selector": "h2.wp-block-heading",
+          "text": "Ibermutua digital"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 14,
+      "fontWeight": "600",
+      "lineHeight": 21,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 48,
+      "pages": 12,
+      "typical_uses": [
+        "a nav-link"
+      ],
+      "examples": [
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a",
+          "text": "Empresas"
+        },
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a",
+          "text": "Trabajadores"
+        },
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a",
+          "text": "Autónomos"
+        },
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a",
+          "text": "Asesorías"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 14,
+      "fontWeight": "500",
+      "lineHeight": 13,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 34,
+      "pages": 12,
+      "typical_uses": [
+        "a nav-link",
+        "button",
+        "a button-link",
+        "a card-link"
+      ],
+      "examples": [
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a.wp-block-button__link.wp-element-button",
+          "text": "Red de centros"
+        },
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a.wp-block-button__link.wp-element-button",
+          "text": "Ibermutua digital"
+        },
+        {
+          "page": "home",
+          "tag": "button",
+          "role": "button",
+          "selector": "button.btn.search-centros",
+          "text": "Buscar"
+        },
+        {
+          "page": "home",
+          "tag": "a",
+          "role": "a nav-link",
+          "selector": "a.btn-white",
+          "text": "Ir al mapa"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 20,
+      "fontWeight": "600",
+      "lineHeight": 28,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 33,
+      "pages": 7,
+      "typical_uses": [
+        "H3 subsection",
+        "a nav-link",
+        "span nav",
+        "H2 section-title",
+        "H2 hero-subtitle"
+      ],
+      "examples": [
+        {
+          "page": "home",
+          "tag": "h2",
+          "role": "H2 section-title",
+          "selector": "h2.wp-block-heading",
+          "text": "Trámites frecuentes"
+        },
+        {
+          "page": "home",
+          "tag": "h2",
+          "role": "H2 section-title",
+          "selector": "h2.wp-block-heading",
+          "text": "Noticias"
+        },
+        {
+          "page": "home",
+          "tag": "h2",
+          "role": "H2 section-title",
+          "selector": "h2.wp-block-heading",
+          "text": "Convocatorias y agenda"
+        },
+        {
+          "page": "home",
+          "tag": "h2",
+          "role": "H2 hero-subtitle",
+          "selector": "h2.wp-block-heading.has-text-align-center",
+          "text": "Ibermutua en las Comunidades Autónomas"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 16,
+      "fontWeight": "600",
+      "lineHeight": 26,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 25,
+      "pages": 2,
+      "typical_uses": [
+        "li list-item",
+        "a link",
+        "strong emphasis",
+        "H2 section-title",
+        "H5 small-heading"
+      ],
+      "examples": [
+        {
+          "page": "servicio-detalle",
+          "tag": "h5",
+          "role": "H5 small-heading",
+          "selector": "h5.wp-block-heading",
+          "text": "Urgencias"
+        },
+        {
+          "page": "servicio-detalle",
+          "tag": "li",
+          "role": "li list-item",
+          "selector": "li",
+          "text": "Qué es"
+        },
+        {
+          "page": "servicio-detalle",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.h2.toc-link",
+          "text": "Qué es"
+        },
+        {
+          "page": "servicio-detalle",
+          "tag": "li",
+          "role": "li list-item",
+          "selector": "li",
+          "text": "Asistencia sanitaria completa"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "lineHeight": 24,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 21,
+      "pages": 2,
+      "typical_uses": [
+        "H3 subsection",
+        "a link",
+        "span inline"
+      ],
+      "examples": [
+        {
+          "page": "noticias-listado",
+          "tag": "span",
+          "role": "span inline",
+          "selector": "span.page-numbers.current",
+          "text": "1"
+        },
+        {
+          "page": "noticias-listado",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.page-numbers",
+          "text": "2"
+        },
+        {
+          "page": "noticias-listado",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.page-numbers",
+          "text": "3"
+        },
+        {
+          "page": "noticias-listado",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.page-numbers",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 14,
+      "fontWeight": "500",
+      "lineHeight": 21,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 19,
+      "pages": 1,
+      "typical_uses": [
+        "p body-text"
+      ],
+      "examples": [
+        {
+          "page": "servicio-detalle",
+          "tag": "p",
+          "role": "p body-text",
+          "selector": "p",
+          "text": "Asistencia sanitaria completa"
+        },
+        {
+          "page": "servicio-detalle",
+          "tag": "p",
+          "role": "p body-text",
+          "selector": "p",
+          "text": "Tratamiento médico, quirúrgico"
+        },
+        {
+          "page": "servicio-detalle",
+          "tag": "p",
+          "role": "p body-text",
+          "selector": "p",
+          "text": "Prótesis, cirugía reparadora"
+        },
+        {
+          "page": "servicio-detalle",
+          "tag": "p",
+          "role": "p body-text",
+          "selector": "p",
+          "text": "Prescripciones farmacéuticas"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 16,
+      "fontWeight": "700",
+      "lineHeight": 22,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 14,
+      "pages": 5,
+      "typical_uses": [
+        "strong emphasis"
+      ],
+      "examples": [
+        {
+          "page": "servicio-detalle",
+          "tag": "strong",
+          "role": "strong emphasis",
+          "selector": "strong",
+          "text": "asistencia sanitaria completa"
+        },
+        {
+          "page": "servicio-detalle",
+          "tag": "strong",
+          "role": "strong emphasis",
+          "selector": "strong",
+          "text": "Enlaces relacionados:"
+        },
+        {
+          "page": "formularios",
+          "tag": "strong",
+          "role": "strong emphasis",
+          "selector": "strong",
+          "text": "uso del personal de los Centros Médicos"
+        },
+        {
+          "page": "corporativo-quienes-somos",
+          "tag": "strong",
+          "role": "strong emphasis",
+          "selector": "strong",
+          "text": "red asistencial"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 16,
+      "fontWeight": "500",
+      "lineHeight": 16,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 11,
+      "pages": 2,
+      "typical_uses": [
+        "a link",
+        "span inline"
+      ],
+      "examples": [
+        {
+          "page": "servicios",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a",
+          "text": "Saber más"
+        },
+        {
+          "page": "servicios",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a",
+          "text": "Saber más"
+        },
+        {
+          "page": "servicios",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a",
+          "text": "Saber más"
+        },
+        {
+          "page": "servicios",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a",
+          "text": "Saber más"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Poppins",
+      "fontFamily_full": "Poppins",
+      "fontSize": 14,
+      "fontWeight": "600",
+      "lineHeight": 22,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 10,
+      "pages": 1,
+      "typical_uses": [
+        "a link"
+      ],
+      "examples": [
+        {
+          "page": "microsite-trabaja",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.kt-widget4__username.vb-job-title",
+          "text": "Médico/a Asistencial CC Murcia"
+        },
+        {
+          "page": "microsite-trabaja",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.kt-widget4__username.vb-job-title",
+          "text": "Administrativo/a Servicio de Gestión de Infraestructuras Mad"
+        },
+        {
+          "page": "microsite-trabaja",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.kt-widget4__username.vb-job-title",
+          "text": "Médico/a Asistencial Valladolid"
+        },
+        {
+          "page": "microsite-trabaja",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.kt-widget4__username.vb-job-title",
+          "text": "Médico/a Asistencial CP Denia"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Poppins",
+      "fontFamily_full": "Poppins",
+      "fontSize": 11,
+      "fontWeight": "600",
+      "lineHeight": 16,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 10,
+      "pages": 1,
+      "typical_uses": [
+        "a button-link"
+      ],
+      "examples": [
+        {
+          "page": "microsite-trabaja",
+          "tag": "a",
+          "role": "a button-link",
+          "selector": "a.btn.btn-bold",
+          "text": "Aplicar"
+        },
+        {
+          "page": "microsite-trabaja",
+          "tag": "a",
+          "role": "a button-link",
+          "selector": "a.btn.btn-bold",
+          "text": "Aplicar"
+        },
+        {
+          "page": "microsite-trabaja",
+          "tag": "a",
+          "role": "a button-link",
+          "selector": "a.btn.btn-bold",
+          "text": "Aplicar"
+        },
+        {
+          "page": "microsite-trabaja",
+          "tag": "a",
+          "role": "a button-link",
+          "selector": "a.btn.btn-bold",
+          "text": "Aplicar"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 32,
+      "fontWeight": "500",
+      "lineHeight": 42,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 8,
+      "pages": 8,
+      "typical_uses": [
+        "H1 hero"
+      ],
+      "examples": [
+        {
+          "page": "home",
+          "tag": "h1",
+          "role": "H1 hero",
+          "selector": "h1.entry-title",
+          "text": "Dedicados a la protección de empresas y personas"
+        },
+        {
+          "page": "empresas",
+          "tag": "h1",
+          "role": "H1 hero",
+          "selector": "h1.entry-title",
+          "text": "Dedicados a la protección de empresas"
+        },
+        {
+          "page": "servicios",
+          "tag": "h1",
+          "role": "H1 hero",
+          "selector": "h1.entry-title",
+          "text": "Nuestros servicios"
+        },
+        {
+          "page": "formularios",
+          "tag": "h1",
+          "role": "H1 hero",
+          "selector": "h1.entry-title",
+          "text": "Formularios Ibermutua"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 28,
+      "fontWeight": "500",
+      "lineHeight": 39,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 8,
+      "pages": 3,
+      "typical_uses": [
+        "H2 section-title",
+        "H1 hero"
+      ],
+      "examples": [
+        {
+          "page": "servicios",
+          "tag": "h2",
+          "role": "H2 section-title",
+          "selector": "h2.wp-block-heading",
+          "text": "Coberturas"
+        },
+        {
+          "page": "servicios",
+          "tag": "h2",
+          "role": "H2 section-title",
+          "selector": "h2.wp-block-heading",
+          "text": "Asistencia sanitaria en accidente de trabajo y enfermedad pr"
+        },
+        {
+          "page": "servicios",
+          "tag": "h2",
+          "role": "H2 section-title",
+          "selector": "h2.wp-block-heading",
+          "text": "Prevención de riesgos"
+        },
+        {
+          "page": "servicios",
+          "tag": "h2",
+          "role": "H2 section-title",
+          "selector": "h2.wp-block-heading",
+          "text": "Prestaciones económicas"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Helvetica Neue",
+      "fontFamily_full": "Helvetica Neue, Arial, Helvetica, sans-serif",
+      "fontSize": 12,
+      "fontWeight": "700",
+      "lineHeight": 12,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 7,
+      "pages": 1,
+      "typical_uses": [
+        "span inline"
+      ],
+      "examples": [
+        {
+          "page": "red-centros",
+          "tag": "span",
+          "role": "span inline",
+          "selector": "span",
+          "text": "4"
+        },
+        {
+          "page": "red-centros",
+          "tag": "span",
+          "role": "span inline",
+          "selector": "span",
+          "text": "2"
+        },
+        {
+          "page": "red-centros",
+          "tag": "span",
+          "role": "span inline",
+          "selector": "span",
+          "text": "11"
+        },
+        {
+          "page": "red-centros",
+          "tag": "span",
+          "role": "span inline",
+          "selector": "span",
+          "text": "26"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 12,
+      "fontWeight": "400",
+      "lineHeight": 20,
+      "letterSpacing": "-0.24px",
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 6,
+      "pages": 2,
+      "typical_uses": [
+        "a link"
+      ],
+      "examples": [
+        {
+          "page": "noticias-listado",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.category-link",
+          "text": "Corporativo"
+        },
+        {
+          "page": "noticias-listado",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.category-link",
+          "text": "Corporativo"
+        },
+        {
+          "page": "noticias-listado",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.category-link",
+          "text": "Corporativo"
+        },
+        {
+          "page": "noticia-detalle",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.category-link",
+          "text": "Corporativo"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 29,
+      "fontWeight": "600",
+      "lineHeight": 46,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 5,
+      "pages": 1,
+      "typical_uses": [
+        "H4 subheading"
+      ],
+      "examples": [
+        {
+          "page": "formularios",
+          "tag": "h4",
+          "role": "H4 subheading",
+          "selector": "h4.wp-block-heading.has-text-color",
+          "text": "Todos los formularios"
+        },
+        {
+          "page": "formularios",
+          "tag": "h4",
+          "role": "H4 subheading",
+          "selector": "h4.wp-block-heading.has-text-color",
+          "text": "Formularios para Empresas:"
+        },
+        {
+          "page": "formularios",
+          "tag": "h4",
+          "role": "H4 subheading",
+          "selector": "h4.wp-block-heading.has-text-color",
+          "text": "Formularios para Trabajadores:"
+        },
+        {
+          "page": "formularios",
+          "tag": "h4",
+          "role": "H4 subheading",
+          "selector": "h4.wp-block-heading.has-text-color",
+          "text": "Todos los formularios:"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 14,
+      "fontWeight": "600",
+      "lineHeight": 22,
+      "letterSpacing": "-0.28px",
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 4,
+      "pages": 2,
+      "typical_uses": [
+        "a link",
+        "H6 micro-heading"
+      ],
+      "examples": [
+        {
+          "page": "servicio-detalle",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a",
+          "text": "900 23 33 33 - 24h."
+        },
+        {
+          "page": "servicio-detalle",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a",
+          "text": "+34 91 744 51 01"
+        },
+        {
+          "page": "tramite-detalle",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a",
+          "text": "900 23 33 33 - 24h."
+        },
+        {
+          "page": "tramite-detalle",
+          "tag": "h6",
+          "role": "H6 micro-heading",
+          "selector": "h6.wp-block-heading",
+          "text": "Escríbenos"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Lucida Console",
+      "fontFamily_full": "Lucida Console, Monaco, monospace",
+      "fontSize": 22,
+      "fontWeight": "700",
+      "lineHeight": 30,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 4,
+      "pages": 1,
+      "typical_uses": [
+        "a link",
+        "span inline"
+      ],
+      "examples": [
+        {
+          "page": "red-centros",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.leaflet-control-zoom-in",
+          "text": "+"
+        },
+        {
+          "page": "red-centros",
+          "tag": "span",
+          "role": "span inline",
+          "selector": "span",
+          "text": "+"
+        },
+        {
+          "page": "red-centros",
+          "tag": "a",
+          "role": "a link",
+          "selector": "a.leaflet-control-zoom-out",
+          "text": "−"
+        },
+        {
+          "page": "red-centros",
+          "tag": "span",
+          "role": "span inline",
+          "selector": "span",
+          "text": "−"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 20,
+      "fontWeight": "400",
+      "lineHeight": 30,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 3,
+      "pages": 1,
+      "typical_uses": [
+        "H2 hero-subtitle"
+      ],
+      "examples": [
+        {
+          "page": "microsite-trabaja",
+          "tag": "h2",
+          "role": "H2 hero-subtitle",
+          "selector": "h2.wp-block-heading.ib-nomarginbottom",
+          "text": "María Perdices Fernández"
+        },
+        {
+          "page": "microsite-trabaja",
+          "tag": "h2",
+          "role": "H2 hero-subtitle",
+          "selector": "h2.wp-block-heading.ib-nomarginbottom",
+          "text": "Antonio José García Hernández"
+        },
+        {
+          "page": "microsite-trabaja",
+          "tag": "h2",
+          "role": "H2 hero-subtitle",
+          "selector": "h2.wp-block-heading.ib-nomarginbottom",
+          "text": "Patricia Veiga Rey"
+        }
+      ]
+    },
+    {
+      "fontFamily": "Noto Sans",
+      "fontFamily_full": "Noto Sans",
+      "fontSize": 20,
+      "fontWeight": "700",
+      "lineHeight": 30,
+      "letterSpacing": null,
+      "textTransform": null,
+      "fontStyle": null,
+      "count": 3,
+      "pages": 1,
+      "typical_uses": [
+        "strong emphasis"
+      ],
+      "examples": [
+        {
+          "page": "microsite-trabaja",
+          "tag": "strong",
+          "role": "strong emphasis",
+          "selector": "strong",
+          "text": "María Perdices Fernández"
+        },
+        {
+          "page": "microsite-trabaja",
+          "tag": "strong",
+          "role": "strong emphasis",
+          "selector": "strong",
+          "text": "Antonio José García Hernández"
+        },
+        {
+          "page": "microsite-trabaja",
+          "tag": "strong",
+          "role": "strong emphasis",
+          "selector": "strong",
+          "text": "Patricia Veiga Rey"
+        }
+      ]
+    }
+  ],
+  "suggested_scale": {
+    "sizes_px": [
+      11,
+      12,
+      14,
+      16,
+      20,
+      24,
+      28,
+      32
+    ],
+    "note": "Based on frequency analysis across 12 pages, snapped to standard typographic increments.",
+    "mapping": [
+      {
+        "size_px": 11,
+        "primary_use": "span inline",
+        "count": 13
+      },
+      {
+        "size_px": 12,
+        "primary_use": "p hero-description",
+        "count": 2
+      },
+      {
+        "size_px": 14,
+        "primary_use": "a nav-link",
+        "count": 616
+      },
+      {
+        "size_px": 16,
+        "primary_use": "a card-link",
+        "count": 578
+      },
+      {
+        "size_px": 20,
+        "primary_use": "H3 subsection",
+        "count": 42
+      },
+      {
+        "size_px": 24,
+        "primary_use": "H2 section-title",
+        "count": 59
+      },
+      {
+        "size_px": 28,
+        "primary_use": "H4 subheading",
+        "count": 5
+      },
+      {
+        "size_px": 32,
+        "primary_use": "H1 hero",
+        "count": 8
+      }
+    ]
+  }
+}
