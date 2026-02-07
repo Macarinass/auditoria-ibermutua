@@ -72,8 +72,8 @@ mcp-ibermutua/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/Macarinass/mcp-ibermutua.git
-cd mcp-ibermutua
+git clone https://github.com/Macarinass/auditoria-ibermutua.git
+cd auditoria-ibermutua
 
 # 2. Instalar Playwright y el navegador Chromium
 npm init -y
